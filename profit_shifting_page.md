@@ -31,12 +31,19 @@ Explore the country-year and industry-year estimates in the interactive tool bel
 
 ```html
 <iframe src="https://fntel7.github.io/profit-shifting-explorer/"
-        width="100%" height="800" frameborder="0"
+        width="100%" height="1000" frameborder="0"
         style="border: 0;"></iframe>
 ```
 
-In Google Sites: *Insert → Embed → Embed code*, then paste. Resize the section so
-the iframe has at least ~800 px of vertical space.
+**Important:**
+1. In Google Sites, after pasting in the embed code, **drag the bottom
+   handle of the embed block down** until it is about 1000 px tall. The
+   `height="1000"` attribute sets the iframe size, but the block container
+   in Sites is sized separately — if the container is shorter, the iframe
+   gets clipped.
+2. Embeds are **not interactive in the Sites editor** — they show a static
+   placeholder. To test the map/controls, click **Preview** (eye icon,
+   top-right) or **Publish** and open the live page.
 
 ---
 

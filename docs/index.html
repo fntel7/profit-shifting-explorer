@@ -28,19 +28,19 @@
     background: var(--bg);
     line-height: 1.45;
   }
-  .wrap { max-width: 1200px; margin: 0 auto; padding: 18px 20px 36px; }
+  .wrap { max-width: 1200px; margin: 0 auto; padding: 8px 16px 10px; }
   header h1 {
-    font-size: 22px; margin: 0 0 4px; color: var(--primary); letter-spacing: -0.01em;
+    font-size: 20px; margin: 0 0 2px; color: var(--primary); letter-spacing: -0.01em;
   }
   header p.subtitle {
-    margin: 0 0 14px; color: var(--muted); font-size: 14px;
+    margin: 0 0 10px; color: var(--muted); font-size: 13px;
   }
 
   /* Tabs */
-  .tabs { display: flex; gap: 2px; border-bottom: 2px solid var(--border); margin-bottom: 18px; flex-wrap: wrap; }
+  .tabs { display: flex; gap: 2px; border-bottom: 2px solid var(--border); margin-bottom: 10px; flex-wrap: wrap; }
   .tab-btn {
     background: transparent; border: 0; border-bottom: 2px solid transparent;
-    padding: 10px 16px; font-size: 14px; font-weight: 500; color: var(--muted);
+    padding: 8px 14px; font-size: 14px; font-weight: 500; color: var(--muted);
     cursor: pointer; margin-bottom: -2px; font-family: inherit;
   }
   .tab-btn:hover { color: var(--primary); }
@@ -52,9 +52,9 @@
 
   /* Controls */
   .controls {
-    display: flex; gap: 16px; flex-wrap: wrap; align-items: center;
-    padding: 12px 14px; background: var(--bg-soft); border: 1px solid var(--border);
-    border-radius: 6px; margin-bottom: 14px;
+    display: flex; gap: 12px; flex-wrap: wrap; align-items: center;
+    padding: 8px 12px; background: var(--bg-soft); border: 1px solid var(--border);
+    border-radius: 6px; margin-bottom: 8px;
   }
   .control { display: flex; flex-direction: column; gap: 4px; min-width: 180px; }
   .control label { font-size: 12px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.03em; }
@@ -72,29 +72,29 @@
 
   /* Info box */
   .info {
-    padding: 10px 12px; background: var(--bg-info); border-left: 3px solid var(--accent);
-    font-size: 13px; color: var(--ink); margin-bottom: 14px; border-radius: 3px;
+    padding: 8px 10px; background: var(--bg-info); border-left: 3px solid var(--accent);
+    font-size: 12.5px; line-height: 1.4; color: var(--ink); margin-bottom: 8px; border-radius: 3px;
   }
   .info strong { color: var(--primary); }
 
   /* Chart */
-  .chart { width: 100%; min-height: 520px; border: 1px solid var(--border); border-radius: 6px; background: white; }
+  .chart { width: 100%; min-height: 440px; border: 1px solid var(--border); border-radius: 6px; background: white; }
 
   /* Status */
-  .status { padding: 14px; text-align: center; color: var(--muted); font-size: 14px; }
+  .status { padding: 6px; text-align: center; color: var(--muted); font-size: 12px; }
   .status.error { color: #b00020; }
 
   /* Footer */
   footer {
-    margin-top: 28px; padding-top: 16px; border-top: 1px solid var(--border);
-    font-size: 12px; color: var(--muted); line-height: 1.55;
+    margin-top: 10px; padding-top: 8px; border-top: 1px solid var(--border);
+    font-size: 11px; color: var(--muted); line-height: 1.4;
   }
-  footer p { margin: 4px 0; }
+  footer p { margin: 2px 0; }
   footer a { color: var(--accent); }
   footer .citation {
     font-family: ui-monospace, "SF Mono", Consolas, monospace;
-    background: var(--bg-soft); padding: 8px 10px; border-radius: 4px;
-    margin: 6px 0; font-size: 11.5px; color: var(--ink);
+    background: var(--bg-soft); padding: 4px 8px; border-radius: 3px;
+    margin: 3px 0; font-size: 10.5px; color: var(--ink);
   }
 
   @media (max-width: 640px) {
@@ -151,7 +151,7 @@
     for the combination are left light grey.
   </div>
 
-  <div id="map-chart" class="chart" style="min-height: 560px;"></div>
+  <div id="map-chart" class="chart" style="min-height: 480px;"></div>
   <div id="map-status" class="status"></div>
 </section>
 
@@ -534,7 +534,7 @@ function initMap() {
         showocean: true, oceancolor: "#ffffff",
         bgcolor: "rgba(0,0,0,0)"
       },
-      margin: { l: 8, r: 8, t: 44, b: 8 },
+      margin: { l: 4, r: 4, t: 36, b: 4 },
       paper_bgcolor: "#ffffff"
     };
 
@@ -593,7 +593,7 @@ function initTimeseries() {
       title: { text: "Profit shifted by GUO · lowest-tax pair, 2009–2020", font: { size: 15 } },
       xaxis: { title: { text: "Year" }, dtick: 1, gridcolor: "#eef1f5" },
       yaxis: { title: { text: "Profit shifted (US$ bn)" }, gridcolor: "#eef1f5", rangemode: "tozero" },
-      margin: { l: 64, r: 20, t: 44, b: 48 },
+      margin: { l: 58, r: 16, t: 36, b: 40 },
       paper_bgcolor: "#ffffff", plot_bgcolor: "#ffffff",
       legend: { orientation: "h", y: -0.22, font: { size: 11 } }
     };
@@ -656,9 +656,9 @@ function initIndustry() {
       },
       xaxis: { title: { text: "Profit shifted (US$ bn)" }, gridcolor: "#eef1f5" },
       yaxis: { automargin: true, tickfont: { size: 11 } },
-      margin: { l: 20, r: 24, t: 44, b: 48 },
+      margin: { l: 18, r: 18, t: 36, b: 40 },
       paper_bgcolor: "#ffffff", plot_bgcolor: "#ffffff",
-      height: Math.max(420, 32 * sorted.length + 140)
+      height: Math.max(360, 28 * sorted.length + 110)
     };
     Plotly.react("ind-chart", [trace], layout, { displaylogo: false, responsive: true });
     setStatus(document.getElementById("ind-status"), `${rows.length} rows in ${year}`, false);

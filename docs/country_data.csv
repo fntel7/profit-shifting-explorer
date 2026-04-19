@@ -1,0 +1,5233 @@
+year,guocountry,lowest_tax_country,MNE_profit_shifting
+2015,Angola,Bahamas,0.117
+2018,Angola,Bahamas,0.181
+2016,Angola,Bahamas,0.138
+2017,Angola,Bahamas,0.244
+2017,Argentina,Chile,0.001
+2015,Argentina,Chile,0.711
+2012,Argentina,Chile,0.027
+2013,Argentina,Chile,0.003
+2014,Argentina,Chile,0.714
+2015,Australia,Albania,0.067
+2011,Australia,Albania,0.088
+2017,Australia,Albania,0.091
+2014,Australia,Albania,0.045
+2012,Australia,Albania,0.091
+2010,Australia,Albania,0.072
+2013,Australia,Albania,0.066
+2010,Australia,Bahrain,0.0
+2019,Australia,Bahrain,0.137
+2020,Australia,Bahrain,0.042
+2011,Australia,Bahrain,0.003
+2016,Australia,Bahrain,0.006
+2012,Australia,Bahrain,0.092
+2013,Australia,Bahrain,0.01
+2018,Australia,Bahrain,0.335
+2010,Australia,Bermuda,0.026
+2016,Australia,Bermuda,0.647
+2018,Australia,Bermuda,0.531
+2017,Australia,Bermuda,3.53
+2011,Australia,Bermuda,0.111
+2012,Australia,Bermuda,3.969
+2009,Australia,Bermuda,0.016
+2014,Australia,Bermuda,0.022
+2013,Australia,Bermuda,3.992
+2015,Australia,Bermuda,0.001
+2020,Australia,Bermuda,0.845
+2019,Australia,Bermuda,2.079
+2015,Australia,British Virgin Islands,0.868
+2020,Australia,British Virgin Islands,0.073
+2009,Australia,British Virgin Islands,0.005
+2018,Australia,British Virgin Islands,0.27
+2013,Australia,British Virgin Islands,0.591
+2019,Australia,British Virgin Islands,0.217
+2010,Australia,British Virgin Islands,0.091
+2012,Australia,British Virgin Islands,0.357
+2017,Australia,British Virgin Islands,0.194
+2011,Australia,British Virgin Islands,0.349
+2016,Australia,British Virgin Islands,0.14
+2014,Australia,British Virgin Islands,0.765
+2009,Australia,Bulgaria,0.109
+2011,Australia,Bulgaria,0.301
+2017,Australia,Bulgaria,0.131
+2019,Australia,Bulgaria,0.037
+2013,Australia,Bulgaria,0.224
+2012,Australia,Bulgaria,0.12
+2015,Australia,Bulgaria,0.021
+2014,Australia,Bulgaria,0.04
+2016,Australia,Bulgaria,0.017
+2010,Australia,Bulgaria,0.328
+2010,Australia,Cayman Islands,2.895
+2011,Australia,Cayman Islands,2.41
+2016,Australia,Cayman Islands,0.43
+2014,Australia,Cayman Islands,2.42
+2009,Australia,Cayman Islands,1.709
+2019,Australia,Cayman Islands,0.156
+2015,Australia,Cayman Islands,0.615
+2012,Australia,Cayman Islands,0.059
+2017,Australia,Cayman Islands,0.245
+2013,Australia,Cayman Islands,0.062
+2020,Australia,Cayman Islands,0.842
+2018,Australia,Cayman Islands,1.696
+2015,Australia,Cyprus,0.056
+2010,Australia,Cyprus,0.049
+2017,Australia,Cyprus,0.208
+2009,Australia,Cyprus,0.024
+2011,Australia,Cyprus,0.026
+2019,Australia,Cyprus,0.008
+2018,Australia,Cyprus,0.001
+2012,Australia,Cyprus,0.019
+2014,Australia,Cyprus,0.005
+2016,Australia,Cyprus,0.1
+2013,Australia,Cyprus,0.029
+2020,Australia,Cyprus,0.003
+2014,Australia,Hong Kong,0.476
+2009,Australia,Hong Kong,0.169
+2019,Australia,Hong Kong,1.309
+2020,Australia,Hong Kong,0.62
+2010,Australia,Hong Kong,0.241
+2016,Australia,Hong Kong,0.758
+2012,Australia,Hong Kong,0.293
+2013,Australia,Hong Kong,0.454
+2018,Australia,Hong Kong,0.231
+2011,Australia,Hong Kong,0.311
+2017,Australia,Hong Kong,0.44
+2015,Australia,Hong Kong,0.673
+2020,Australia,Hungary,0.354
+2019,Australia,Hungary,0.018
+2016,Australia,Hungary,0.056
+2017,Australia,Hungary,0.581
+2009,Australia,Hungary,0.005
+2018,Australia,Hungary,0.335
+2019,Australia,Ireland,0.195
+2010,Australia,Ireland,0.611
+2017,Australia,Ireland,0.715
+2014,Australia,Ireland,0.594
+2015,Australia,Ireland,0.609
+2018,Australia,Ireland,0.233
+2011,Australia,Ireland,0.412
+2013,Australia,Ireland,0.885
+2020,Australia,Ireland,0.198
+2009,Australia,Ireland,0.32
+2016,Australia,Ireland,0.324
+2012,Australia,Ireland,0.461
+2013,Australia,Latvia,0.248
+2014,Australia,Latvia,0.343
+2014,Australia,Romania,0.082
+2013,Australia,Romania,0.051
+2012,Australia,Romania,0.114
+2010,Australia,Romania,0.075
+2011,Australia,Romania,0.277
+2015,Australia,Romania,0.102
+2009,Australia,Romania,0.009
+2017,Australia,Singapore,0.111
+2016,Australia,Singapore,0.13
+2018,Australia,Singapore,0.247
+2020,Australia,Singapore,0.068
+2014,Australia,Singapore,0.196
+2012,Australia,Singapore,0.404
+2011,Australia,Singapore,0.226
+2009,Australia,Singapore,0.21
+2013,Australia,Singapore,0.244
+2015,Australia,Singapore,0.039
+2010,Australia,Singapore,1.053
+2019,Australia,Singapore,0.064
+2010,Australia,United Arab Emirates,0.023
+2013,Australia,United Arab Emirates,0.133
+2014,Australia,United Arab Emirates,0.206
+2019,Australia,United Arab Emirates,0.654
+2009,Australia,United Arab Emirates,0.044
+2016,Australia,United Arab Emirates,0.428
+2012,Australia,United Arab Emirates,0.11
+2020,Australia,United Arab Emirates,0.225
+2018,Australia,United Arab Emirates,0.339
+2011,Australia,United Arab Emirates,0.115
+2017,Australia,United Arab Emirates,0.409
+2015,Australia,United Arab Emirates,0.411
+2020,Australia,United Kingdom,0.069
+2012,Australia,United Kingdom,0.025
+2019,Australia,United Kingdom,0.12
+2016,Australia,United Kingdom,0.213
+2013,Australia,United Kingdom,0.136
+2011,Australia,United Kingdom,0.03
+2018,Australia,United Kingdom,0.101
+2010,Australia,United Kingdom,0.024
+2015,Australia,United Kingdom,0.068
+2017,Australia,United Kingdom,0.166
+2009,Australia,United Kingdom,0.043
+2014,Australia,United Kingdom,0.024
+2009,Australia,Vanuatu,0.51
+2014,Australia,Vanuatu,0.008
+2010,Australia,Vanuatu,0.054
+2015,Australia,Vanuatu,0.057
+2018,Australia,Vanuatu,0.073
+2019,Australia,Vanuatu,0.075
+2020,Australia,Vanuatu,0.017
+2016,Australia,Vanuatu,0.132
+2017,Australia,Vanuatu,0.31
+2013,Austria,Albania,0.002
+2011,Austria,Albania,0.12
+2012,Austria,Albania,0.126
+2009,Austria,Albania,0.094
+2010,Austria,Albania,0.038
+2015,Austria,Albania,0.057
+2016,Austria,Albania,0.077
+2019,Austria,British Virgin Islands,0.038
+2012,Austria,British Virgin Islands,0.614
+2009,Austria,Bulgaria,0.087
+2010,Austria,Bulgaria,0.303
+2012,Austria,Bulgaria,0.249
+2014,Austria,Bulgaria,0.249
+2016,Austria,Bulgaria,0.326
+2020,Austria,Bulgaria,0.124
+2013,Austria,Bulgaria,0.206
+2017,Austria,Bulgaria,0.277
+2018,Austria,Bulgaria,0.15
+2019,Austria,Bulgaria,0.136
+2015,Austria,Bulgaria,0.637
+2011,Austria,Bulgaria,0.238
+2012,Austria,Cayman Islands,0.019
+2016,Austria,Cayman Islands,0.02
+2013,Austria,Cayman Islands,0.414
+2018,Austria,Cayman Islands,0.016
+2017,Austria,Cayman Islands,0.009
+2014,Austria,Cayman Islands,0.167
+2019,Austria,Cayman Islands,0.047
+2015,Austria,Cayman Islands,0.029
+2011,Austria,Cayman Islands,0.444
+2018,Austria,Cyprus,0.0
+2011,Austria,Cyprus,0.028
+2013,Austria,Cyprus,0.025
+2010,Austria,Cyprus,0.065
+2014,Austria,Cyprus,0.083
+2017,Austria,Cyprus,0.001
+2020,Austria,Cyprus,0.0
+2019,Austria,Cyprus,0.001
+2012,Austria,Cyprus,0.098
+2016,Austria,Cyprus,0.156
+2015,Austria,Cyprus,0.103
+2009,Austria,Czechia,0.017
+2011,Austria,Czechia,0.142
+2010,Austria,Czechia,0.061
+2017,Austria,Czechia,0.099
+2013,Austria,Czechia,0.186
+2019,Austria,Czechia,0.05
+2016,Austria,Czechia,0.045
+2014,Austria,Czechia,0.055
+2018,Austria,Czechia,0.052
+2020,Austria,Czechia,0.016
+2012,Austria,Czechia,0.077
+2015,Austria,Czechia,0.041
+2020,Austria,Hong Kong,0.052
+2016,Austria,Hong Kong,0.008
+2014,Austria,Hong Kong,0.547
+2015,Austria,Hong Kong,0.062
+2012,Austria,Hong Kong,0.03
+2019,Austria,Hong Kong,0.033
+2010,Austria,Hong Kong,0.116
+2013,Austria,Hong Kong,0.01
+2009,Austria,Hong Kong,0.005
+2017,Austria,Hong Kong,0.071
+2018,Austria,Hong Kong,0.03
+2011,Austria,Hong Kong,0.048
+2018,Austria,Hungary,0.407
+2020,Austria,Hungary,0.385
+2010,Austria,Hungary,0.016
+2013,Austria,Hungary,0.017
+2014,Austria,Hungary,0.012
+2015,Austria,Hungary,0.013
+2019,Austria,Hungary,0.385
+2012,Austria,Hungary,0.016
+2017,Austria,Hungary,0.94
+2009,Austria,Hungary,0.038
+2011,Austria,Hungary,0.014
+2016,Austria,Hungary,0.018
+2015,Austria,Republic of Moldova,0.006
+2009,Austria,Republic of Moldova,0.196
+2010,Austria,Republic of Moldova,0.47
+2020,Austria,Romania,0.078
+2010,Austria,Romania,0.139
+2015,Austria,Romania,0.185
+2011,Austria,Romania,0.114
+2017,Austria,Romania,0.158
+2019,Austria,Romania,0.102
+2014,Austria,Romania,0.256
+2009,Austria,Romania,0.045
+2013,Austria,Romania,0.253
+2016,Austria,Romania,0.526
+2012,Austria,Romania,0.21
+2018,Austria,Romania,0.128
+2019,Austria,Serbia,0.017
+2016,Austria,Serbia,0.037
+2020,Austria,Serbia,0.028
+2014,Austria,Serbia,0.086
+2009,Austria,Serbia,0.069
+2012,Austria,Serbia,0.011
+2011,Austria,Serbia,0.083
+2013,Austria,Serbia,0.025
+2015,Austria,Serbia,0.032
+2017,Austria,Serbia,0.066
+2018,Austria,Serbia,0.077
+2010,Austria,Serbia,0.218
+2020,Austria,Slovakia,0.034
+2009,Austria,Slovakia,0.085
+2015,Austria,Slovakia,0.036
+2013,Austria,Slovakia,0.024
+2014,Austria,Slovakia,0.032
+2016,Austria,Slovakia,0.037
+2011,Austria,Slovakia,0.055
+2010,Austria,Slovakia,0.078
+2012,Austria,Slovakia,0.072
+2017,Austria,Slovakia,0.03
+2019,Austria,Slovakia,0.038
+2018,Austria,Slovakia,0.036
+2010,Austria,United Arab Emirates,0.102
+2017,Austria,United Arab Emirates,3.378
+2013,Austria,United Arab Emirates,0.199
+2018,Austria,United Arab Emirates,1.316
+2015,Austria,United Arab Emirates,0.263
+2011,Austria,United Arab Emirates,0.258
+2014,Austria,United Arab Emirates,0.243
+2016,Austria,United Arab Emirates,0.322
+2009,Austria,United Arab Emirates,0.168
+2019,Austria,United Arab Emirates,1.019
+2012,Austria,United Arab Emirates,0.155
+2020,Austria,United Arab Emirates,0.67
+2012,Belgium,British Virgin Islands,0.052
+2011,Belgium,British Virgin Islands,0.084
+2010,Belgium,British Virgin Islands,0.041
+2009,Belgium,British Virgin Islands,0.039
+2017,Belgium,British Virgin Islands,3.246
+2016,Belgium,British Virgin Islands,1.11
+2016,Belgium,Bulgaria,0.409
+2019,Belgium,Bulgaria,0.016
+2015,Belgium,Bulgaria,0.524
+2017,Belgium,Bulgaria,0.112
+2018,Belgium,Bulgaria,0.072
+2012,Belgium,Bulgaria,0.241
+2010,Belgium,Bulgaria,0.162
+2013,Belgium,Bulgaria,0.294
+2011,Belgium,Bulgaria,0.248
+2014,Belgium,Bulgaria,0.223
+2009,Belgium,Bulgaria,0.258
+2020,Belgium,Bulgaria,0.031
+2011,Belgium,Cayman Islands,1.893
+2015,Belgium,Cayman Islands,3.433
+2019,Belgium,Cayman Islands,1.785
+2014,Belgium,Cayman Islands,3.345
+2010,Belgium,Cayman Islands,1.844
+2018,Belgium,Cayman Islands,1.09
+2012,Belgium,Cayman Islands,2.308
+2013,Belgium,Cayman Islands,3.697
+2009,Belgium,Cayman Islands,1.144
+2018,Belgium,Cyprus,0.009
+2016,Belgium,Cyprus,0.086
+2012,Belgium,Cyprus,0.07
+2020,Belgium,Cyprus,0.0
+2014,Belgium,Cyprus,0.012
+2017,Belgium,Cyprus,0.004
+2010,Belgium,Cyprus,0.301
+2011,Belgium,Cyprus,0.044
+2009,Belgium,Cyprus,0.177
+2015,Belgium,Cyprus,0.079
+2019,Belgium,Cyprus,0.0
+2013,Belgium,Cyprus,0.013
+2015,Belgium,Hong Kong,0.156
+2018,Belgium,Hong Kong,0.058
+2016,Belgium,Hong Kong,0.099
+2019,Belgium,Hong Kong,0.051
+2012,Belgium,Hong Kong,0.067
+2017,Belgium,Hong Kong,0.098
+2014,Belgium,Hong Kong,0.146
+2013,Belgium,Hong Kong,0.129
+2011,Belgium,Hong Kong,0.173
+2009,Belgium,Hong Kong,0.193
+2010,Belgium,Hong Kong,0.287
+2020,Belgium,Hong Kong,0.033
+2012,Belgium,Hungary,0.005
+2014,Belgium,Hungary,0.023
+2009,Belgium,Hungary,0.042
+2018,Belgium,Hungary,0.324
+2016,Belgium,Hungary,0.022
+2020,Belgium,Hungary,0.315
+2011,Belgium,Hungary,0.008
+2010,Belgium,Hungary,0.001
+2013,Belgium,Hungary,0.005
+2015,Belgium,Hungary,0.006
+2017,Belgium,Hungary,0.705
+2019,Belgium,Hungary,0.31
+2019,Belgium,Ireland,0.024
+2017,Belgium,Ireland,0.005
+2011,Belgium,Ireland,0.01
+2009,Belgium,Ireland,0.031
+2012,Belgium,Ireland,0.034
+2014,Belgium,Ireland,0.038
+2018,Belgium,Ireland,0.009
+2013,Belgium,Ireland,0.068
+2016,Belgium,Ireland,0.081
+2020,Belgium,Ireland,0.05
+2015,Belgium,Ireland,0.099
+2010,Belgium,Ireland,0.074
+2013,Belgium,Liechtenstein,0.049
+2019,Belgium,Liechtenstein,0.034
+2016,Belgium,Liechtenstein,0.042
+2018,Belgium,Liechtenstein,0.053
+2011,Belgium,Liechtenstein,0.08
+2014,Belgium,Liechtenstein,0.044
+2017,Belgium,Liechtenstein,0.073
+2020,Belgium,Liechtenstein,0.026
+2015,Belgium,Liechtenstein,0.049
+2012,Belgium,Liechtenstein,0.057
+2012,Belgium,Netherlands,0.022
+2009,Belgium,Netherlands,0.205
+2018,Belgium,Netherlands,0.008
+2017,Belgium,Netherlands,0.039
+2016,Belgium,Netherlands,0.023
+2014,Belgium,Netherlands,0.02
+2015,Belgium,Netherlands,0.023
+2011,Belgium,Netherlands,0.068
+2010,Belgium,Netherlands,0.078
+2013,Belgium,Netherlands,0.021
+2019,Belgium,Netherlands,0.01
+2020,Belgium,Romania,0.109
+2015,Belgium,Romania,0.151
+2018,Belgium,Romania,0.128
+2014,Belgium,Romania,0.103
+2010,Belgium,Romania,0.171
+2016,Belgium,Romania,0.226
+2019,Belgium,Romania,0.076
+2011,Belgium,Romania,0.15
+2013,Belgium,Romania,0.058
+2009,Belgium,Romania,0.092
+2017,Belgium,Romania,0.234
+2012,Belgium,Romania,0.057
+2015,Belgium,Singapore,0.058
+2016,Belgium,Singapore,0.069
+2020,Belgium,Singapore,0.063
+2010,Belgium,Singapore,0.016
+2009,Belgium,Singapore,0.002
+2013,Belgium,Singapore,0.039
+2012,Belgium,Singapore,0.003
+2018,Belgium,Singapore,0.087
+2019,Belgium,Singapore,0.113
+2014,Belgium,Singapore,0.04
+2017,Belgium,Singapore,0.129
+2011,Belgium,Singapore,0.006
+2010,Belgium,United Arab Emirates,0.088
+2013,Belgium,United Arab Emirates,0.104
+2014,Belgium,United Arab Emirates,0.129
+2011,Belgium,United Arab Emirates,0.063
+2009,Belgium,United Arab Emirates,0.112
+2016,Belgium,United Arab Emirates,0.209
+2018,Belgium,United Arab Emirates,0.281
+2017,Belgium,United Arab Emirates,0.393
+2015,Belgium,United Arab Emirates,0.201
+2020,Belgium,United Arab Emirates,0.772
+2019,Belgium,United Arab Emirates,0.204
+2012,Belgium,United Arab Emirates,0.109
+2010,Belgium,United Kingdom,0.027
+2012,Belgium,United Kingdom,0.06
+2020,Belgium,United Kingdom,0.046
+2013,Belgium,United Kingdom,0.036
+2014,Belgium,United Kingdom,0.052
+2015,Belgium,United Kingdom,0.065
+2019,Belgium,United Kingdom,0.036
+2016,Belgium,United Kingdom,0.055
+2017,Belgium,United Kingdom,0.083
+2018,Belgium,United Kingdom,0.083
+2011,Belgium,United Kingdom,0.022
+2009,Belgium,United Kingdom,0.025
+2020,Brazil,Bahamas,0.001
+2018,Brazil,Bahamas,1.034
+2014,Brazil,Bahamas,0.007
+2017,Brazil,Bahamas,0.734
+2012,Brazil,Bermuda,0.032
+2014,Brazil,Bermuda,0.228
+2011,Brazil,Bermuda,0.035
+2019,Brazil,Bermuda,0.214
+2010,Brazil,Bermuda,0.007
+2017,Brazil,Bermuda,0.081
+2016,Brazil,Bermuda,0.024
+2020,Brazil,Bermuda,0.197
+2009,Brazil,Bermuda,2.339
+2013,Brazil,Bermuda,0.161
+2015,Brazil,Bermuda,0.511
+2018,Brazil,Cayman Islands,0.298
+2019,Brazil,Cayman Islands,1.302
+2014,Brazil,Cayman Islands,0.368
+2017,Brazil,Cayman Islands,0.062
+2016,Brazil,Cayman Islands,0.063
+2011,Brazil,Cayman Islands,3.923
+2012,Brazil,Cayman Islands,1.899
+2009,Brazil,Cayman Islands,0.258
+2015,Brazil,Cayman Islands,0.24
+2020,Brazil,Cayman Islands,0.327
+2013,Brazil,Cayman Islands,1.577
+2010,Brazil,Cayman Islands,4.787
+2010,Brazil,Paraguay,0.612
+2019,Brazil,Paraguay,0.003
+2017,Brazil,Paraguay,0.003
+2020,Brazil,Paraguay,0.004
+2013,Brazil,Paraguay,0.062
+2016,Brazil,Paraguay,0.002
+2018,Brazil,Paraguay,1.0
+2015,Canada,Bahamas,0.096
+2017,Canada,Bahamas,0.786
+2010,Canada,Bahamas,0.006
+2012,Canada,Bahamas,0.126
+2019,Canada,Bahamas,0.707
+2011,Canada,Bahamas,0.148
+2013,Canada,Bahamas,0.251
+2020,Canada,Bahamas,0.017
+2014,Canada,Bahamas,0.029
+2017,Canada,Barbados,0.008
+2011,Canada,Barbados,0.047
+2020,Canada,Barbados,0.387
+2019,Canada,Barbados,0.531
+2016,Canada,Barbados,0.0
+2018,Canada,Bermuda,0.056
+2009,Canada,Bermuda,0.251
+2017,Canada,Bermuda,0.128
+2011,Canada,Bermuda,0.031
+2016,Canada,Bermuda,0.048
+2019,Canada,Bermuda,0.647
+2012,Canada,Bermuda,0.043
+2014,Canada,Bermuda,0.011
+2020,Canada,Bermuda,0.31
+2013,Canada,Bermuda,0.03
+2020,Canada,British Virgin Islands,0.177
+2015,Canada,British Virgin Islands,0.32
+2016,Canada,British Virgin Islands,0.475
+2018,Canada,British Virgin Islands,0.232
+2019,Canada,British Virgin Islands,0.088
+2017,Canada,British Virgin Islands,0.47
+2009,Canada,British Virgin Islands,0.239
+2010,Canada,British Virgin Islands,0.105
+2013,Canada,British Virgin Islands,0.116
+2012,Canada,British Virgin Islands,0.069
+2011,Canada,British Virgin Islands,0.145
+2014,Canada,British Virgin Islands,0.471
+2009,Canada,Bulgaria,0.223
+2010,Canada,Bulgaria,0.622
+2012,Canada,Bulgaria,0.716
+2017,Canada,Bulgaria,0.605
+2014,Canada,Bulgaria,1.47
+2011,Canada,Bulgaria,0.676
+2013,Canada,Bulgaria,1.295
+2019,Canada,Bulgaria,0.42
+2018,Canada,Bulgaria,0.442
+2015,Canada,Bulgaria,2.041
+2020,Canada,Bulgaria,0.37
+2016,Canada,Bulgaria,1.717
+2019,Canada,Cayman Islands,0.36
+2016,Canada,Cayman Islands,0.129
+2010,Canada,Cayman Islands,1.789
+2018,Canada,Cayman Islands,0.243
+2011,Canada,Cayman Islands,0.339
+2020,Canada,Cayman Islands,0.666
+2017,Canada,Cayman Islands,0.424
+2014,Canada,Cayman Islands,0.108
+2013,Canada,Cayman Islands,0.069
+2009,Canada,Cayman Islands,0.3
+2015,Canada,Cayman Islands,0.078
+2012,Canada,Cayman Islands,0.079
+2019,Canada,Cyprus,0.408
+2017,Canada,Cyprus,0.022
+2009,Canada,Cyprus,0.009
+2012,Canada,Cyprus,0.062
+2016,Canada,Cyprus,0.028
+2011,Canada,Cyprus,0.014
+2015,Canada,Cyprus,0.038
+2013,Canada,Cyprus,0.032
+2010,Canada,Cyprus,0.014
+2018,Canada,Cyprus,0.652
+2014,Canada,Cyprus,0.072
+2017,Canada,Finland,0.114
+2010,Canada,Finland,0.102
+2009,Canada,Finland,0.098
+2011,Canada,Finland,0.105
+2012,Canada,Finland,0.117
+2014,Canada,Finland,0.032
+2015,Canada,Finland,0.028
+2016,Canada,Finland,0.058
+2015,Canada,Hong Kong,0.089
+2009,Canada,Hong Kong,0.001
+2018,Canada,Hong Kong,0.721
+2012,Canada,Hong Kong,0.005
+2013,Canada,Hong Kong,0.023
+2016,Canada,Hong Kong,0.049
+2020,Canada,Hong Kong,0.008
+2019,Canada,Hong Kong,0.159
+2011,Canada,Hong Kong,0.011
+2014,Canada,Hong Kong,0.06
+2017,Canada,Hong Kong,0.113
+2013,Canada,Hungary,0.121
+2012,Canada,Hungary,0.05
+2017,Canada,Hungary,1.303
+2009,Canada,Hungary,0.119
+2011,Canada,Hungary,0.182
+2010,Canada,Hungary,0.155
+2019,Canada,Hungary,0.555
+2018,Canada,Hungary,0.695
+2020,Canada,Hungary,0.372
+2014,Canada,Ireland,0.246
+2018,Canada,Ireland,0.579
+2017,Canada,Ireland,0.204
+2015,Canada,Ireland,0.119
+2020,Canada,Ireland,0.761
+2009,Canada,Ireland,0.131
+2010,Canada,Ireland,0.273
+2012,Canada,Ireland,0.545
+2019,Canada,Ireland,0.497
+2013,Canada,Ireland,0.19
+2016,Canada,Ireland,0.597
+2011,Canada,Ireland,1.046
+2013,Canada,Latvia,0.141
+2014,Canada,Latvia,0.439
+2012,Canada,Netherlands,0.0
+2011,Canada,Netherlands,0.655
+2016,Canada,Netherlands,0.0
+2009,Canada,Netherlands,0.271
+2013,Canada,Netherlands,0.001
+2010,Canada,Netherlands,0.743
+2018,Canada,Romania,0.0
+2020,Canada,Romania,0.003
+2010,Canada,Romania,0.185
+2009,Canada,Romania,0.209
+2012,Canada,Romania,0.119
+2011,Canada,Romania,0.24
+2014,Canada,Romania,0.001
+2017,Canada,Romania,0.325
+2012,Canada,Singapore,0.011
+2016,Canada,Singapore,0.057
+2015,Canada,Singapore,0.039
+2009,Canada,Singapore,0.002
+2014,Canada,Singapore,0.025
+2017,Canada,Singapore,0.033
+2010,Canada,Singapore,0.788
+2013,Canada,Singapore,0.01
+2019,Canada,Singapore,0.0
+2011,Canada,Singapore,0.276
+2011,Canada,United Arab Emirates,0.003
+2017,Canada,United Arab Emirates,0.232
+2013,Canada,United Arab Emirates,0.148
+2014,Canada,United Arab Emirates,0.461
+2015,Canada,United Arab Emirates,0.125
+2010,Canada,United Arab Emirates,0.019
+2012,Canada,United Arab Emirates,0.035
+2009,Canada,United Arab Emirates,0.006
+2016,Canada,United Arab Emirates,0.099
+2020,Canada,United Arab Emirates,0.099
+2019,Canada,United Arab Emirates,0.178
+2018,Canada,United Arab Emirates,0.243
+2010,Canada,United Kingdom,0.028
+2012,Canada,United Kingdom,0.676
+2017,Canada,United Kingdom,1.704
+2015,Canada,United Kingdom,0.299
+2018,Canada,United Kingdom,0.261
+2013,Canada,United Kingdom,0.096
+2016,Canada,United Kingdom,0.052
+2011,Canada,United Kingdom,0.223
+2009,Canada,United Kingdom,0.07
+2014,Canada,United Kingdom,0.792
+2019,Canada,United Kingdom,1.36
+2020,Canada,United Kingdom,0.995
+2013,Chile,Bermuda,0.29
+2014,Chile,Bermuda,0.537
+2019,Chile,Bermuda,0.029
+2018,Chile,Bermuda,0.098
+2010,Chile,Bermuda,0.093
+2016,Chile,Bermuda,0.01
+2012,Chile,British Virgin Islands,0.204
+2015,Chile,British Virgin Islands,0.041
+2020,Chile,British Virgin Islands,0.022
+2019,Chile,British Virgin Islands,0.01
+2018,Chile,British Virgin Islands,0.012
+2010,Chile,British Virgin Islands,0.035
+2017,Chile,British Virgin Islands,0.026
+2016,Chile,British Virgin Islands,0.038
+2013,Chile,British Virgin Islands,0.223
+2014,Chile,British Virgin Islands,0.059
+2014,Chile,Cayman Islands,0.478
+2015,Chile,Cayman Islands,0.007
+2011,Chile,Cayman Islands,0.147
+2013,Chile,Cayman Islands,0.063
+2020,Chile,Cayman Islands,0.002
+2012,Chile,Cayman Islands,0.032
+2010,Chile,Cayman Islands,0.186
+2019,China,Bahrain,3.28
+2018,China,Bahrain,1.246
+2013,China,Bermuda,0.017
+2020,China,Bermuda,1.276
+2014,China,Bermuda,0.008
+2018,China,Bermuda,0.391
+2015,China,Bermuda,0.457
+2011,China,Bermuda,1.327
+2016,China,Bermuda,0.292
+2019,China,Bermuda,0.849
+2017,China,Bermuda,1.797
+2015,China,British Virgin Islands,2.46
+2019,China,British Virgin Islands,4.753
+2013,China,British Virgin Islands,0.722
+2020,China,British Virgin Islands,4.673
+2012,China,British Virgin Islands,1.345
+2018,China,British Virgin Islands,5.287
+2009,China,British Virgin Islands,0.062
+2010,China,British Virgin Islands,0.5
+2014,China,British Virgin Islands,0.632
+2017,China,British Virgin Islands,14.121
+2011,China,British Virgin Islands,0.164
+2016,China,British Virgin Islands,3.762
+2013,China,Bulgaria,0.001
+2019,China,Bulgaria,0.142
+2015,China,Bulgaria,0.155
+2014,China,Bulgaria,0.011
+2011,China,Bulgaria,0.025
+2012,China,Bulgaria,0.028
+2018,China,Bulgaria,0.203
+2016,China,Bulgaria,0.266
+2010,China,Bulgaria,0.01
+2020,China,Bulgaria,0.548
+2017,China,Bulgaria,0.077
+2009,China,Bulgaria,0.0
+2010,China,Cayman Islands,0.066
+2019,China,Cayman Islands,0.815
+2009,China,Cayman Islands,0.029
+2016,China,Cayman Islands,0.63
+2013,China,Cayman Islands,0.141
+2020,China,Cayman Islands,0.54
+2014,China,Cayman Islands,0.586
+2012,China,Cayman Islands,0.014
+2011,China,Cayman Islands,0.094
+2018,China,Cayman Islands,0.625
+2017,China,Cayman Islands,0.465
+2015,China,Cayman Islands,0.412
+2010,China,Chile,0.532
+2020,China,Hong Kong,2.075
+2013,China,Hong Kong,0.503
+2010,China,Hong Kong,0.843
+2016,China,Hong Kong,4.212
+2019,China,Hong Kong,1.725
+2015,China,Hong Kong,1.962
+2009,China,Hong Kong,0.191
+2017,China,Hong Kong,3.04
+2012,China,Hong Kong,0.37
+2014,China,Hong Kong,1.085
+2011,China,Hong Kong,0.385
+2018,China,Hong Kong,2.031
+2013,China,Hungary,0.021
+2015,China,Hungary,0.033
+2012,China,Hungary,0.004
+2018,China,Hungary,0.123
+2009,China,Hungary,0.002
+2019,China,Hungary,0.496
+2010,China,Hungary,0.002
+2017,China,Hungary,0.219
+2020,China,Hungary,1.109
+2014,China,Mauritius,0.068
+2019,China,Mauritius,0.292
+2020,China,Mauritius,0.117
+2018,China,Mauritius,0.071
+2016,China,Mauritius,0.048
+2017,China,Mauritius,0.01
+2015,China,Mauritius,0.002
+2009,China,Mauritius,0.004
+2012,China,Mauritius,0.0
+2013,China,Mauritius,0.0
+2016,China,Poland,0.318
+2015,China,Poland,0.011
+2009,China,Poland,0.019
+2011,China,Poland,0.023
+2018,China,Poland,0.001
+2012,China,Poland,0.023
+2019,China,Poland,0.0
+2017,China,Poland,0.332
+2010,China,Poland,0.015
+2014,China,Poland,0.008
+2013,China,Poland,0.034
+2019,China,Qatar,0.025
+2017,China,Qatar,0.128
+2015,China,Qatar,0.131
+2016,China,Qatar,0.163
+2018,China,Qatar,0.133
+2016,China,Romania,0.187
+2017,China,Romania,0.493
+2018,China,Romania,0.092
+2009,China,Romania,0.012
+2020,China,Romania,0.081
+2011,China,Romania,0.006
+2013,China,Romania,0.005
+2015,China,Romania,0.246
+2019,China,Romania,0.086
+2010,China,Romania,0.016
+2014,China,Romania,0.051
+2012,China,Romania,0.005
+2018,China,Samoa,0.243
+2014,China,Samoa,0.084
+2012,China,Samoa,0.005
+2020,China,Samoa,0.083
+2019,China,Samoa,0.054
+2011,China,Samoa,0.015
+2017,China,Samoa,0.105
+2016,China,Samoa,0.038
+2013,China,Samoa,0.001
+2010,China,Samoa,0.011
+2015,China,Samoa,0.001
+2009,China,Samoa,0.005
+2014,China,Serbia,0.002
+2013,China,Serbia,0.001
+2011,China,Serbia,0.21
+2010,China,Serbia,0.193
+2009,China,Serbia,0.061
+2019,China,Serbia,0.29
+2012,China,Serbia,0.049
+2017,China,Serbia,0.15
+2015,China,Serbia,0.013
+2020,China,Serbia,0.018
+2016,China,Serbia,0.018
+2018,China,Serbia,0.145
+2019,China,Singapore,0.079
+2017,China,Singapore,0.387
+2020,China,Singapore,0.179
+2010,China,Singapore,0.006
+2009,China,Singapore,0.005
+2014,China,Singapore,0.051
+2011,China,Singapore,0.056
+2015,China,Singapore,0.119
+2012,China,Singapore,0.067
+2013,China,Singapore,0.122
+2016,China,Singapore,0.163
+2018,China,Singapore,0.121
+2012,China,United Arab Emirates,0.027
+2018,China,United Arab Emirates,1.702
+2016,China,United Arab Emirates,0.791
+2009,China,United Arab Emirates,0.024
+2019,China,United Arab Emirates,2.638
+2015,China,United Arab Emirates,0.875
+2011,China,United Arab Emirates,0.043
+2013,China,United Arab Emirates,0.53
+2010,China,United Arab Emirates,0.101
+2014,China,United Arab Emirates,0.527
+2020,China,United Arab Emirates,5.48
+2017,China,United Arab Emirates,1.68
+2012,China,United Kingdom,0.024
+2016,China,United Kingdom,0.34
+2017,China,United Kingdom,0.236
+2014,China,United Kingdom,0.037
+2019,China,United Kingdom,0.038
+2013,China,United Kingdom,0.036
+2015,China,United Kingdom,0.251
+2020,China,United Kingdom,0.235
+2018,China,United Kingdom,0.029
+2011,Curacao,British Virgin Islands,1.86
+2010,Curacao,British Virgin Islands,1.135
+2013,Curacao,British Virgin Islands,2.39
+2010,Curacao,Cyprus,0.001
+2011,Curacao,Cyprus,0.001
+2009,Curacao,Cyprus,0.805
+2012,Curacao,Cyprus,0.001
+2018,Curacao,United Arab Emirates,0.568
+2019,Curacao,United Arab Emirates,0.057
+2014,Curacao,United Arab Emirates,2.628
+2012,Curacao,United Arab Emirates,2.225
+2013,Curacao,United Arab Emirates,0.033
+2020,Curacao,United Arab Emirates,0.036
+2016,Curacao,United Arab Emirates,0.079
+2009,Curacao,United Arab Emirates,0.016
+2017,Curacao,United Arab Emirates,0.084
+2011,Curacao,United Arab Emirates,0.019
+2010,Curacao,United Arab Emirates,0.034
+2015,Curacao,United Arab Emirates,1.061
+2020,Denmark,Bermuda,0.003
+2019,Denmark,Bermuda,0.003
+2018,Denmark,Bermuda,0.003
+2010,Denmark,Bermuda,1.781
+2013,Denmark,Bermuda,1.372
+2011,Denmark,Bermuda,1.521
+2015,Denmark,Bosnia and Herzegovina,0.093
+2014,Denmark,Bosnia and Herzegovina,0.061
+2010,Denmark,Bosnia and Herzegovina,0.004
+2016,Denmark,Bosnia and Herzegovina,0.094
+2019,Denmark,Bosnia and Herzegovina,0.985
+2012,Denmark,Bosnia and Herzegovina,0.038
+2011,Denmark,Bosnia and Herzegovina,0.024
+2013,Denmark,British Virgin Islands,0.004
+2014,Denmark,British Virgin Islands,0.08
+2020,Denmark,British Virgin Islands,0.044
+2009,Denmark,British Virgin Islands,0.004
+2017,Denmark,British Virgin Islands,0.179
+2012,Denmark,British Virgin Islands,0.008
+2015,Denmark,British Virgin Islands,0.018
+2018,Denmark,British Virgin Islands,0.046
+2016,Denmark,British Virgin Islands,0.001
+2010,Denmark,British Virgin Islands,0.005
+2011,Denmark,British Virgin Islands,0.003
+2019,Denmark,British Virgin Islands,0.142
+2015,Denmark,Bulgaria,0.395
+2020,Denmark,Bulgaria,0.008
+2009,Denmark,Bulgaria,0.176
+2010,Denmark,Bulgaria,0.135
+2013,Denmark,Bulgaria,0.152
+2014,Denmark,Bulgaria,0.282
+2011,Denmark,Bulgaria,0.06
+2018,Denmark,Bulgaria,0.005
+2019,Denmark,Bulgaria,0.007
+2012,Denmark,Bulgaria,0.076
+2016,Denmark,Bulgaria,0.556
+2017,Denmark,Bulgaria,0.007
+2017,Denmark,Hong Kong,0.478
+2020,Denmark,Hong Kong,0.081
+2016,Denmark,Hong Kong,0.381
+2019,Denmark,Hong Kong,0.073
+2012,Denmark,Hong Kong,0.241
+2010,Denmark,Hong Kong,0.193
+2013,Denmark,Hong Kong,0.293
+2018,Denmark,Hong Kong,0.075
+2011,Denmark,Hong Kong,0.229
+2009,Denmark,Hong Kong,0.061
+2014,Denmark,Hong Kong,0.331
+2015,Denmark,Hong Kong,0.257
+2020,Denmark,Hungary,0.557
+2012,Denmark,Hungary,0.001
+2014,Denmark,Hungary,0.002
+2015,Denmark,Hungary,0.001
+2016,Denmark,Hungary,0.001
+2018,Denmark,Hungary,0.435
+2009,Denmark,Hungary,0.062
+2010,Denmark,Hungary,0.0
+2017,Denmark,Hungary,0.987
+2019,Denmark,Hungary,0.493
+2013,Denmark,Hungary,0.002
+2011,Denmark,Hungary,0.001
+2013,Denmark,Ireland,0.083
+2011,Denmark,Ireland,0.175
+2016,Denmark,Ireland,0.085
+2014,Denmark,Ireland,0.124
+2017,Denmark,Ireland,0.047
+2015,Denmark,Ireland,0.087
+2009,Denmark,Ireland,0.124
+2012,Denmark,Ireland,0.099
+2019,Denmark,Ireland,0.108
+2018,Denmark,Ireland,0.477
+2020,Denmark,Ireland,0.123
+2010,Denmark,Ireland,0.203
+2012,Denmark,Poland,0.059
+2017,Denmark,Poland,0.019
+2009,Denmark,Poland,0.127
+2014,Denmark,Poland,0.118
+2018,Denmark,Poland,0.044
+2015,Denmark,Poland,0.119
+2011,Denmark,Poland,0.038
+2016,Denmark,Poland,0.11
+2013,Denmark,Poland,0.119
+2020,Denmark,Poland,0.042
+2019,Denmark,Poland,0.047
+2010,Denmark,Poland,0.05
+2018,Denmark,United Arab Emirates,1.972
+2017,Denmark,United Arab Emirates,2.75
+2013,Denmark,United Arab Emirates,1.554
+2012,Denmark,United Arab Emirates,1.389
+2011,Denmark,United Arab Emirates,1.162
+2014,Denmark,United Arab Emirates,1.883
+2015,Denmark,United Arab Emirates,2.162
+2009,Denmark,United Arab Emirates,0.878
+2019,Denmark,United Arab Emirates,0.404
+2020,Denmark,United Arab Emirates,0.502
+2016,Denmark,United Arab Emirates,2.518
+2010,Denmark,United Arab Emirates,0.937
+2016,Denmark,United Kingdom,0.032
+2013,Denmark,United Kingdom,0.007
+2012,Denmark,United Kingdom,0.017
+2019,Denmark,United Kingdom,0.216
+2015,Denmark,United Kingdom,0.033
+2014,Denmark,United Kingdom,0.033
+2018,Denmark,United Kingdom,0.118
+2017,Denmark,United Kingdom,0.084
+2020,Denmark,United Kingdom,0.424
+2012,Denmark,Vanuatu,1.358
+2012,Egypt,United Arab Emirates,0.026
+2015,Egypt,United Arab Emirates,0.041
+2019,Egypt,United Arab Emirates,0.026
+2011,Egypt,United Arab Emirates,0.023
+2013,Egypt,United Arab Emirates,0.014
+2014,Egypt,United Arab Emirates,0.021
+2016,Egypt,United Arab Emirates,0.054
+2017,Egypt,United Arab Emirates,0.264
+2020,Egypt,United Arab Emirates,0.046
+2018,Egypt,United Arab Emirates,0.056
+2011,Finland,Andorra,0.223
+2009,Finland,Andorra,0.128
+2010,Finland,Andorra,0.189
+2020,Finland,Bahrain,0.115
+2012,Finland,Bahrain,0.042
+2019,Finland,Bahrain,0.277
+2015,Finland,Bahrain,0.127
+2017,Finland,Bahrain,0.416
+2013,Finland,Bahrain,0.113
+2016,Finland,Bahrain,0.509
+2014,Finland,Bahrain,0.012
+2018,Finland,Bahrain,0.128
+2011,Finland,Bahrain,0.04
+2010,Finland,Bahrain,0.057
+2015,Finland,British Virgin Islands,0.807
+2019,Finland,British Virgin Islands,0.173
+2009,Finland,British Virgin Islands,0.235
+2016,Finland,Bulgaria,0.298
+2015,Finland,Bulgaria,0.072
+2012,Finland,Bulgaria,0.091
+2010,Finland,Bulgaria,0.227
+2020,Finland,Bulgaria,0.01
+2014,Finland,Bulgaria,0.175
+2017,Finland,Bulgaria,0.001
+2019,Finland,Bulgaria,0.007
+2018,Finland,Bulgaria,0.013
+2011,Finland,Bulgaria,0.19
+2009,Finland,Bulgaria,0.072
+2013,Finland,Bulgaria,0.089
+2009,Finland,Cayman Islands,0.016
+2014,Finland,Cayman Islands,0.754
+2020,Finland,Cyprus,0.001
+2011,Finland,Cyprus,0.042
+2016,Finland,Cyprus,0.002
+2015,Finland,Cyprus,0.002
+2010,Finland,Cyprus,0.109
+2014,Finland,Cyprus,0.0
+2012,Finland,Cyprus,0.298
+2019,Finland,Cyprus,0.0
+2009,Finland,Cyprus,0.006
+2013,Finland,Cyprus,0.079
+2020,Finland,Hong Kong,0.064
+2012,Finland,Hong Kong,0.116
+2017,Finland,Hong Kong,0.056
+2015,Finland,Hong Kong,0.085
+2010,Finland,Hong Kong,0.044
+2013,Finland,Hong Kong,0.096
+2018,Finland,Hong Kong,0.032
+2009,Finland,Hong Kong,0.011
+2011,Finland,Hong Kong,0.046
+2014,Finland,Hong Kong,0.136
+2019,Finland,Hong Kong,0.071
+2016,Finland,Hong Kong,0.096
+2020,Finland,Hungary,0.283
+2019,Finland,Hungary,0.482
+2012,Finland,Hungary,0.001
+2016,Finland,Hungary,0.001
+2015,Finland,Hungary,0.0
+2013,Finland,Hungary,0.001
+2009,Finland,Hungary,0.04
+2017,Finland,Hungary,0.971
+2011,Finland,Hungary,0.002
+2014,Finland,Hungary,0.002
+2010,Finland,Hungary,0.003
+2018,Finland,Hungary,0.48
+2019,Finland,Ireland,0.211
+2016,Finland,Ireland,0.249
+2012,Finland,Ireland,0.088
+2009,Finland,Ireland,0.054
+2020,Finland,Ireland,0.01
+2018,Finland,Ireland,0.015
+2014,Finland,Ireland,0.311
+2010,Finland,Ireland,0.079
+2017,Finland,Ireland,0.162
+2015,Finland,Ireland,0.585
+2011,Finland,Ireland,0.079
+2013,Finland,Ireland,0.26
+2011,Finland,Latvia,0.129
+2015,Finland,Latvia,0.098
+2010,Finland,Latvia,0.207
+2014,Finland,Latvia,0.3
+2017,Finland,Latvia,0.063
+2009,Finland,Latvia,0.327
+2012,Finland,Latvia,0.148
+2016,Finland,Latvia,0.13
+2013,Finland,Latvia,0.252
+2012,Finland,Lithuania,0.302
+2009,Finland,Lithuania,0.003
+2013,Finland,Lithuania,0.104
+2020,Finland,Lithuania,0.119
+2015,Finland,Lithuania,0.08
+2019,Finland,Lithuania,0.055
+2017,Finland,Lithuania,0.108
+2011,Finland,Lithuania,0.354
+2018,Finland,Lithuania,0.086
+2016,Finland,Lithuania,0.117
+2010,Finland,Lithuania,0.257
+2014,Finland,Lithuania,0.11
+2014,Finland,Montenegro,0.312
+2015,Finland,Montenegro,0.397
+2016,Finland,Montenegro,0.343
+2013,Finland,Montenegro,0.298
+2015,Finland,Singapore,0.262
+2017,Finland,Singapore,0.061
+2014,Finland,Singapore,0.03
+2012,Finland,Singapore,0.013
+2011,Finland,Singapore,0.003
+2009,Finland,Singapore,0.003
+2016,Finland,Singapore,0.031
+2020,Finland,Singapore,0.068
+2019,Finland,Singapore,0.047
+2018,Finland,Singapore,0.038
+2013,Finland,Singapore,0.022
+2010,Finland,Singapore,0.004
+2018,Finland,United Arab Emirates,0.632
+2011,Finland,United Arab Emirates,0.34
+2019,Finland,United Arab Emirates,0.322
+2020,Finland,United Arab Emirates,0.999
+2016,Finland,United Arab Emirates,0.69
+2009,Finland,United Arab Emirates,0.086
+2013,Finland,United Arab Emirates,0.252
+2017,Finland,United Arab Emirates,0.703
+2012,Finland,United Arab Emirates,0.412
+2015,Finland,United Arab Emirates,0.589
+2014,Finland,United Arab Emirates,0.128
+2010,Finland,United Arab Emirates,0.877
+2011,France,Bahamas,0.002
+2014,France,Bahamas,0.027
+2012,France,Bahamas,0.006
+2019,France,Bahamas,0.472
+2018,France,Bahamas,0.422
+2009,France,Bahamas,0.318
+2010,France,Bahamas,0.118
+2013,France,Bahamas,0.0
+2010,France,Bahrain,0.041
+2017,France,Bahrain,0.301
+2011,France,Bahrain,0.019
+2013,France,Bahrain,1.007
+2018,France,Bahrain,0.737
+2015,France,Bahrain,0.037
+2014,France,Bahrain,0.141
+2009,France,Bahrain,0.06
+2012,France,Bahrain,0.872
+2020,France,Bahrain,0.033
+2019,France,Bahrain,1.366
+2016,France,Bahrain,0.046
+2020,France,Barbados,0.048
+2019,France,Barbados,0.628
+2014,France,Bermuda,0.004
+2017,France,Bermuda,0.01
+2018,France,Bermuda,0.086
+2013,France,Bermuda,5.038
+2011,France,Bermuda,8.147
+2019,France,Bermuda,0.035
+2016,France,Bermuda,0.093
+2010,France,Bermuda,5.39
+2015,France,Bermuda,1.656
+2012,France,Bermuda,6.359
+2009,France,Bermuda,4.309
+2009,France,British Virgin Islands,0.483
+2013,France,British Virgin Islands,0.684
+2018,France,British Virgin Islands,0.078
+2017,France,British Virgin Islands,0.161
+2012,France,British Virgin Islands,0.168
+2011,France,British Virgin Islands,0.312
+2014,France,British Virgin Islands,0.326
+2010,France,British Virgin Islands,0.771
+2015,France,British Virgin Islands,0.756
+2016,France,British Virgin Islands,0.095
+2017,France,Bulgaria,0.946
+2019,France,Bulgaria,0.058
+2010,France,Bulgaria,0.146
+2020,France,Bulgaria,0.05
+2013,France,Bulgaria,1.921
+2015,France,Bulgaria,2.346
+2009,France,Bulgaria,1.451
+2016,France,Bulgaria,3.331
+2018,France,Bulgaria,0.055
+2011,France,Bulgaria,0.945
+2012,France,Bulgaria,0.503
+2014,France,Bulgaria,2.376
+2009,France,Cayman Islands,0.181
+2017,France,Cayman Islands,0.058
+2016,France,Cayman Islands,0.039
+2014,France,Cayman Islands,3.072
+2013,France,Cayman Islands,0.438
+2012,France,Cayman Islands,0.549
+2018,France,Cayman Islands,0.402
+2010,France,Cayman Islands,0.219
+2011,France,Cayman Islands,0.403
+2011,France,Cyprus,0.766
+2014,France,Cyprus,0.019
+2016,France,Cyprus,0.219
+2013,France,Cyprus,0.461
+2017,France,Cyprus,0.108
+2020,France,Cyprus,0.164
+2009,France,Cyprus,0.342
+2012,France,Cyprus,0.633
+2019,France,Cyprus,0.068
+2010,France,Cyprus,0.182
+2018,France,Cyprus,0.081
+2015,France,Cyprus,0.459
+2016,France,Czechia,0.042
+2015,France,Czechia,0.021
+2014,France,Czechia,0.027
+2020,France,Czechia,0.003
+2010,France,Czechia,0.025
+2009,France,Czechia,0.019
+2011,France,Czechia,0.144
+2017,France,Czechia,0.038
+2019,France,Czechia,0.006
+2013,France,Czechia,0.218
+2018,France,Czechia,0.052
+2012,France,Czechia,0.013
+2019,France,Hong Kong,0.071
+2014,France,Hong Kong,0.136
+2016,France,Hong Kong,0.063
+2011,France,Hong Kong,0.41
+2010,France,Hong Kong,0.405
+2020,France,Hong Kong,0.108
+2018,France,Hong Kong,0.1
+2012,France,Hong Kong,0.451
+2015,France,Hong Kong,0.049
+2009,France,Hong Kong,0.104
+2017,France,Hong Kong,0.586
+2013,France,Hong Kong,0.085
+2018,France,Hungary,1.612
+2015,France,Hungary,0.042
+2012,France,Hungary,0.026
+2010,France,Hungary,0.022
+2014,France,Hungary,0.028
+2020,France,Hungary,0.681
+2013,France,Hungary,0.013
+2017,France,Hungary,5.148
+2011,France,Hungary,0.132
+2019,France,Hungary,0.698
+2016,France,Hungary,0.019
+2009,France,Hungary,0.103
+2019,France,Iceland,0.0
+2009,France,Iceland,1.188
+2018,France,Iceland,0.0
+2010,France,Iceland,0.001
+2016,France,Iceland,0.002
+2020,France,Iceland,0.0
+2015,France,Iceland,0.002
+2016,France,Ireland,0.663
+2018,France,Ireland,0.101
+2011,France,Ireland,0.477
+2015,France,Ireland,0.886
+2009,France,Ireland,0.078
+2014,France,Ireland,1.321
+2020,France,Ireland,0.046
+2012,France,Ireland,0.462
+2017,France,Ireland,0.113
+2019,France,Ireland,0.069
+2013,France,Ireland,0.784
+2010,France,Ireland,0.597
+2015,France,Lebanon,0.134
+2020,France,Lebanon,0.032
+2017,France,Lebanon,0.083
+2011,France,Lebanon,0.037
+2018,France,Lebanon,0.052
+2010,France,Lebanon,0.0
+2019,France,Lebanon,0.032
+2013,France,Lebanon,0.049
+2014,France,Lebanon,0.123
+2009,France,Lebanon,0.009
+2012,France,Lebanon,0.003
+2016,France,Lebanon,0.104
+2010,France,Maldives,0.431
+2012,France,Maldives,0.307
+2009,France,Maldives,0.23
+2009,France,Mauritius,0.068
+2020,France,Mauritius,0.007
+2019,France,Mauritius,0.027
+2018,France,Mauritius,0.097
+2012,France,Mauritius,0.068
+2013,France,Mauritius,0.055
+2015,France,Mauritius,0.112
+2014,France,Mauritius,0.03
+2016,France,Mauritius,0.045
+2017,France,Mauritius,0.001
+2010,France,Mauritius,0.18
+2011,France,Mauritius,0.176
+2017,France,North Macedonia,0.329
+2016,France,North Macedonia,0.177
+2012,France,North Macedonia,0.099
+2011,France,Poland,0.112
+2018,France,Poland,0.29
+2016,France,Poland,0.109
+2009,France,Poland,0.11
+2013,France,Poland,0.079
+2019,France,Poland,0.026
+2014,France,Poland,0.089
+2017,France,Poland,0.095
+2020,France,Poland,0.018
+2012,France,Poland,1.059
+2010,France,Poland,0.208
+2015,France,Poland,0.127
+2015,France,Republic of Moldova,0.02
+2013,France,Republic of Moldova,0.003
+2010,France,Republic of Moldova,1.168
+2016,France,Republic of Moldova,0.0
+2011,France,Republic of Moldova,0.271
+2014,France,Republic of Moldova,0.006
+2009,France,Republic of Moldova,0.065
+2013,France,Romania,0.267
+2010,France,Romania,0.254
+2016,France,Romania,0.314
+2018,France,Romania,0.067
+2015,France,Romania,0.664
+2020,France,Romania,0.057
+2019,France,Romania,0.061
+2017,France,Romania,0.074
+2011,France,Romania,0.211
+2014,France,Romania,0.285
+2012,France,Romania,0.217
+2009,France,Romania,0.16
+2015,France,Serbia,0.006
+2017,France,Serbia,0.087
+2011,France,Serbia,0.793
+2014,France,Serbia,0.016
+2009,France,Serbia,0.141
+2013,France,Serbia,0.012
+2020,France,Serbia,0.032
+2019,France,Serbia,0.036
+2018,France,Serbia,0.049
+2012,France,Serbia,1.45
+2016,France,Serbia,0.029
+2010,France,Serbia,1.562
+2019,France,Slovakia,0.0
+2009,France,Slovakia,0.001
+2017,France,Slovakia,0.125
+2020,France,Slovakia,0.0
+2013,France,Slovakia,0.003
+2018,France,Slovakia,0.001
+2016,France,Slovakia,0.003
+2010,France,Slovakia,0.631
+2012,France,Slovakia,0.005
+2014,France,Slovakia,0.003
+2015,France,Slovakia,0.003
+2012,France,Switzerland,0.101
+2019,France,Switzerland,0.055
+2014,France,Switzerland,0.037
+2009,France,Switzerland,0.069
+2017,France,Switzerland,0.017
+2020,France,Switzerland,0.003
+2016,France,Switzerland,0.015
+2015,France,Switzerland,0.03
+2010,France,Switzerland,0.053
+2013,France,Switzerland,0.112
+2011,France,Switzerland,0.07
+2018,France,Switzerland,0.01
+2014,France,United Arab Emirates,12.646
+2017,France,United Arab Emirates,16.331
+2015,France,United Arab Emirates,8.905
+2013,France,United Arab Emirates,9.833
+2020,France,United Arab Emirates,10.287
+2012,France,United Arab Emirates,11.04
+2010,France,United Arab Emirates,6.14
+2011,France,United Arab Emirates,11.435
+2009,France,United Arab Emirates,5.377
+2016,France,United Arab Emirates,10.712
+2018,France,United Arab Emirates,12.878
+2019,France,United Arab Emirates,10.781
+2012,France,United Kingdom,0.03
+2018,France,United Kingdom,0.207
+2011,France,United Kingdom,0.038
+2020,France,United Kingdom,0.17
+2017,France,United Kingdom,0.276
+2015,France,United Kingdom,0.197
+2013,France,United Kingdom,0.034
+2010,France,United Kingdom,0.026
+2016,France,United Kingdom,0.117
+2009,France,United Kingdom,0.016
+2014,France,United Kingdom,0.14
+2019,France,United Kingdom,0.159
+2010,France,Vanuatu,1.282
+2014,France,Vanuatu,0.007
+2012,France,Vanuatu,0.875
+2016,France,Vanuatu,0.138
+2011,Germany,Bahamas,0.318
+2018,Germany,Bahamas,0.009
+2014,Germany,Bahamas,0.241
+2016,Germany,Bahamas,0.217
+2019,Germany,Bahamas,0.106
+2013,Germany,Bahamas,0.15
+2015,Germany,Bahamas,0.274
+2010,Germany,Bahamas,0.12
+2012,Germany,Bahamas,0.233
+2017,Germany,Bahamas,0.064
+2009,Germany,Bahamas,0.042
+2015,Germany,Bahrain,0.656
+2016,Germany,Bahrain,0.62
+2017,Germany,Bahrain,0.08
+2011,Germany,Bahrain,2.995
+2020,Germany,Bahrain,2.528
+2019,Germany,Bahrain,0.07
+2010,Germany,Bahrain,2.419
+2013,Germany,Bahrain,4.317
+2014,Germany,Bahrain,0.035
+2009,Germany,Bahrain,0.034
+2018,Germany,Bahrain,1.449
+2012,Germany,Bahrain,5.616
+2015,Germany,Bermuda,2.541
+2011,Germany,Bermuda,0.333
+2018,Germany,Bermuda,1.355
+2012,Germany,Bermuda,0.322
+2009,Germany,Bermuda,0.011
+2013,Germany,Bermuda,0.146
+2020,Germany,Bermuda,0.036
+2017,Germany,Bermuda,2.059
+2010,Germany,Bermuda,0.229
+2016,Germany,Bermuda,2.943
+2014,Germany,Bermuda,1.783
+2014,Germany,Bosnia and Herzegovina,1.097
+2011,Germany,Bosnia and Herzegovina,1.393
+2016,Germany,Bosnia and Herzegovina,0.906
+2018,Germany,Bosnia and Herzegovina,0.008
+2010,Germany,Bosnia and Herzegovina,2.955
+2015,Germany,Bosnia and Herzegovina,0.157
+2013,Germany,Bosnia and Herzegovina,0.769
+2017,Germany,Bosnia and Herzegovina,0.034
+2012,Germany,Bosnia and Herzegovina,0.118
+2019,Germany,Bosnia and Herzegovina,0.007
+2020,Germany,Bosnia and Herzegovina,0.006
+2009,Germany,Bosnia and Herzegovina,1.432
+2012,Germany,British Virgin Islands,1.624
+2017,Germany,British Virgin Islands,1.71
+2015,Germany,British Virgin Islands,1.28
+2009,Germany,British Virgin Islands,0.051
+2016,Germany,British Virgin Islands,0.327
+2020,Germany,British Virgin Islands,0.383
+2019,Germany,British Virgin Islands,2.238
+2013,Germany,British Virgin Islands,2.222
+2011,Germany,British Virgin Islands,2.37
+2014,Germany,British Virgin Islands,1.455
+2018,Germany,British Virgin Islands,0.276
+2010,Germany,British Virgin Islands,1.788
+2014,Germany,Bulgaria,4.441
+2016,Germany,Bulgaria,3.97
+2010,Germany,Bulgaria,4.079
+2013,Germany,Bulgaria,3.623
+2015,Germany,Bulgaria,4.481
+2017,Germany,Bulgaria,0.368
+2020,Germany,Bulgaria,0.257
+2009,Germany,Bulgaria,1.171
+2019,Germany,Bulgaria,0.313
+2018,Germany,Bulgaria,0.338
+2012,Germany,Bulgaria,5.484
+2011,Germany,Bulgaria,3.13
+2010,Germany,Cayman Islands,3.458
+2017,Germany,Cayman Islands,1.556
+2014,Germany,Cayman Islands,1.813
+2016,Germany,Cayman Islands,1.301
+2020,Germany,Cayman Islands,0.275
+2019,Germany,Cayman Islands,0.261
+2011,Germany,Cayman Islands,4.381
+2018,Germany,Cayman Islands,0.676
+2015,Germany,Cayman Islands,4.73
+2012,Germany,Cayman Islands,0.652
+2013,Germany,Cayman Islands,0.684
+2009,Germany,Cayman Islands,2.11
+2011,Germany,Czechia,0.823
+2012,Germany,Czechia,0.495
+2020,Germany,Czechia,0.229
+2017,Germany,Czechia,0.41
+2018,Germany,Czechia,0.292
+2015,Germany,Czechia,0.531
+2013,Germany,Czechia,0.578
+2016,Germany,Czechia,0.452
+2014,Germany,Czechia,0.573
+2019,Germany,Czechia,0.319
+2010,Germany,Czechia,0.884
+2009,Germany,Czechia,0.392
+2009,Germany,Hong Kong,0.04
+2012,Germany,Hong Kong,0.088
+2018,Germany,Hong Kong,0.59
+2015,Germany,Hong Kong,0.173
+2020,Germany,Hong Kong,0.464
+2010,Germany,Hong Kong,0.232
+2017,Germany,Hong Kong,0.202
+2013,Germany,Hong Kong,0.216
+2014,Germany,Hong Kong,0.244
+2019,Germany,Hong Kong,0.402
+2016,Germany,Hong Kong,0.275
+2011,Germany,Hong Kong,0.338
+2010,Germany,Hungary,0.098
+2013,Germany,Hungary,0.127
+2015,Germany,Hungary,0.545
+2009,Germany,Hungary,0.279
+2011,Germany,Hungary,0.074
+2014,Germany,Hungary,0.082
+2012,Germany,Hungary,0.084
+2016,Germany,Hungary,0.334
+2018,Germany,Hungary,3.496
+2017,Germany,Hungary,9.69
+2019,Germany,Hungary,2.437
+2020,Germany,Hungary,3.2
+2019,Germany,Ireland,0.312
+2016,Germany,Ireland,0.801
+2012,Germany,Ireland,0.691
+2018,Germany,Ireland,0.309
+2013,Germany,Ireland,1.402
+2017,Germany,Ireland,0.4
+2010,Germany,Ireland,0.963
+2009,Germany,Ireland,0.264
+2020,Germany,Ireland,0.455
+2011,Germany,Ireland,0.82
+2015,Germany,Ireland,0.92
+2014,Germany,Ireland,0.912
+2011,Germany,Latvia,0.07
+2019,Germany,Latvia,0.004
+2012,Germany,Latvia,0.338
+2017,Germany,Latvia,0.147
+2020,Germany,Latvia,0.004
+2009,Germany,Latvia,0.069
+2015,Germany,Latvia,0.217
+2010,Germany,Latvia,0.122
+2013,Germany,Latvia,0.262
+2014,Germany,Latvia,0.132
+2018,Germany,Latvia,0.002
+2016,Germany,Latvia,0.179
+2017,Germany,Lithuania,0.055
+2015,Germany,Lithuania,0.033
+2014,Germany,Lithuania,0.032
+2019,Germany,Lithuania,0.042
+2018,Germany,Lithuania,0.143
+2009,Germany,Lithuania,0.0
+2013,Germany,Lithuania,0.032
+2020,Germany,Lithuania,0.034
+2010,Germany,Lithuania,0.038
+2012,Germany,Lithuania,0.051
+2016,Germany,Lithuania,0.074
+2011,Germany,Lithuania,0.15
+2014,Germany,Montenegro,0.278
+2009,Germany,Montenegro,0.783
+2010,Germany,Montenegro,1.058
+2020,Germany,Montenegro,0.078
+2019,Germany,Montenegro,0.084
+2015,Germany,Montenegro,0.32
+2012,Germany,Montenegro,0.133
+2018,Germany,Montenegro,0.028
+2011,Germany,Montenegro,0.047
+2013,Germany,Montenegro,0.161
+2016,Germany,Montenegro,0.18
+2017,Germany,Montenegro,0.031
+2015,Germany,North Macedonia,0.019
+2010,Germany,North Macedonia,0.973
+2013,Germany,North Macedonia,0.014
+2016,Germany,North Macedonia,0.035
+2019,Germany,North Macedonia,0.024
+2014,Germany,North Macedonia,0.022
+2020,Germany,North Macedonia,0.024
+2018,Germany,North Macedonia,0.026
+2017,Germany,North Macedonia,0.005
+2015,Germany,Poland,0.578
+2010,Germany,Poland,0.332
+2014,Germany,Poland,0.423
+2018,Germany,Poland,0.286
+2017,Germany,Poland,0.846
+2013,Germany,Poland,0.494
+2019,Germany,Poland,0.296
+2011,Germany,Poland,0.349
+2009,Germany,Poland,0.387
+2016,Germany,Poland,0.639
+2020,Germany,Poland,0.193
+2012,Germany,Poland,0.538
+2010,Germany,Republic of Moldova,0.2
+2018,Germany,Republic of Moldova,0.005
+2020,Germany,Republic of Moldova,0.009
+2015,Germany,Republic of Moldova,0.017
+2016,Germany,Republic of Moldova,0.012
+2013,Germany,Republic of Moldova,0.104
+2014,Germany,Republic of Moldova,0.119
+2011,Germany,Republic of Moldova,0.184
+2009,Germany,Republic of Moldova,1.558
+2019,Germany,Republic of Moldova,0.004
+2013,Germany,Romania,0.742
+2014,Germany,Romania,0.759
+2019,Germany,Romania,0.363
+2010,Germany,Romania,0.491
+2018,Germany,Romania,0.369
+2015,Germany,Romania,1.046
+2011,Germany,Romania,0.678
+2009,Germany,Romania,0.395
+2016,Germany,Romania,0.71
+2017,Germany,Romania,0.809
+2012,Germany,Romania,0.652
+2020,Germany,Romania,0.357
+2015,Germany,Russian Federation,0.07
+2014,Germany,Russian Federation,0.317
+2009,Germany,Russian Federation,0.075
+2019,Germany,Russian Federation,0.022
+2010,Germany,Russian Federation,0.085
+2017,Germany,Russian Federation,0.049
+2011,Germany,Russian Federation,0.244
+2020,Germany,Russian Federation,0.005
+2013,Germany,Russian Federation,0.168
+2016,Germany,Russian Federation,0.098
+2012,Germany,Russian Federation,0.25
+2018,Germany,Russian Federation,0.021
+2018,Germany,Serbia,0.194
+2020,Germany,Serbia,0.149
+2019,Germany,Serbia,0.195
+2014,Germany,Serbia,0.155
+2010,Germany,Serbia,0.543
+2016,Germany,Serbia,0.308
+2015,Germany,Serbia,0.224
+2012,Germany,Serbia,1.248
+2009,Germany,Serbia,0.375
+2013,Germany,Serbia,0.178
+2011,Germany,Serbia,0.834
+2017,Germany,Serbia,0.252
+2010,Germany,Singapore,0.273
+2014,Germany,Singapore,0.547
+2015,Germany,Singapore,0.56
+2017,Germany,Singapore,0.758
+2009,Germany,Singapore,0.117
+2019,Germany,Singapore,0.318
+2013,Germany,Singapore,0.39
+2016,Germany,Singapore,0.639
+2020,Germany,Singapore,0.323
+2011,Germany,Singapore,0.246
+2018,Germany,Singapore,0.395
+2012,Germany,Singapore,0.348
+2009,Germany,Slovakia,0.117
+2019,Germany,Slovakia,0.018
+2016,Germany,Slovakia,0.025
+2015,Germany,Slovakia,0.021
+2020,Germany,Slovakia,0.008
+2012,Germany,Slovakia,0.128
+2010,Germany,Slovakia,0.082
+2014,Germany,Slovakia,0.028
+2011,Germany,Slovakia,0.133
+2013,Germany,Slovakia,0.031
+2018,Germany,Slovakia,0.037
+2017,Germany,Slovakia,0.031
+2011,Germany,Slovenia,0.029
+2019,Germany,Slovenia,0.012
+2009,Germany,Slovenia,0.003
+2010,Germany,Slovenia,0.008
+2018,Germany,Slovenia,0.018
+2020,Germany,Slovenia,0.008
+2017,Germany,Slovenia,0.022
+2015,Germany,Slovenia,0.122
+2014,Germany,Slovenia,0.15
+2016,Germany,Slovenia,0.14
+2012,Germany,Slovenia,0.096
+2013,Germany,Slovenia,0.125
+2020,Germany,Switzerland,0.02
+2012,Germany,Switzerland,0.081
+2014,Germany,Switzerland,0.046
+2017,Germany,Switzerland,0.06
+2010,Germany,Switzerland,0.052
+2015,Germany,Switzerland,0.039
+2016,Germany,Switzerland,0.059
+2009,Germany,Switzerland,0.035
+2019,Germany,Switzerland,0.013
+2013,Germany,Switzerland,0.037
+2018,Germany,Switzerland,0.018
+2011,Germany,Switzerland,0.063
+2012,Germany,United Arab Emirates,10.893
+2010,Germany,United Arab Emirates,6.761
+2015,Germany,United Arab Emirates,14.78
+2017,Germany,United Arab Emirates,27.939
+2019,Germany,United Arab Emirates,13.677
+2011,Germany,United Arab Emirates,7.963
+2013,Germany,United Arab Emirates,12.284
+2020,Germany,United Arab Emirates,10.957
+2009,Germany,United Arab Emirates,2.008
+2018,Germany,United Arab Emirates,15.871
+2014,Germany,United Arab Emirates,18.725
+2016,Germany,United Arab Emirates,17.521
+2018,Germany,United Kingdom,0.48
+2012,Germany,United Kingdom,0.119
+2017,Germany,United Kingdom,0.951
+2009,Germany,United Kingdom,0.017
+2016,Germany,United Kingdom,0.443
+2013,Germany,United Kingdom,0.198
+2015,Germany,United Kingdom,0.365
+2020,Germany,United Kingdom,0.258
+2014,Germany,United Kingdom,0.317
+2019,Germany,United Kingdom,0.269
+2011,Germany,United Kingdom,0.063
+2010,Germany,United Kingdom,0.036
+2017,Greece,Bulgaria,0.201
+2009,Greece,Bulgaria,0.012
+2018,Greece,Bulgaria,0.144
+2020,Greece,Bulgaria,0.087
+2014,Greece,Bulgaria,0.108
+2013,Greece,Bulgaria,0.041
+2019,Greece,Bulgaria,0.089
+2011,Greece,Bulgaria,0.039
+2015,Greece,Bulgaria,0.112
+2016,Greece,Bulgaria,0.112
+2012,Greece,Bulgaria,0.093
+2010,Greece,Bulgaria,0.013
+2010,Greece,Cyprus,0.228
+2019,Greece,Cyprus,0.011
+2020,Greece,Cyprus,0.015
+2016,Greece,Cyprus,0.072
+2017,Greece,Cyprus,0.047
+2012,Greece,Cyprus,0.121
+2011,Greece,Cyprus,0.142
+2013,Greece,Cyprus,0.038
+2018,Greece,Cyprus,0.019
+2015,Greece,Cyprus,0.071
+2014,Greece,Cyprus,0.06
+2009,Greece,Cyprus,0.49
+2009,Greece,Montenegro,0.107
+2014,Greece,Montenegro,0.017
+2015,Greece,Montenegro,0.024
+2020,Greece,Montenegro,0.0
+2012,Greece,Montenegro,0.027
+2017,Greece,Montenegro,0.15
+2011,Greece,Montenegro,0.037
+2013,Greece,Montenegro,0.002
+2010,Greece,Montenegro,0.106
+2018,Greece,Montenegro,0.113
+2016,Greece,Montenegro,0.14
+2019,Greece,Montenegro,0.026
+2009,Greece,North Macedonia,0.11
+2018,Greece,North Macedonia,0.036
+2019,Greece,North Macedonia,0.006
+2013,Greece,North Macedonia,0.094
+2014,Greece,North Macedonia,0.033
+2020,Greece,North Macedonia,0.024
+2016,Greece,North Macedonia,0.103
+2015,Greece,North Macedonia,0.028
+2017,Greece,North Macedonia,0.038
+2011,Greece,North Macedonia,0.03
+2015,Hong Kong,Bermuda,0.419
+2020,Hong Kong,Bermuda,0.312
+2016,Hong Kong,Bermuda,0.094
+2014,Hong Kong,Bermuda,1.233
+2017,Hong Kong,Bermuda,0.171
+2013,Hong Kong,Bermuda,0.068
+2009,Hong Kong,Bermuda,0.046
+2012,Hong Kong,Bermuda,0.056
+2019,Hong Kong,Bermuda,0.259
+2018,Hong Kong,Bermuda,0.355
+2011,Hong Kong,Bermuda,0.253
+2018,Hong Kong,British Virgin Islands,2.034
+2017,Hong Kong,British Virgin Islands,8.445
+2011,Hong Kong,British Virgin Islands,3.842
+2015,Hong Kong,British Virgin Islands,2.634
+2019,Hong Kong,British Virgin Islands,1.555
+2010,Hong Kong,British Virgin Islands,1.339
+2013,Hong Kong,British Virgin Islands,0.898
+2009,Hong Kong,British Virgin Islands,1.059
+2016,Hong Kong,British Virgin Islands,3.698
+2020,Hong Kong,British Virgin Islands,0.595
+2012,Hong Kong,British Virgin Islands,3.109
+2014,Hong Kong,British Virgin Islands,4.356
+2014,Hong Kong,Cayman Islands,2.794
+2012,Hong Kong,Cayman Islands,0.5
+2011,Hong Kong,Cayman Islands,0.245
+2013,Hong Kong,Cayman Islands,0.103
+2015,Hong Kong,Cayman Islands,0.223
+2016,Hong Kong,Cayman Islands,2.926
+2019,Hong Kong,Cayman Islands,0.112
+2020,Hong Kong,Cayman Islands,0.478
+2010,Hong Kong,Cayman Islands,0.599
+2018,Hong Kong,Cayman Islands,0.348
+2017,Hong Kong,Cayman Islands,0.609
+2009,Hong Kong,Cayman Islands,0.09
+2014,Hong Kong,Samoa,0.005
+2020,Hong Kong,Samoa,0.006
+2017,Hong Kong,Samoa,0.016
+2012,Hong Kong,Samoa,0.024
+2009,Hong Kong,Samoa,0.062
+2018,Hong Kong,Samoa,0.028
+2013,Hong Kong,Samoa,0.062
+2019,Hong Kong,Samoa,0.011
+2015,Hong Kong,Samoa,0.105
+2016,Hong Kong,Samoa,0.168
+2010,Hong Kong,Samoa,0.018
+2019,Hong Kong,United Arab Emirates,0.121
+2020,Hong Kong,United Arab Emirates,0.169
+2017,Hong Kong,United Arab Emirates,0.144
+2012,Hong Kong,United Arab Emirates,0.003
+2011,Hong Kong,United Arab Emirates,0.005
+2015,Hong Kong,United Arab Emirates,0.005
+2013,Hong Kong,United Arab Emirates,0.02
+2018,Hong Kong,United Arab Emirates,0.077
+2009,Hungary,Cyprus,0.188
+2014,Hungary,Cyprus,0.0
+2011,Hungary,Cyprus,0.082
+2010,Hungary,Cyprus,0.082
+2013,Hungary,Cyprus,0.0
+2012,Hungary,Cyprus,0.187
+2018,India,Bermuda,0.005
+2013,India,Bermuda,0.023
+2011,India,Bermuda,0.235
+2010,India,Bermuda,0.121
+2015,India,Bermuda,0.364
+2014,India,Bermuda,0.017
+2009,India,Bermuda,0.044
+2016,India,Bermuda,0.295
+2020,India,Bermuda,0.385
+2012,India,Bermuda,0.248
+2017,India,Bermuda,0.429
+2019,India,Bermuda,0.003
+2019,India,British Virgin Islands,0.338
+2011,India,British Virgin Islands,0.922
+2014,India,British Virgin Islands,0.368
+2015,India,British Virgin Islands,2.081
+2013,India,British Virgin Islands,0.045
+2018,India,British Virgin Islands,0.049
+2016,India,British Virgin Islands,0.087
+2012,India,British Virgin Islands,0.092
+2020,India,British Virgin Islands,0.051
+2009,India,British Virgin Islands,0.17
+2017,India,British Virgin Islands,0.532
+2010,India,British Virgin Islands,0.168
+2015,India,Cyprus,0.152
+2010,India,Cyprus,0.113
+2017,India,Cyprus,0.16
+2020,India,Cyprus,0.055
+2012,India,Cyprus,0.063
+2019,India,Cyprus,0.082
+2009,India,Cyprus,0.047
+2013,India,Cyprus,0.101
+2011,India,Cyprus,0.13
+2016,India,Cyprus,0.16
+2014,India,Cyprus,0.179
+2018,India,Cyprus,1.521
+2017,India,Czechia,0.608
+2013,India,Czechia,0.577
+2018,India,Czechia,0.501
+2016,India,Czechia,0.01
+2009,India,Czechia,0.002
+2015,India,Czechia,0.571
+2011,India,Czechia,0.219
+2014,India,Czechia,0.687
+2010,India,Czechia,0.001
+2012,India,Czechia,0.243
+2012,India,Ireland,0.879
+2014,India,Ireland,0.523
+2010,India,Ireland,0.082
+2018,India,Ireland,0.085
+2017,India,Ireland,1.129
+2016,India,Ireland,1.032
+2009,India,Ireland,0.051
+2015,India,Ireland,0.044
+2013,India,Ireland,0.293
+2011,India,Ireland,0.539
+2020,India,Ireland,0.072
+2019,India,Ireland,0.067
+2013,India,Mauritius,0.007
+2016,India,Mauritius,0.334
+2011,India,Mauritius,0.824
+2019,India,Mauritius,0.012
+2009,India,Mauritius,0.051
+2020,India,Mauritius,0.046
+2017,India,Mauritius,0.063
+2014,India,Mauritius,0.066
+2018,India,Mauritius,0.11
+2015,India,Mauritius,0.635
+2012,India,Mauritius,0.126
+2010,India,Mauritius,0.488
+2014,India,Qatar,0.599
+2013,India,Qatar,0.009
+2015,India,Qatar,0.019
+2010,India,Romania,0.019
+2019,India,Romania,0.024
+2014,India,Romania,0.027
+2016,India,Romania,0.092
+2012,India,Romania,0.007
+2011,India,Romania,0.007
+2018,India,Romania,0.0
+2013,India,Romania,0.022
+2017,India,Romania,0.108
+2009,India,Romania,0.004
+2015,India,Romania,0.873
+2020,India,Romania,0.002
+2018,India,Singapore,0.123
+2013,India,Singapore,0.179
+2020,India,Singapore,0.084
+2011,India,Singapore,0.269
+2012,India,Singapore,0.161
+2010,India,Singapore,0.304
+2009,India,Singapore,0.24
+2019,India,Singapore,0.054
+2015,India,Singapore,0.095
+2014,India,Singapore,0.056
+2016,India,Singapore,0.106
+2017,India,Singapore,0.206
+2012,India,Sri Lanka,0.005
+2011,India,Sri Lanka,0.007
+2016,India,Sri Lanka,0.531
+2010,India,Sweden,0.11
+2011,India,Sweden,0.091
+2013,India,Sweden,0.397
+2012,India,Sweden,0.189
+2009,India,Sweden,0.001
+2018,India,United Arab Emirates,5.818
+2016,India,United Arab Emirates,2.821
+2015,India,United Arab Emirates,1.08
+2017,India,United Arab Emirates,4.717
+2019,India,United Arab Emirates,3.81
+2020,India,United Arab Emirates,4.191
+2012,India,United Arab Emirates,1.397
+2013,India,United Arab Emirates,2.012
+2011,India,United Arab Emirates,0.828
+2009,India,United Arab Emirates,0.626
+2010,India,United Arab Emirates,1.702
+2014,India,United Arab Emirates,2.221
+2009,India,United Kingdom,0.024
+2012,India,United Kingdom,0.134
+2011,India,United Kingdom,0.064
+2010,India,United Kingdom,0.034
+2018,India,United Kingdom,0.098
+2019,India,United Kingdom,0.437
+2014,India,United Kingdom,0.115
+2016,India,United Kingdom,0.127
+2013,India,United Kingdom,0.045
+2017,India,United Kingdom,0.373
+2015,India,United Kingdom,0.167
+2020,India,United Kingdom,0.09
+2019,Iran,United Arab Emirates,0.461
+2020,Iran,United Arab Emirates,0.098
+2016,Iran,United Arab Emirates,0.064
+2018,Iran,United Arab Emirates,0.382
+2017,Iran,United Arab Emirates,0.045
+2019,Iran,United Kingdom,0.001
+2017,Iran,United Kingdom,0.049
+2016,Iran,United Kingdom,0.213
+2015,Iran,United Kingdom,0.437
+2012,Ireland,Bahamas,0.55
+2020,Ireland,Bahamas,0.066
+2009,Ireland,Bahamas,0.229
+2014,Ireland,Bahamas,0.375
+2016,Ireland,Bahamas,0.434
+2011,Ireland,Bahamas,0.674
+2018,Ireland,Bahamas,0.007
+2019,Ireland,Bahamas,0.777
+2015,Ireland,Bahamas,1.005
+2017,Ireland,Bahamas,0.523
+2014,Ireland,Bahrain,0.001
+2018,Ireland,Bahrain,0.877
+2019,Ireland,Bermuda,0.637
+2017,Ireland,Bermuda,0.945
+2013,Ireland,Bermuda,1.286
+2009,Ireland,Bermuda,0.204
+2014,Ireland,Bermuda,0.678
+2010,Ireland,Bermuda,0.566
+2012,Ireland,Bermuda,0.829
+2016,Ireland,Bermuda,0.77
+2011,Ireland,Bermuda,0.378
+2018,Ireland,Bermuda,0.675
+2020,Ireland,Bermuda,0.638
+2015,Ireland,Bermuda,0.608
+2015,Ireland,British Virgin Islands,1.279
+2010,Ireland,British Virgin Islands,0.296
+2018,Ireland,British Virgin Islands,0.068
+2019,Ireland,British Virgin Islands,0.072
+2011,Ireland,British Virgin Islands,0.001
+2016,Ireland,British Virgin Islands,1.297
+2013,Ireland,British Virgin Islands,0.062
+2020,Ireland,British Virgin Islands,0.202
+2014,Ireland,British Virgin Islands,0.078
+2012,Ireland,British Virgin Islands,0.362
+2018,Ireland,Bulgaria,0.0
+2012,Ireland,Bulgaria,0.119
+2019,Ireland,Bulgaria,0.0
+2010,Ireland,Bulgaria,0.038
+2016,Ireland,Bulgaria,0.272
+2013,Ireland,Bulgaria,0.029
+2015,Ireland,Bulgaria,0.119
+2014,Ireland,Bulgaria,0.043
+2011,Ireland,Bulgaria,0.108
+2016,Ireland,Cayman Islands,0.059
+2012,Ireland,Cayman Islands,0.838
+2018,Ireland,Cayman Islands,0.307
+2010,Ireland,Cayman Islands,0.37
+2020,Ireland,Cayman Islands,0.134
+2011,Ireland,Cayman Islands,0.116
+2013,Ireland,Cayman Islands,0.442
+2019,Ireland,Cayman Islands,0.268
+2017,Ireland,Cayman Islands,1.27
+2014,Ireland,Cayman Islands,0.431
+2015,Ireland,Cayman Islands,0.438
+2019,Ireland,Hungary,0.001
+2018,Ireland,Hungary,0.006
+2020,Ireland,Hungary,0.01
+2017,Ireland,Hungary,0.595
+2016,Ireland,United Arab Emirates,1.375
+2017,Ireland,United Arab Emirates,2.671
+2013,Ireland,United Arab Emirates,0.213
+2014,Ireland,United Arab Emirates,0.795
+2018,Ireland,United Arab Emirates,3.062
+2012,Ireland,United Arab Emirates,0.026
+2009,Ireland,United Arab Emirates,0.077
+2019,Ireland,United Arab Emirates,2.71
+2020,Ireland,United Arab Emirates,2.641
+2015,Ireland,United Arab Emirates,1.022
+2017,Israel,Bermuda,0.003
+2019,Israel,Bermuda,0.0
+2010,Israel,Bermuda,0.145
+2011,Israel,Bermuda,0.194
+2018,Israel,Bermuda,0.032
+2012,Israel,Bermuda,0.096
+2009,Israel,Bermuda,0.061
+2011,Israel,Bosnia and Herzegovina,2.374
+2016,Israel,Bosnia and Herzegovina,0.812
+2013,Israel,Bosnia and Herzegovina,0.815
+2012,Israel,Bulgaria,0.376
+2013,Israel,Bulgaria,0.061
+2010,Israel,Bulgaria,0.527
+2017,Israel,Bulgaria,0.037
+2016,Israel,Bulgaria,0.201
+2011,Israel,Bulgaria,0.039
+2020,Israel,Bulgaria,0.062
+2018,Israel,Bulgaria,0.04
+2019,Israel,Bulgaria,0.019
+2015,Israel,Bulgaria,0.068
+2014,Israel,Bulgaria,0.095
+2009,Israel,Bulgaria,0.006
+2013,Israel,Hong Kong,0.076
+2017,Israel,Hong Kong,0.033
+2020,Israel,Hong Kong,0.008
+2012,Israel,Hong Kong,0.016
+2015,Israel,Hong Kong,0.23
+2010,Israel,Hong Kong,0.014
+2019,Israel,Hong Kong,0.004
+2011,Israel,Hong Kong,0.058
+2014,Israel,Hong Kong,0.14
+2016,Israel,Hong Kong,0.14
+2009,Israel,Hong Kong,0.001
+2018,Israel,Hong Kong,0.006
+2020,Israel,Hungary,0.268
+2011,Israel,Hungary,0.166
+2019,Israel,Hungary,0.258
+2013,Israel,Hungary,0.029
+2009,Israel,Hungary,0.005
+2018,Israel,Hungary,0.254
+2016,Israel,Hungary,0.002
+2012,Israel,Hungary,0.068
+2017,Israel,Hungary,0.354
+2009,Israel,North Macedonia,0.361
+2016,Israel,North Macedonia,0.036
+2014,Israel,North Macedonia,3.534
+2012,Israel,North Macedonia,0.01
+2015,Israel,North Macedonia,2.245
+2017,Israel,North Macedonia,0.048
+2010,Israel,Romania,0.111
+2011,Israel,Romania,0.138
+2015,Israel,Romania,0.245
+2020,Israel,Romania,0.008
+2013,Israel,Romania,0.185
+2016,Israel,Romania,0.221
+2017,Israel,Romania,0.031
+2019,Israel,Romania,0.006
+2012,Israel,Romania,0.135
+2018,Israel,Romania,0.013
+2014,Israel,Romania,0.25
+2009,Israel,Romania,0.089
+2015,Israel,United Kingdom,0.383
+2018,Israel,United Kingdom,0.054
+2012,Israel,United Kingdom,0.055
+2016,Israel,United Kingdom,0.248
+2020,Israel,United Kingdom,0.078
+2013,Israel,United Kingdom,0.209
+2017,Israel,United Kingdom,0.1
+2019,Israel,United Kingdom,0.054
+2014,Israel,United Kingdom,0.273
+2010,Italy,Bahamas,1.677
+2016,Italy,Bahamas,0.003
+2009,Italy,Bahamas,0.014
+2014,Italy,Bahamas,0.0
+2017,Italy,Bahamas,1.264
+2015,Italy,Bahamas,0.006
+2011,Italy,Bahamas,1.371
+2013,Italy,Bahamas,3.058
+2016,Italy,Bermuda,0.16
+2012,Italy,Bermuda,3.53
+2010,Italy,Bermuda,3.719
+2014,Italy,Bermuda,1.454
+2009,Italy,Bermuda,4.556
+2014,Italy,Bosnia and Herzegovina,0.019
+2018,Italy,Bosnia and Herzegovina,0.022
+2015,Italy,Bosnia and Herzegovina,0.556
+2012,Italy,Bosnia and Herzegovina,0.008
+2013,Italy,Bosnia and Herzegovina,0.009
+2011,Italy,Bosnia and Herzegovina,0.026
+2009,Italy,Bosnia and Herzegovina,0.004
+2010,Italy,Bosnia and Herzegovina,0.014
+2020,Italy,Bosnia and Herzegovina,0.017
+2019,Italy,Bosnia and Herzegovina,0.022
+2017,Italy,Bosnia and Herzegovina,0.039
+2016,Italy,Bosnia and Herzegovina,0.422
+2010,Italy,British Virgin Islands,0.005
+2018,Italy,British Virgin Islands,0.024
+2011,Italy,British Virgin Islands,3.937
+2016,Italy,British Virgin Islands,0.056
+2017,Italy,British Virgin Islands,0.001
+2009,Italy,Bulgaria,0.544
+2014,Italy,Bulgaria,0.771
+2012,Italy,Bulgaria,0.829
+2017,Italy,Bulgaria,2.639
+2010,Italy,Bulgaria,0.912
+2013,Italy,Bulgaria,0.248
+2018,Italy,Bulgaria,1.546
+2011,Italy,Bulgaria,0.235
+2015,Italy,Bulgaria,1.564
+2019,Italy,Bulgaria,0.94
+2020,Italy,Bulgaria,1.349
+2016,Italy,Bulgaria,1.752
+2018,Italy,Cayman Islands,0.041
+2012,Italy,Cayman Islands,0.083
+2010,Italy,Cayman Islands,0.016
+2009,Italy,Cayman Islands,1.169
+2013,Italy,Cayman Islands,0.956
+2020,Italy,Cayman Islands,0.092
+2019,Italy,Cayman Islands,0.045
+2010,Italy,Chile,0.06
+2016,Italy,Chile,0.001
+2012,Italy,Chile,0.242
+2018,Italy,Chile,0.0
+2015,Italy,Chile,0.001
+2011,Italy,Chile,0.02
+2017,Italy,Chile,0.0
+2019,Italy,Chile,0.0
+2009,Italy,Chile,0.194
+2014,Italy,Chile,0.105
+2020,Italy,Chile,0.001
+2013,Italy,Chile,0.02
+2014,Italy,China,0.123
+2017,Italy,China,0.081
+2018,Italy,China,0.023
+2020,Italy,China,0.014
+2015,Italy,China,0.055
+2019,Italy,China,0.02
+2009,Italy,China,0.031
+2016,Italy,China,0.049
+2012,Italy,China,0.031
+2013,Italy,China,0.019
+2010,Italy,China,0.057
+2011,Italy,China,0.062
+2013,Italy,"China, Macao Special Administrative Region",0.073
+2014,Italy,"China, Macao Special Administrative Region",0.123
+2017,Italy,"China, Macao Special Administrative Region",0.099
+2012,Italy,"China, Macao Special Administrative Region",0.085
+2009,Italy,"China, Macao Special Administrative Region",0.003
+2018,Italy,"China, Macao Special Administrative Region",0.021
+2015,Italy,"China, Macao Special Administrative Region",0.089
+2019,Italy,"China, Macao Special Administrative Region",0.015
+2011,Italy,"China, Macao Special Administrative Region",0.069
+2016,Italy,"China, Macao Special Administrative Region",0.085
+2010,Italy,"China, Macao Special Administrative Region",0.031
+2016,Italy,Czechia,0.056
+2009,Italy,Czechia,0.01
+2014,Italy,Czechia,0.088
+2020,Italy,Czechia,0.024
+2018,Italy,Czechia,0.023
+2013,Italy,Czechia,0.038
+2017,Italy,Czechia,0.1
+2015,Italy,Czechia,0.142
+2012,Italy,Czechia,0.093
+2011,Italy,Czechia,0.088
+2010,Italy,Czechia,0.044
+2019,Italy,Czechia,0.06
+2017,Italy,Hong Kong,0.56
+2014,Italy,Hong Kong,0.159
+2012,Italy,Hong Kong,0.173
+2018,Italy,Hong Kong,0.114
+2020,Italy,Hong Kong,0.082
+2009,Italy,Hong Kong,0.079
+2013,Italy,Hong Kong,0.123
+2010,Italy,Hong Kong,0.121
+2011,Italy,Hong Kong,0.142
+2019,Italy,Hong Kong,0.113
+2016,Italy,Hong Kong,0.281
+2015,Italy,Hong Kong,0.194
+2012,Italy,Hungary,0.017
+2009,Italy,Hungary,0.144
+2020,Italy,Hungary,0.275
+2017,Italy,Hungary,0.477
+2018,Italy,Hungary,0.5
+2016,Italy,Hungary,0.023
+2010,Italy,Hungary,0.025
+2011,Italy,Hungary,0.013
+2014,Italy,Hungary,0.038
+2019,Italy,Hungary,0.274
+2015,Italy,Hungary,0.018
+2013,Italy,Hungary,0.011
+2013,Italy,Ireland,0.228
+2020,Italy,Ireland,0.082
+2017,Italy,Ireland,0.048
+2010,Italy,Ireland,0.818
+2016,Italy,Ireland,0.117
+2011,Italy,Ireland,0.174
+2014,Italy,Ireland,0.205
+2019,Italy,Ireland,0.044
+2018,Italy,Ireland,0.066
+2015,Italy,Ireland,0.137
+2009,Italy,Ireland,0.292
+2012,Italy,Ireland,0.201
+2010,Italy,Montenegro,0.032
+2018,Italy,Montenegro,0.01
+2015,Italy,Montenegro,0.017
+2019,Italy,Montenegro,0.021
+2009,Italy,Montenegro,0.014
+2017,Italy,Montenegro,0.016
+2012,Italy,Montenegro,0.133
+2016,Italy,Montenegro,0.04
+2014,Italy,Montenegro,0.018
+2013,Italy,Montenegro,0.162
+2020,Italy,Montenegro,0.014
+2011,Italy,Montenegro,0.123
+2013,Italy,Poland,0.31
+2015,Italy,Poland,0.321
+2019,Italy,Poland,0.047
+2012,Italy,Poland,0.1
+2009,Italy,Poland,0.134
+2010,Italy,Poland,0.101
+2020,Italy,Poland,0.062
+2014,Italy,Poland,0.105
+2011,Italy,Poland,0.29
+2017,Italy,Poland,0.432
+2018,Italy,Poland,0.092
+2016,Italy,Poland,0.442
+2010,Italy,Republic of Moldova,0.146
+2016,Italy,Republic of Moldova,0.005
+2013,Italy,Republic of Moldova,0.003
+2011,Italy,Republic of Moldova,0.223
+2015,Italy,Republic of Moldova,0.009
+2020,Italy,Republic of Moldova,0.008
+2017,Italy,Republic of Moldova,0.007
+2009,Italy,Republic of Moldova,0.296
+2012,Italy,Republic of Moldova,0.002
+2014,Italy,Republic of Moldova,0.008
+2019,Italy,Republic of Moldova,0.005
+2018,Italy,Republic of Moldova,0.005
+2020,Italy,Romania,0.118
+2015,Italy,Romania,0.231
+2018,Italy,Romania,0.147
+2011,Italy,Romania,0.284
+2012,Italy,Romania,0.358
+2019,Italy,Romania,0.114
+2017,Italy,Romania,0.266
+2016,Italy,Romania,0.303
+2014,Italy,Romania,0.323
+2010,Italy,Romania,0.371
+2013,Italy,Romania,0.329
+2009,Italy,Romania,0.122
+2011,Italy,Serbia,0.067
+2013,Italy,Serbia,0.114
+2015,Italy,Serbia,0.1
+2020,Italy,Serbia,0.109
+2018,Italy,Serbia,0.073
+2017,Italy,Serbia,0.151
+2016,Italy,Serbia,0.092
+2010,Italy,Serbia,0.056
+2014,Italy,Serbia,0.086
+2009,Italy,Serbia,0.05
+2012,Italy,Serbia,0.264
+2019,Italy,Serbia,0.084
+2015,Italy,Singapore,0.08
+2011,Italy,Singapore,0.05
+2010,Italy,Singapore,0.026
+2017,Italy,Singapore,0.034
+2018,Italy,Singapore,0.076
+2020,Italy,Singapore,0.03
+2009,Italy,Singapore,0.034
+2016,Italy,Singapore,0.071
+2013,Italy,Singapore,0.068
+2019,Italy,Singapore,0.034
+2012,Italy,Singapore,0.043
+2014,Italy,Singapore,0.1
+2009,Italy,Switzerland,0.066
+2016,Italy,Switzerland,0.042
+2018,Italy,Switzerland,0.032
+2020,Italy,Switzerland,0.021
+2011,Italy,Switzerland,0.078
+2012,Italy,Switzerland,0.047
+2014,Italy,Switzerland,0.036
+2019,Italy,Switzerland,0.025
+2010,Italy,Switzerland,0.066
+2015,Italy,Switzerland,0.049
+2013,Italy,Switzerland,0.063
+2017,Italy,Switzerland,0.052
+2013,Italy,United Arab Emirates,0.831
+2011,Italy,United Arab Emirates,0.63
+2014,Italy,United Arab Emirates,0.307
+2017,Italy,United Arab Emirates,1.426
+2019,Italy,United Arab Emirates,1.313
+2018,Italy,United Arab Emirates,2.032
+2012,Italy,United Arab Emirates,0.206
+2010,Italy,United Arab Emirates,0.457
+2009,Italy,United Arab Emirates,0.305
+2016,Italy,United Arab Emirates,0.547
+2015,Italy,United Arab Emirates,0.507
+2020,Italy,United Arab Emirates,0.56
+2011,Italy,United Kingdom,0.058
+2016,Italy,United Kingdom,0.236
+2012,Italy,United Kingdom,0.096
+2010,Italy,United Kingdom,0.034
+2020,Italy,United Kingdom,0.271
+2009,Italy,United Kingdom,0.024
+2018,Italy,United Kingdom,0.237
+2014,Italy,United Kingdom,0.195
+2015,Italy,United Kingdom,0.213
+2013,Italy,United Kingdom,0.065
+2019,Italy,United Kingdom,0.206
+2017,Italy,United Kingdom,0.36
+2012,Italy,Uzbekistan,0.556
+2019,Italy,Uzbekistan,0.0
+2015,Italy,Uzbekistan,0.021
+2019,Japan,Andorra,0.006
+2015,Japan,Andorra,1.057
+2020,Japan,Andorra,0.008
+2018,Japan,Andorra,0.008
+2013,Japan,Andorra,1.04
+2018,Japan,Bahamas,0.089
+2011,Japan,Bahamas,1.831
+2009,Japan,Bahamas,2.316
+2010,Japan,Bahamas,1.201
+2016,Japan,Bahamas,0.403
+2015,Japan,Bahamas,0.191
+2012,Japan,Bahamas,1.177
+2014,Japan,Bahamas,4.452
+2019,Japan,Bahamas,0.269
+2020,Japan,Bahamas,0.081
+2013,Japan,Bahamas,0.049
+2017,Japan,Bahamas,0.315
+2015,Japan,Bahrain,0.249
+2019,Japan,Bahrain,0.448
+2012,Japan,Bahrain,0.02
+2014,Japan,Bahrain,0.784
+2016,Japan,Bahrain,8.763
+2020,Japan,Bahrain,1.417
+2009,Japan,Bahrain,0.383
+2018,Japan,Bahrain,0.342
+2013,Japan,Bahrain,2.157
+2017,Japan,Bahrain,6.123
+2014,Japan,Bermuda,0.058
+2012,Japan,Bermuda,0.015
+2015,Japan,Bermuda,0.728
+2013,Japan,Bermuda,0.323
+2019,Japan,Bermuda,0.202
+2020,Japan,Bermuda,0.186
+2018,Japan,Bermuda,0.225
+2016,Japan,Bermuda,0.802
+2017,Japan,Bermuda,0.336
+2009,Japan,Bermuda,2.368
+2013,Japan,Bosnia and Herzegovina,0.049
+2020,Japan,Bosnia and Herzegovina,0.004
+2016,Japan,Bosnia and Herzegovina,0.173
+2009,Japan,Bosnia and Herzegovina,0.101
+2012,Japan,Bosnia and Herzegovina,0.823
+2018,Japan,Bosnia and Herzegovina,0.134
+2014,Japan,Bosnia and Herzegovina,0.046
+2015,Japan,Bosnia and Herzegovina,0.019
+2019,Japan,Bosnia and Herzegovina,0.076
+2011,Japan,Bosnia and Herzegovina,1.144
+2017,Japan,Bosnia and Herzegovina,0.01
+2010,Japan,Bosnia and Herzegovina,0.965
+2012,Japan,British Virgin Islands,2.509
+2013,Japan,British Virgin Islands,0.918
+2017,Japan,British Virgin Islands,1.037
+2020,Japan,British Virgin Islands,0.95
+2014,Japan,British Virgin Islands,0.542
+2016,Japan,British Virgin Islands,1.168
+2019,Japan,British Virgin Islands,0.779
+2010,Japan,British Virgin Islands,0.072
+2018,Japan,British Virgin Islands,0.641
+2011,Japan,British Virgin Islands,1.189
+2015,Japan,British Virgin Islands,1.096
+2009,Japan,Bulgaria,0.8
+2014,Japan,Bulgaria,3.515
+2017,Japan,Bulgaria,0.103
+2012,Japan,Bulgaria,5.348
+2011,Japan,Bulgaria,2.785
+2015,Japan,Bulgaria,2.215
+2013,Japan,Bulgaria,1.489
+2016,Japan,Bulgaria,2.085
+2020,Japan,Bulgaria,0.065
+2019,Japan,Bulgaria,0.017
+2018,Japan,Bulgaria,0.311
+2010,Japan,Bulgaria,0.726
+2018,Japan,Cayman Islands,1.615
+2017,Japan,Cayman Islands,2.849
+2015,Japan,Cayman Islands,1.176
+2019,Japan,Cayman Islands,3.81
+2009,Japan,Cayman Islands,0.347
+2011,Japan,Cayman Islands,1.459
+2013,Japan,Cayman Islands,0.888
+2020,Japan,Cayman Islands,0.67
+2014,Japan,Cayman Islands,2.528
+2012,Japan,Cayman Islands,0.737
+2016,Japan,Cayman Islands,0.203
+2010,Japan,Cayman Islands,0.41
+2013,Japan,Chile,0.031
+2017,Japan,Chile,0.002
+2011,Japan,Chile,0.007
+2020,Japan,Chile,0.002
+2014,Japan,Chile,0.011
+2018,Japan,Chile,0.002
+2015,Japan,Chile,0.016
+2010,Japan,Chile,0.169
+2019,Japan,Chile,0.001
+2016,Japan,Chile,0.022
+2012,Japan,Chile,0.08
+2009,Japan,Chile,0.232
+2017,Japan,China,0.925
+2020,Japan,China,0.113
+2009,Japan,China,0.808
+2014,Japan,China,0.271
+2015,Japan,China,0.29
+2018,Japan,China,0.169
+2019,Japan,China,0.132
+2010,Japan,China,0.546
+2013,Japan,China,0.422
+2016,Japan,China,1.141
+2011,Japan,China,1.315
+2012,Japan,China,0.938
+2018,Japan,"China, Macao Special Administrative Region",0.059
+2014,Japan,"China, Macao Special Administrative Region",0.043
+2013,Japan,"China, Macao Special Administrative Region",0.006
+2019,Japan,"China, Macao Special Administrative Region",0.05
+2020,Japan,"China, Macao Special Administrative Region",0.058
+2015,Japan,"China, Macao Special Administrative Region",0.161
+2016,Japan,"China, Macao Special Administrative Region",0.172
+2017,Japan,"China, Macao Special Administrative Region",0.034
+2011,Japan,Czechia,0.224
+2016,Japan,Czechia,0.22
+2012,Japan,Czechia,0.497
+2020,Japan,Czechia,0.039
+2009,Japan,Czechia,0.115
+2018,Japan,Czechia,0.261
+2010,Japan,Czechia,0.208
+2014,Japan,Czechia,0.237
+2017,Japan,Czechia,0.068
+2013,Japan,Czechia,0.264
+2019,Japan,Czechia,0.039
+2015,Japan,Czechia,0.231
+2009,Japan,Hong Kong,1.026
+2017,Japan,Hong Kong,6.843
+2020,Japan,Hong Kong,3.872
+2019,Japan,Hong Kong,3.859
+2014,Japan,Hong Kong,6.272
+2016,Japan,Hong Kong,8.047
+2013,Japan,Hong Kong,3.932
+2011,Japan,Hong Kong,4.657
+2015,Japan,Hong Kong,6.928
+2010,Japan,Hong Kong,2.979
+2012,Japan,Hong Kong,4.679
+2018,Japan,Hong Kong,4.954
+2018,Japan,Hungary,4.32
+2011,Japan,Hungary,0.232
+2016,Japan,Hungary,0.069
+2015,Japan,Hungary,0.117
+2020,Japan,Hungary,2.709
+2014,Japan,Hungary,0.086
+2019,Japan,Hungary,3.315
+2012,Japan,Hungary,0.203
+2009,Japan,Hungary,0.69
+2017,Japan,Hungary,8.502
+2013,Japan,Hungary,0.088
+2010,Japan,Hungary,0.223
+2010,Japan,Ireland,2.205
+2015,Japan,Ireland,5.561
+2009,Japan,Ireland,2.791
+2016,Japan,Ireland,5.564
+2013,Japan,Ireland,2.406
+2019,Japan,Ireland,1.195
+2020,Japan,Ireland,1.293
+2011,Japan,Ireland,8.841
+2012,Japan,Ireland,1.868
+2017,Japan,Ireland,2.384
+2018,Japan,Ireland,1.57
+2014,Japan,Ireland,3.57
+2016,Japan,Latvia,0.296
+2012,Japan,Latvia,0.034
+2015,Japan,Latvia,0.176
+2017,Japan,Latvia,0.009
+2015,Japan,Lithuania,0.495
+2020,Japan,Lithuania,0.189
+2017,Japan,Lithuania,0.382
+2012,Japan,Lithuania,0.183
+2011,Japan,Lithuania,0.143
+2019,Japan,Lithuania,0.014
+2014,Japan,Lithuania,0.205
+2018,Japan,Lithuania,0.169
+2013,Japan,Lithuania,0.103
+2016,Japan,Lithuania,0.757
+2020,Japan,Malaysia,0.018
+2016,Japan,Malaysia,0.022
+2015,Japan,Malaysia,0.012
+2011,Japan,Malaysia,0.205
+2012,Japan,Malaysia,0.059
+2013,Japan,Malaysia,0.019
+2009,Japan,Malaysia,0.251
+2018,Japan,Malaysia,0.015
+2017,Japan,Malaysia,0.02
+2019,Japan,Malaysia,0.015
+2014,Japan,Malaysia,0.027
+2010,Japan,Malaysia,0.382
+2017,Japan,Mauritius,0.075
+2013,Japan,Mauritius,0.024
+2015,Japan,Mauritius,0.061
+2012,Japan,Mauritius,0.018
+2009,Japan,Mauritius,0.01
+2011,Japan,Mauritius,0.018
+2016,Japan,Mauritius,0.044
+2010,Japan,Mauritius,0.011
+2014,Japan,Mauritius,0.043
+2019,Japan,Mauritius,0.054
+2018,Japan,Mauritius,0.093
+2020,Japan,Mauritius,0.055
+2012,Japan,Netherlands,0.323
+2011,Japan,Netherlands,0.846
+2018,Japan,Netherlands,0.006
+2010,Japan,Netherlands,0.36
+2017,Japan,Netherlands,0.005
+2016,Japan,Netherlands,0.008
+2015,Japan,Netherlands,0.019
+2020,Japan,Netherlands,0.007
+2019,Japan,Netherlands,0.005
+2014,Japan,Netherlands,0.172
+2013,Japan,Netherlands,0.027
+2009,Japan,Netherlands,0.113
+2015,Japan,Poland,0.125
+2018,Japan,Poland,0.086
+2010,Japan,Poland,0.209
+2012,Japan,Poland,0.242
+2013,Japan,Poland,0.11
+2019,Japan,Poland,0.112
+2016,Japan,Poland,0.211
+2014,Japan,Poland,0.058
+2017,Japan,Poland,0.302
+2009,Japan,Poland,0.33
+2011,Japan,Poland,0.811
+2020,Japan,Poland,0.098
+2015,Japan,Qatar,7.988
+2018,Japan,Qatar,0.003
+2010,Japan,Qatar,0.01
+2017,Japan,Qatar,0.001
+2014,Japan,Qatar,0.0
+2020,Japan,Qatar,0.01
+2016,Japan,Qatar,0.001
+2019,Japan,Qatar,0.003
+2018,Japan,Romania,0.316
+2020,Japan,Romania,0.241
+2010,Japan,Romania,0.548
+2017,Japan,Romania,0.412
+2012,Japan,Romania,1.121
+2016,Japan,Romania,0.671
+2013,Japan,Romania,0.43
+2015,Japan,Romania,0.807
+2009,Japan,Romania,0.448
+2019,Japan,Romania,0.219
+2014,Japan,Romania,0.767
+2011,Japan,Romania,0.851
+2014,Japan,Russian Federation,0.074
+2009,Japan,Russian Federation,0.049
+2016,Japan,Russian Federation,0.053
+2019,Japan,Russian Federation,0.041
+2020,Japan,Russian Federation,0.052
+2010,Japan,Russian Federation,0.113
+2013,Japan,Russian Federation,0.151
+2018,Japan,Russian Federation,0.049
+2011,Japan,Russian Federation,0.257
+2017,Japan,Russian Federation,0.056
+2015,Japan,Russian Federation,0.059
+2012,Japan,Russian Federation,0.335
+2009,Japan,Samoa,0.018
+2015,Japan,Samoa,0.051
+2017,Japan,Samoa,0.035
+2020,Japan,Samoa,0.003
+2019,Japan,Samoa,0.008
+2016,Japan,Samoa,0.016
+2018,Japan,Samoa,0.011
+2012,Japan,Samoa,0.388
+2014,Japan,Samoa,0.045
+2013,Japan,Samoa,0.029
+2016,Japan,Serbia,0.038
+2017,Japan,Serbia,0.019
+2009,Japan,Serbia,0.023
+2015,Japan,Serbia,0.037
+2014,Japan,Serbia,0.065
+2019,Japan,Serbia,0.178
+2010,Japan,Serbia,1.545
+2018,Japan,Serbia,0.024
+2020,Japan,Serbia,0.02
+2013,Japan,Serbia,0.478
+2012,Japan,Serbia,1.765
+2011,Japan,Serbia,1.475
+2009,Japan,Singapore,2.096
+2018,Japan,Singapore,2.359
+2011,Japan,Singapore,6.451
+2015,Japan,Singapore,3.543
+2016,Japan,Singapore,5.093
+2013,Japan,Singapore,2.514
+2014,Japan,Singapore,3.812
+2017,Japan,Singapore,3.593
+2010,Japan,Singapore,4.075
+2019,Japan,Singapore,1.709
+2020,Japan,Singapore,1.704
+2012,Japan,Singapore,3.412
+2015,Japan,Slovenia,0.434
+2018,Japan,Slovenia,0.007
+2013,Japan,Slovenia,0.057
+2014,Japan,Slovenia,0.175
+2019,Japan,Slovenia,0.005
+2020,Japan,Slovenia,0.006
+2016,Japan,Slovenia,0.303
+2013,Japan,South Korea,0.328
+2012,Japan,South Korea,0.422
+2011,Japan,South Korea,1.131
+2017,Japan,South Korea,0.066
+2018,Japan,South Korea,0.003
+2019,Japan,South Korea,0.002
+2020,Japan,South Korea,0.002
+2010,Japan,South Korea,1.86
+2009,Japan,South Korea,1.494
+2014,Japan,South Korea,0.102
+2016,Japan,South Korea,0.126
+2015,Japan,South Korea,0.138
+2017,Japan,Taiwan,2.697
+2016,Japan,Taiwan,1.437
+2011,Japan,Taiwan,1.928
+2012,Japan,Taiwan,2.11
+2009,Japan,Taiwan,0.008
+2015,Japan,Taiwan,1.967
+2020,Japan,Taiwan,0.328
+2013,Japan,Taiwan,0.81
+2019,Japan,Taiwan,0.424
+2014,Japan,Taiwan,1.198
+2010,Japan,Taiwan,0.417
+2018,Japan,Taiwan,0.501
+2012,Japan,Thailand,0.915
+2011,Japan,Thailand,0.083
+2015,Japan,Thailand,0.492
+2013,Japan,Thailand,0.536
+2009,Japan,Thailand,0.035
+2020,Japan,Thailand,0.355
+2014,Japan,Thailand,0.774
+2019,Japan,Thailand,0.269
+2018,Japan,Thailand,0.357
+2010,Japan,Thailand,0.055
+2016,Japan,Thailand,0.488
+2017,Japan,Thailand,0.353
+2017,Japan,United Arab Emirates,23.964
+2019,Japan,United Arab Emirates,14.894
+2020,Japan,United Arab Emirates,14.542
+2012,Japan,United Arab Emirates,11.174
+2014,Japan,United Arab Emirates,17.665
+2016,Japan,United Arab Emirates,16.974
+2018,Japan,United Arab Emirates,21.808
+2010,Japan,United Arab Emirates,6.931
+2013,Japan,United Arab Emirates,9.731
+2011,Japan,United Arab Emirates,8.814
+2015,Japan,United Arab Emirates,14.915
+2009,Japan,United Arab Emirates,2.465
+2020,Japan,United Kingdom,0.655
+2014,Japan,United Kingdom,0.487
+2011,Japan,United Kingdom,1.035
+2013,Japan,United Kingdom,1.058
+2017,Japan,United Kingdom,1.113
+2012,Japan,United Kingdom,2.064
+2019,Japan,United Kingdom,0.689
+2009,Japan,United Kingdom,0.748
+2018,Japan,United Kingdom,0.871
+2010,Japan,United Kingdom,0.763
+2016,Japan,United Kingdom,0.756
+2015,Japan,United Kingdom,0.689
+2012,Japan,Viet Nam,0.01
+2011,Japan,Viet Nam,0.135
+2016,Japan,Viet Nam,0.127
+2017,Japan,Viet Nam,0.289
+2015,Japan,Viet Nam,0.077
+2010,Japan,Viet Nam,0.088
+2014,Japan,Viet Nam,0.205
+2009,Japan,Viet Nam,0.065
+2019,Japan,Viet Nam,0.227
+2013,Japan,Viet Nam,0.008
+2018,Japan,Viet Nam,0.218
+2020,Japan,Viet Nam,0.187
+2010,Kazakhstan,Republic of Moldova,0.931
+2018,Kuwait,Bahrain,0.009
+2012,Kuwait,Bahrain,0.0
+2009,Kuwait,Bahrain,0.062
+2019,Kuwait,Bahrain,0.045
+2013,Kuwait,Bahrain,0.175
+2010,Kuwait,Bahrain,0.29
+2020,Kuwait,Bahrain,0.011
+2016,Kuwait,Bahrain,0.007
+2015,Kuwait,Bahrain,0.032
+2017,Kuwait,Bahrain,0.138
+2011,Kuwait,United Arab Emirates,0.034
+2019,Kuwait,United Arab Emirates,0.072
+2010,Kuwait,United Arab Emirates,0.024
+2012,Kuwait,United Arab Emirates,0.064
+2020,Kuwait,United Arab Emirates,0.032
+2013,Kuwait,United Arab Emirates,0.045
+2017,Kuwait,United Arab Emirates,0.085
+2018,Kuwait,United Arab Emirates,0.089
+2016,Kuwait,United Arab Emirates,0.077
+2014,Kuwait,United Arab Emirates,0.047
+2009,Kuwait,United Arab Emirates,0.038
+2015,Kuwait,United Arab Emirates,0.061
+2017,Liberia,Bahamas,0.551
+2009,Liberia,Bahamas,0.019
+2018,Liberia,Bahamas,0.227
+2019,Liberia,Bahamas,0.247
+2009,Liberia,Bermuda,0.651
+2010,Liberia,Bermuda,0.243
+2012,Liberia,Cayman Islands,0.003
+2014,Liberia,Cayman Islands,0.216
+2011,Liberia,Cayman Islands,0.186
+2015,Liberia,Cayman Islands,0.178
+2010,Liberia,Cayman Islands,0.106
+2016,Liberia,Cayman Islands,0.39
+2013,Liberia,Cayman Islands,0.08
+2017,Liechtenstein,United Arab Emirates,0.176
+2015,Liechtenstein,United Arab Emirates,0.151
+2016,Liechtenstein,United Arab Emirates,0.16
+2014,Liechtenstein,United Arab Emirates,0.163
+2013,Liechtenstein,United Arab Emirates,0.104
+2010,Liechtenstein,United Arab Emirates,0.039
+2018,Liechtenstein,United Arab Emirates,0.137
+2012,Liechtenstein,United Arab Emirates,0.071
+2019,Liechtenstein,United Arab Emirates,0.129
+2020,Liechtenstein,United Arab Emirates,0.167
+2011,Liechtenstein,United Arab Emirates,0.032
+2013,Luxembourg,Bermuda,0.235
+2010,Luxembourg,Bermuda,0.183
+2016,Luxembourg,Bermuda,0.101
+2012,Luxembourg,Bermuda,0.157
+2019,Luxembourg,Bermuda,0.025
+2017,Luxembourg,Bermuda,0.174
+2014,Luxembourg,Bermuda,0.234
+2009,Luxembourg,Bermuda,0.174
+2011,Luxembourg,Bermuda,0.152
+2017,Luxembourg,Bulgaria,0.008
+2015,Luxembourg,Bulgaria,0.228
+2020,Luxembourg,Bulgaria,0.005
+2013,Luxembourg,Bulgaria,0.317
+2018,Luxembourg,Bulgaria,0.007
+2010,Luxembourg,Bulgaria,0.0
+2012,Luxembourg,Bulgaria,0.271
+2011,Luxembourg,Bulgaria,0.014
+2016,Luxembourg,Bulgaria,0.507
+2014,Luxembourg,Bulgaria,0.408
+2019,Luxembourg,Bulgaria,0.005
+2017,Luxembourg,Cyprus,1.076
+2013,Luxembourg,Cyprus,0.002
+2011,Luxembourg,Cyprus,0.001
+2010,Luxembourg,Cyprus,0.061
+2020,Luxembourg,Cyprus,0.31
+2016,Luxembourg,Cyprus,0.003
+2019,Luxembourg,Cyprus,0.278
+2012,Luxembourg,Cyprus,0.003
+2014,Luxembourg,Cyprus,0.028
+2015,Luxembourg,Cyprus,0.094
+2018,Luxembourg,Cyprus,0.463
+2015,Luxembourg,Hungary,0.005
+2010,Luxembourg,Hungary,0.001
+2016,Luxembourg,Hungary,0.005
+2017,Luxembourg,Hungary,0.026
+2018,Luxembourg,Hungary,0.102
+2019,Luxembourg,Hungary,0.111
+2009,Luxembourg,Hungary,0.0
+2011,Luxembourg,Hungary,0.001
+2020,Luxembourg,Hungary,0.334
+2013,Luxembourg,Hungary,0.006
+2016,Luxembourg,North Macedonia,0.554
+2012,Luxembourg,Paraguay,0.06
+2019,Luxembourg,Paraguay,0.342
+2016,Luxembourg,Paraguay,0.013
+2018,Luxembourg,Paraguay,0.139
+2017,Luxembourg,Paraguay,0.065
+2013,Luxembourg,Paraguay,0.076
+2012,Luxembourg,United Arab Emirates,0.004
+2018,Luxembourg,United Arab Emirates,1.042
+2010,Luxembourg,United Arab Emirates,0.236
+2016,Luxembourg,United Arab Emirates,0.147
+2013,Luxembourg,United Arab Emirates,0.018
+2009,Luxembourg,United Arab Emirates,0.001
+2011,Luxembourg,United Arab Emirates,0.521
+2017,Luxembourg,United Arab Emirates,1.683
+2020,Luxembourg,United Arab Emirates,0.163
+2015,Luxembourg,United Arab Emirates,0.024
+2019,Luxembourg,United Arab Emirates,0.219
+2014,Luxembourg,United Arab Emirates,0.014
+2009,Luxembourg,United Kingdom,0.002
+2012,Luxembourg,United Kingdom,0.019
+2018,Luxembourg,United Kingdom,0.099
+2011,Luxembourg,United Kingdom,0.001
+2014,Luxembourg,United Kingdom,0.451
+2019,Luxembourg,United Kingdom,0.044
+2010,Luxembourg,United Kingdom,0.0
+2016,Luxembourg,United Kingdom,0.09
+2015,Luxembourg,United Kingdom,0.04
+2017,Luxembourg,United Kingdom,0.047
+2020,Luxembourg,United Kingdom,0.115
+2013,Luxembourg,United Kingdom,0.027
+2019,Malaysia,Bahamas,0.027
+2015,Malaysia,Bahamas,2.607
+2011,Malaysia,Bermuda,8.877
+2018,Malaysia,Bermuda,0.247
+2020,Malaysia,Bermuda,0.147
+2012,Malaysia,Bermuda,4.006
+2014,Malaysia,Bermuda,6.0
+2009,Malaysia,Bermuda,0.06
+2015,Malaysia,Bermuda,0.227
+2019,Malaysia,Bermuda,0.186
+2013,Malaysia,Bermuda,2.765
+2016,Malaysia,Bermuda,0.714
+2010,Malaysia,Bermuda,1.285
+2017,Malaysia,Bermuda,7.838
+2018,Malaysia,British Virgin Islands,0.186
+2019,Malaysia,British Virgin Islands,0.125
+2017,Malaysia,British Virgin Islands,0.104
+2013,Malaysia,British Virgin Islands,0.181
+2016,Malaysia,British Virgin Islands,0.681
+2015,Malaysia,British Virgin Islands,0.044
+2020,Malaysia,British Virgin Islands,0.021
+2012,Malaysia,British Virgin Islands,0.092
+2014,Malaysia,British Virgin Islands,0.197
+2009,Malaysia,British Virgin Islands,0.035
+2011,Malaysia,British Virgin Islands,0.19
+2010,Malaysia,British Virgin Islands,0.023
+2010,Malaysia,Cayman Islands,0.217
+2014,Malaysia,Cayman Islands,0.19
+2009,Malaysia,Cayman Islands,1.19
+2012,Malaysia,Cayman Islands,0.146
+2016,Malaysia,Cayman Islands,0.077
+2019,Malaysia,Cayman Islands,1.881
+2018,Malaysia,Cayman Islands,0.104
+2013,Malaysia,Cayman Islands,0.295
+2011,Malaysia,Cayman Islands,0.096
+2015,Malaysia,Cayman Islands,0.143
+2017,Malaysia,Cayman Islands,0.617
+2020,Malaysia,Cayman Islands,0.086
+2020,Malaysia,Hong Kong,0.053
+2015,Malaysia,Hong Kong,0.105
+2013,Malaysia,Hong Kong,0.001
+2018,Malaysia,Hong Kong,0.161
+2011,Malaysia,Hong Kong,0.002
+2009,Malaysia,Hong Kong,0.001
+2016,Malaysia,Hong Kong,0.065
+2010,Malaysia,Hong Kong,0.002
+2017,Malaysia,Hong Kong,0.153
+2014,Malaysia,Hong Kong,0.048
+2012,Malaysia,Hong Kong,0.003
+2019,Malaysia,Hong Kong,0.047
+2011,Malaysia,United Arab Emirates,0.024
+2019,Malaysia,United Arab Emirates,0.183
+2017,Malaysia,United Arab Emirates,0.013
+2014,Malaysia,United Arab Emirates,0.131
+2013,Malaysia,United Arab Emirates,0.02
+2010,Malaysia,United Arab Emirates,0.013
+2009,Malaysia,United Arab Emirates,0.006
+2015,Malaysia,United Arab Emirates,0.027
+2018,Malaysia,United Arab Emirates,0.011
+2016,Malaysia,United Arab Emirates,4.591
+2020,Malaysia,United Arab Emirates,0.093
+2018,Mauritius,Bermuda,0.0
+2012,Mauritius,Bermuda,0.062
+2011,Mauritius,Bermuda,0.002
+2015,Mauritius,Bermuda,0.005
+2017,Mauritius,Bermuda,0.015
+2010,Mauritius,Bermuda,0.677
+2013,Mauritius,Bermuda,0.016
+2009,Mexico,Bahamas,1.336
+2011,Mexico,Bahamas,3.748
+2013,Mexico,Bahamas,3.463
+2010,Mexico,Bahamas,2.982
+2016,Mexico,Bahamas,0.171
+2014,Mexico,Bahamas,3.549
+2012,Mexico,Bahamas,6.348
+2011,Mexico,Bulgaria,1.394
+2020,Mexico,Bulgaria,0.836
+2010,Mexico,Bulgaria,2.117
+2012,Mexico,Bulgaria,2.01
+2015,Mexico,Canada,0.84
+2014,Mexico,Canada,0.559
+2011,Mexico,Canada,0.9
+2012,Mexico,Canada,0.867
+2013,Mexico,Canada,0.747
+2017,Mexico,Cayman Islands,0.636
+2018,Mexico,Cayman Islands,1.057
+2013,Mexico,Ecuador,0.206
+2012,Mexico,Ecuador,0.0
+2009,Mexico,Ecuador,0.001
+2014,Mexico,Ecuador,0.157
+2019,Mexico,Ecuador,0.085
+2017,Mexico,Ecuador,0.253
+2016,Mexico,Ecuador,0.428
+2015,Mexico,Ecuador,0.233
+2019,Mexico,Hungary,1.498
+2018,Mexico,Hungary,1.65
+2017,Mexico,Hungary,1.074
+2020,Mexico,Hungary,0.134
+2011,Mexico,Hungary,0.068
+2018,Mexico,Ireland,0.072
+2015,Mexico,Ireland,0.066
+2017,Mexico,Ireland,0.083
+2013,Mexico,Ireland,0.075
+2009,Mexico,Ireland,0.024
+2019,Mexico,Ireland,0.055
+2016,Mexico,Ireland,0.169
+2020,Mexico,Ireland,0.079
+2014,Mexico,Ireland,0.029
+2014,Mexico,North Macedonia,1.356
+2016,Mexico,North Macedonia,0.298
+2013,Mexico,North Macedonia,1.092
+2015,Mexico,North Macedonia,0.908
+2015,Mexico,Paraguay,0.039
+2017,Mexico,Paraguay,0.005
+2014,Mexico,Paraguay,0.096
+2016,Mexico,Paraguay,0.184
+2012,Mexico,Paraguay,0.029
+2019,Mexico,Paraguay,0.003
+2009,Mexico,Paraguay,0.802
+2013,Mexico,Paraguay,0.022
+2012,Mexico,Singapore,0.059
+2018,Mexico,Singapore,0.046
+2019,Mexico,Singapore,0.037
+2020,Mexico,Singapore,0.05
+2013,Mexico,Singapore,0.075
+2016,Mexico,Singapore,0.091
+2014,Mexico,Singapore,0.097
+2017,Mexico,Singapore,0.143
+2015,Mexico,Singapore,0.138
+2020,Mexico,Spain,0.051
+2018,Mexico,Spain,0.231
+2017,Mexico,Spain,0.017
+2016,Mexico,Spain,0.71
+2017,Mexico,United Arab Emirates,0.156
+2019,Mexico,United Arab Emirates,0.048
+2012,Mexico,United Arab Emirates,0.078
+2009,Mexico,United Arab Emirates,0.163
+2010,Mexico,United Arab Emirates,0.084
+2015,Mexico,United Arab Emirates,0.061
+2011,Mexico,United Arab Emirates,0.171
+2010,Mexico,United Kingdom,0.122
+2015,Mexico,United Kingdom,0.044
+2014,Mexico,United Kingdom,0.015
+2016,Mexico,United Kingdom,0.322
+2017,Mexico,United Kingdom,0.208
+2020,Mexico,United Kingdom,0.099
+2019,Mexico,United Kingdom,0.131
+2018,Mexico,United Kingdom,0.182
+2013,Mexico,United Kingdom,0.029
+2012,Mexico,United Kingdom,0.045
+2012,Netherlands,Bahamas,0.058
+2013,Netherlands,Bahamas,0.066
+2010,Netherlands,Bahamas,0.085
+2019,Netherlands,Bahamas,0.027
+2017,Netherlands,Bahamas,0.027
+2011,Netherlands,Bahamas,0.042
+2015,Netherlands,Bahamas,0.285
+2014,Netherlands,Bahamas,0.096
+2016,Netherlands,Bermuda,1.205
+2010,Netherlands,Bermuda,0.673
+2017,Netherlands,Bermuda,0.836
+2009,Netherlands,Bermuda,0.161
+2013,Netherlands,Bermuda,2.689
+2020,Netherlands,Bermuda,0.309
+2014,Netherlands,Bermuda,0.143
+2018,Netherlands,Bermuda,0.927
+2019,Netherlands,Bermuda,0.251
+2012,Netherlands,Bermuda,0.156
+2015,Netherlands,Bermuda,1.756
+2011,Netherlands,Bermuda,0.03
+2011,Netherlands,Bosnia and Herzegovina,0.0
+2017,Netherlands,Bosnia and Herzegovina,0.283
+2013,Netherlands,Bosnia and Herzegovina,0.001
+2019,Netherlands,Bosnia and Herzegovina,0.005
+2016,Netherlands,Bosnia and Herzegovina,0.013
+2012,Netherlands,Bosnia and Herzegovina,0.0
+2009,Netherlands,Bosnia and Herzegovina,0.001
+2014,Netherlands,Bosnia and Herzegovina,0.012
+2018,Netherlands,Bosnia and Herzegovina,0.488
+2015,Netherlands,Bosnia and Herzegovina,0.001
+2013,Netherlands,British Virgin Islands,1.144
+2019,Netherlands,British Virgin Islands,2.175
+2014,Netherlands,British Virgin Islands,1.353
+2009,Netherlands,British Virgin Islands,0.033
+2017,Netherlands,British Virgin Islands,2.316
+2018,Netherlands,British Virgin Islands,0.0
+2012,Netherlands,British Virgin Islands,0.063
+2011,Netherlands,British Virgin Islands,0.858
+2016,Netherlands,British Virgin Islands,0.075
+2010,Netherlands,British Virgin Islands,0.039
+2020,Netherlands,British Virgin Islands,1.707
+2015,Netherlands,British Virgin Islands,0.587
+2015,Netherlands,Bulgaria,2.416
+2010,Netherlands,Bulgaria,1.637
+2009,Netherlands,Bulgaria,0.555
+2019,Netherlands,Bulgaria,0.345
+2016,Netherlands,Bulgaria,0.064
+2011,Netherlands,Bulgaria,1.516
+2014,Netherlands,Bulgaria,2.253
+2013,Netherlands,Bulgaria,0.15
+2018,Netherlands,Bulgaria,0.188
+2012,Netherlands,Bulgaria,1.184
+2017,Netherlands,Bulgaria,0.302
+2020,Netherlands,Bulgaria,0.061
+2014,Netherlands,Cayman Islands,0.25
+2020,Netherlands,Cayman Islands,0.009
+2010,Netherlands,Cayman Islands,1.206
+2017,Netherlands,Cayman Islands,0.189
+2016,Netherlands,Cayman Islands,2.29
+2015,Netherlands,Cayman Islands,0.787
+2018,Netherlands,Cayman Islands,2.914
+2013,Netherlands,Cayman Islands,0.121
+2009,Netherlands,Cayman Islands,1.048
+2011,Netherlands,Cayman Islands,0.525
+2012,Netherlands,Cayman Islands,1.519
+2017,Netherlands,Cyprus,0.083
+2014,Netherlands,Cyprus,0.054
+2019,Netherlands,Cyprus,0.009
+2018,Netherlands,Cyprus,0.019
+2012,Netherlands,Cyprus,0.044
+2010,Netherlands,Cyprus,0.073
+2020,Netherlands,Cyprus,0.047
+2009,Netherlands,Cyprus,0.074
+2015,Netherlands,Cyprus,0.047
+2011,Netherlands,Cyprus,0.079
+2016,Netherlands,Cyprus,0.003
+2013,Netherlands,Cyprus,0.026
+2011,Netherlands,Czechia,0.113
+2010,Netherlands,Czechia,0.076
+2017,Netherlands,Czechia,0.048
+2012,Netherlands,Czechia,0.066
+2015,Netherlands,Czechia,0.066
+2014,Netherlands,Czechia,0.046
+2016,Netherlands,Czechia,0.396
+2009,Netherlands,Czechia,0.022
+2013,Netherlands,Czechia,1.363
+2018,Netherlands,Czechia,0.01
+2019,Netherlands,Czechia,0.021
+2020,Netherlands,Czechia,0.022
+2018,Netherlands,Hong Kong,0.041
+2020,Netherlands,Hong Kong,0.03
+2019,Netherlands,Hong Kong,0.122
+2014,Netherlands,Hong Kong,0.23
+2017,Netherlands,Hong Kong,0.146
+2011,Netherlands,Hong Kong,0.106
+2009,Netherlands,Hong Kong,0.046
+2015,Netherlands,Hong Kong,0.397
+2013,Netherlands,Hong Kong,0.146
+2016,Netherlands,Hong Kong,0.234
+2010,Netherlands,Hong Kong,0.176
+2012,Netherlands,Hong Kong,0.216
+2020,Netherlands,Hungary,1.045
+2012,Netherlands,Hungary,0.046
+2009,Netherlands,Hungary,0.254
+2018,Netherlands,Hungary,1.193
+2017,Netherlands,Hungary,2.337
+2013,Netherlands,Hungary,0.013
+2019,Netherlands,Hungary,0.611
+2014,Netherlands,Hungary,0.048
+2010,Netherlands,Hungary,0.061
+2011,Netherlands,Hungary,0.047
+2015,Netherlands,Hungary,0.018
+2016,Netherlands,Hungary,0.019
+2014,Netherlands,Ireland,2.532
+2012,Netherlands,Ireland,1.003
+2015,Netherlands,Ireland,2.352
+2020,Netherlands,Ireland,0.784
+2010,Netherlands,Ireland,1.182
+2009,Netherlands,Ireland,1.069
+2019,Netherlands,Ireland,0.435
+2011,Netherlands,Ireland,1.527
+2016,Netherlands,Ireland,2.657
+2013,Netherlands,Ireland,2.253
+2018,Netherlands,Ireland,0.121
+2017,Netherlands,Ireland,0.397
+2013,Netherlands,Latvia,0.003
+2014,Netherlands,Latvia,0.004
+2017,Netherlands,Latvia,0.009
+2015,Netherlands,Latvia,0.009
+2009,Netherlands,Latvia,0.008
+2016,Netherlands,Latvia,0.006
+2011,Netherlands,Latvia,0.125
+2012,Netherlands,Latvia,0.216
+2010,Netherlands,Latvia,0.122
+2012,Netherlands,Paraguay,1.821
+2014,Netherlands,Paraguay,0.054
+2015,Netherlands,Paraguay,0.056
+2013,Netherlands,Paraguay,0.027
+2016,Netherlands,Paraguay,0.097
+2018,Netherlands,Poland,0.032
+2011,Netherlands,Poland,0.076
+2017,Netherlands,Poland,0.29
+2015,Netherlands,Poland,0.307
+2020,Netherlands,Poland,0.041
+2012,Netherlands,Poland,0.312
+2010,Netherlands,Poland,0.1
+2013,Netherlands,Poland,0.092
+2009,Netherlands,Poland,0.139
+2014,Netherlands,Poland,0.106
+2019,Netherlands,Poland,0.045
+2016,Netherlands,Poland,0.27
+2011,Netherlands,Romania,0.197
+2014,Netherlands,Romania,0.13
+2018,Netherlands,Romania,0.295
+2010,Netherlands,Romania,0.133
+2016,Netherlands,Romania,0.173
+2019,Netherlands,Romania,0.251
+2017,Netherlands,Romania,0.13
+2020,Netherlands,Romania,0.061
+2012,Netherlands,Romania,0.095
+2015,Netherlands,Romania,0.352
+2009,Netherlands,Romania,0.056
+2013,Netherlands,Romania,0.321
+2014,Netherlands,Russian Federation,0.265
+2016,Netherlands,Russian Federation,0.068
+2012,Netherlands,Russian Federation,0.223
+2019,Netherlands,Russian Federation,0.06
+2009,Netherlands,Russian Federation,0.224
+2018,Netherlands,Russian Federation,0.068
+2017,Netherlands,Russian Federation,0.041
+2010,Netherlands,Russian Federation,0.12
+2015,Netherlands,Russian Federation,0.12
+2020,Netherlands,Russian Federation,0.018
+2011,Netherlands,Russian Federation,0.229
+2013,Netherlands,Russian Federation,0.254
+2018,Netherlands,Samoa,0.593
+2017,Netherlands,Samoa,0.594
+2016,Netherlands,Samoa,0.385
+2011,Netherlands,Serbia,1.563
+2015,Netherlands,Serbia,0.069
+2012,Netherlands,Serbia,0.2
+2019,Netherlands,Serbia,0.039
+2013,Netherlands,Serbia,0.03
+2018,Netherlands,Serbia,0.054
+2017,Netherlands,Serbia,0.075
+2014,Netherlands,Serbia,0.048
+2009,Netherlands,Serbia,0.114
+2016,Netherlands,Serbia,0.128
+2010,Netherlands,Serbia,0.861
+2020,Netherlands,Serbia,0.013
+2020,Netherlands,Singapore,0.019
+2010,Netherlands,Singapore,0.208
+2013,Netherlands,Singapore,0.078
+2017,Netherlands,Singapore,0.157
+2018,Netherlands,Singapore,0.092
+2014,Netherlands,Singapore,0.169
+2009,Netherlands,Singapore,0.002
+2012,Netherlands,Singapore,0.09
+2011,Netherlands,Singapore,0.084
+2015,Netherlands,Singapore,0.165
+2019,Netherlands,Singapore,0.018
+2016,Netherlands,Singapore,0.237
+2011,Netherlands,United Arab Emirates,0.401
+2013,Netherlands,United Arab Emirates,1.294
+2014,Netherlands,United Arab Emirates,2.32
+2012,Netherlands,United Arab Emirates,0.641
+2017,Netherlands,United Arab Emirates,4.524
+2016,Netherlands,United Arab Emirates,4.026
+2020,Netherlands,United Arab Emirates,0.815
+2018,Netherlands,United Arab Emirates,2.118
+2009,Netherlands,United Arab Emirates,0.131
+2019,Netherlands,United Arab Emirates,1.514
+2010,Netherlands,United Arab Emirates,0.514
+2015,Netherlands,United Arab Emirates,1.118
+2012,Netherlands,United Kingdom,0.112
+2016,Netherlands,United Kingdom,0.303
+2014,Netherlands,United Kingdom,0.234
+2018,Netherlands,United Kingdom,0.168
+2013,Netherlands,United Kingdom,0.287
+2015,Netherlands,United Kingdom,0.5
+2020,Netherlands,United Kingdom,0.093
+2019,Netherlands,United Kingdom,0.142
+2017,Netherlands,United Kingdom,0.599
+2010,New Zealand,Bermuda,0.041
+2019,New Zealand,Bermuda,0.079
+2011,New Zealand,Bermuda,0.039
+2020,New Zealand,Bermuda,0.097
+2016,New Zealand,Bermuda,0.107
+2015,New Zealand,Bermuda,0.114
+2013,New Zealand,Bermuda,0.071
+2017,New Zealand,Bermuda,0.127
+2012,New Zealand,Bermuda,0.248
+2009,New Zealand,Bermuda,0.037
+2018,New Zealand,Bermuda,0.082
+2010,Norway,Bahamas,2.84
+2018,Norway,Bahamas,3.296
+2009,Norway,Bahamas,3.186
+2012,Norway,Bahamas,5.476
+2011,Norway,Bahamas,5.171
+2020,Norway,Bermuda,0.188
+2015,Norway,Bermuda,0.229
+2013,Norway,Bermuda,0.016
+2011,Norway,Bermuda,0.021
+2014,Norway,Bermuda,0.012
+2009,Norway,Bermuda,0.026
+2016,Norway,Bermuda,0.198
+2012,Norway,Bermuda,0.027
+2019,Norway,Bermuda,0.119
+2018,Norway,Bermuda,0.096
+2017,Norway,Bermuda,0.183
+2014,Norway,Bosnia and Herzegovina,3.693
+2015,Norway,British Virgin Islands,0.002
+2018,Norway,British Virgin Islands,0.0
+2010,Norway,British Virgin Islands,0.263
+2017,Norway,British Virgin Islands,2.63
+2014,Norway,British Virgin Islands,0.004
+2009,Norway,British Virgin Islands,0.069
+2016,Norway,British Virgin Islands,0.007
+2019,Norway,British Virgin Islands,1.915
+2018,Norway,Bulgaria,0.397
+2016,Norway,Bulgaria,0.095
+2010,Norway,Bulgaria,0.006
+2009,Norway,Bulgaria,0.15
+2013,Norway,Bulgaria,0.068
+2020,Norway,Bulgaria,0.011
+2017,Norway,Bulgaria,0.331
+2011,Norway,Bulgaria,0.001
+2019,Norway,Bulgaria,0.019
+2014,Norway,Bulgaria,0.298
+2015,Norway,Bulgaria,0.048
+2012,Norway,Bulgaria,0.001
+2013,Norway,Cyprus,0.073
+2018,Norway,Cyprus,0.056
+2016,Norway,Cyprus,0.023
+2017,Norway,Cyprus,0.05
+2015,Norway,Cyprus,0.002
+2020,Norway,Cyprus,0.169
+2019,Norway,Cyprus,0.011
+2009,Norway,Cyprus,0.063
+2014,Norway,Cyprus,0.058
+2010,Norway,Cyprus,0.107
+2012,Norway,Cyprus,0.074
+2011,Norway,Cyprus,0.1
+2009,Norway,Hungary,0.018
+2019,Norway,Hungary,0.077
+2015,Norway,Hungary,0.005
+2017,Norway,Hungary,0.221
+2010,Norway,Hungary,0.002
+2018,Norway,Hungary,0.239
+2020,Norway,Hungary,0.22
+2014,Norway,Hungary,0.001
+2016,Norway,Hungary,0.002
+2012,Norway,Ireland,0.034
+2017,Norway,Ireland,0.104
+2010,Norway,Ireland,0.0
+2019,Norway,Ireland,0.484
+2016,Norway,Ireland,0.418
+2014,Norway,Ireland,0.106
+2013,Norway,Ireland,0.211
+2018,Norway,Ireland,0.162
+2009,Norway,Ireland,0.023
+2020,Norway,Ireland,0.049
+2015,Norway,Ireland,0.145
+2011,Norway,Ireland,0.463
+2010,Norway,Latvia,0.074
+2015,Norway,Latvia,0.17
+2018,Norway,Latvia,0.005
+2009,Norway,Latvia,0.097
+2016,Norway,Latvia,0.192
+2019,Norway,Latvia,0.002
+2013,Norway,Latvia,0.065
+2011,Norway,Latvia,0.095
+2014,Norway,Latvia,0.105
+2020,Norway,Latvia,0.001
+2012,Norway,Latvia,0.134
+2017,Norway,Latvia,0.025
+2012,Norway,Lithuania,0.316
+2010,Norway,Lithuania,0.317
+2017,Norway,Lithuania,0.036
+2011,Norway,Lithuania,0.002
+2018,Norway,Lithuania,0.033
+2014,Norway,Lithuania,0.28
+2015,Norway,Lithuania,0.136
+2016,Norway,Lithuania,0.107
+2019,Norway,Lithuania,0.059
+2009,Norway,Lithuania,0.003
+2020,Norway,Lithuania,0.046
+2013,Norway,Lithuania,0.274
+2012,Norway,Montenegro,0.116
+2017,Norway,Montenegro,0.311
+2016,Norway,Montenegro,0.341
+2013,Norway,Montenegro,0.365
+2011,Norway,Montenegro,0.131
+2015,Norway,Montenegro,0.26
+2010,Norway,Montenegro,0.21
+2014,Norway,Montenegro,0.398
+2013,Norway,North Macedonia,3.408
+2011,Norway,Singapore,0.006
+2015,Norway,Singapore,0.14
+2009,Norway,Singapore,0.011
+2019,Norway,Singapore,0.045
+2017,Norway,Singapore,0.02
+2018,Norway,Singapore,0.021
+2010,Norway,Singapore,0.026
+2013,Norway,Singapore,0.052
+2020,Norway,Singapore,0.01
+2014,Norway,Singapore,0.134
+2012,Norway,Singapore,0.043
+2016,Norway,Singapore,0.295
+2009,Norway,Sweden,0.195
+2020,Norway,Sweden,0.041
+2019,Norway,Sweden,0.022
+2010,Norway,Sweden,0.015
+2014,Norway,Sweden,0.183
+2011,Norway,Sweden,0.015
+2017,Norway,Sweden,0.028
+2018,Norway,Sweden,0.02
+2012,Norway,Sweden,0.021
+2013,Norway,Sweden,0.29
+2015,Norway,Sweden,0.134
+2016,Norway,Sweden,0.059
+2009,Norway,United Arab Emirates,0.056
+2010,Norway,United Arab Emirates,0.088
+2012,Norway,United Arab Emirates,0.139
+2018,Norway,United Arab Emirates,0.074
+2017,Norway,United Arab Emirates,0.447
+2020,Norway,United Arab Emirates,0.227
+2019,Norway,United Arab Emirates,0.113
+2011,Norway,United Arab Emirates,0.042
+2016,Norway,United Arab Emirates,0.078
+2014,Norway,United Arab Emirates,0.111
+2015,Norway,United Arab Emirates,0.124
+2013,Norway,United Arab Emirates,0.221
+2011,Norway,United Kingdom,0.014
+2019,Norway,United Kingdom,0.035
+2016,Norway,United Kingdom,0.167
+2014,Norway,United Kingdom,0.047
+2017,Norway,United Kingdom,0.092
+2018,Norway,United Kingdom,0.056
+2020,Norway,United Kingdom,0.053
+2015,Norway,United Kingdom,0.081
+2013,Norway,United Kingdom,0.076
+2012,Norway,United Kingdom,0.121
+2019,Pakistan,United Arab Emirates,0.026
+2013,Pakistan,United Arab Emirates,0.006
+2014,Pakistan,United Arab Emirates,0.072
+2015,Pakistan,United Arab Emirates,0.129
+2020,Pakistan,United Arab Emirates,0.016
+2018,Pakistan,United Arab Emirates,0.07
+2012,Pakistan,United Arab Emirates,0.005
+2017,Pakistan,United Arab Emirates,0.099
+2011,Pakistan,United Arab Emirates,0.0
+2016,Pakistan,United Arab Emirates,0.665
+2012,Panama,Cayman Islands,0.133
+2019,Panama,Cayman Islands,0.036
+2014,Panama,Cayman Islands,0.063
+2017,Panama,Cayman Islands,0.075
+2015,Panama,Cayman Islands,0.119
+2013,Panama,Cayman Islands,0.151
+2016,Panama,Cayman Islands,0.074
+2014,Philippines,British Virgin Islands,0.372
+2016,Philippines,British Virgin Islands,0.233
+2018,Philippines,British Virgin Islands,0.552
+2009,Philippines,British Virgin Islands,0.025
+2020,Philippines,British Virgin Islands,0.213
+2019,Philippines,British Virgin Islands,0.534
+2017,Philippines,British Virgin Islands,0.364
+2015,Philippines,British Virgin Islands,0.257
+2013,Philippines,British Virgin Islands,0.013
+2009,Poland,Hungary,0.015
+2018,Poland,Hungary,0.101
+2019,Poland,Hungary,0.077
+2020,Poland,Hungary,0.104
+2017,Poland,Hungary,0.452
+2018,Poland,Lithuania,0.0
+2020,Poland,Lithuania,0.0
+2012,Poland,Lithuania,0.057
+2019,Poland,Lithuania,0.0
+2011,Poland,Lithuania,0.029
+2010,Poland,Lithuania,0.041
+2016,Poland,Lithuania,0.271
+2013,Poland,Lithuania,0.009
+2017,Poland,Lithuania,0.001
+2014,Poland,Lithuania,0.003
+2015,Poland,Lithuania,0.157
+2012,Portugal,Romania,0.131
+2019,Portugal,Romania,0.014
+2015,Portugal,Romania,0.337
+2018,Portugal,Romania,0.031
+2020,Portugal,Romania,0.006
+2014,Portugal,Romania,0.26
+2009,Portugal,Romania,0.238
+2010,Portugal,Romania,0.325
+2017,Portugal,Romania,0.419
+2013,Portugal,Romania,0.241
+2016,Portugal,Romania,0.26
+2011,Portugal,Romania,0.326
+2017,Qatar,Cayman Islands,0.329
+2013,Qatar,Cayman Islands,0.031
+2016,Qatar,Cayman Islands,4.824
+2015,Qatar,Cayman Islands,4.162
+2014,Qatar,Cayman Islands,0.0
+2018,Qatar,United Arab Emirates,6.142
+2017,Qatar,United Arab Emirates,3.711
+2011,Russia,Bahamas,0.931
+2012,Russia,British Virgin Islands,1.808
+2017,Russia,British Virgin Islands,0.223
+2018,Russia,British Virgin Islands,0.126
+2010,Russia,British Virgin Islands,0.479
+2019,Russia,British Virgin Islands,0.246
+2014,Russia,British Virgin Islands,1.2
+2020,Russia,British Virgin Islands,0.041
+2013,Russia,British Virgin Islands,1.379
+2015,Russia,British Virgin Islands,0.227
+2016,Russia,British Virgin Islands,1.235
+2011,Russia,British Virgin Islands,0.691
+2009,Russia,British Virgin Islands,0.645
+2017,Russia,Cayman Islands,0.008
+2018,Russia,Cayman Islands,0.023
+2020,Russia,Cayman Islands,0.011
+2019,Russia,Cayman Islands,0.02
+2011,Russia,Cayman Islands,0.485
+2016,Russia,Cayman Islands,0.011
+2012,Russia,Cyprus,0.759
+2015,Russia,Cyprus,0.211
+2013,Russia,Cyprus,0.172
+2020,Russia,Cyprus,0.172
+2019,Russia,Cyprus,0.428
+2009,Russia,Cyprus,0.408
+2017,Russia,Cyprus,0.069
+2014,Russia,Cyprus,0.289
+2018,Russia,Cyprus,0.078
+2011,Russia,Cyprus,0.678
+2010,Russia,Cyprus,1.099
+2016,Russia,Cyprus,0.358
+2020,Russia,Hungary,0.029
+2017,Russia,Hungary,0.662
+2018,Russia,Hungary,0.0
+2019,Russia,Hungary,0.386
+2016,Russia,Kyrgyzstan,0.652
+2019,Russia,Kyrgyzstan,0.0
+2018,Russia,Kyrgyzstan,0.0
+2020,Russia,Kyrgyzstan,0.0
+2012,Russia,Turkmenistan,0.013
+2011,Russia,Turkmenistan,0.015
+2013,Russia,Turkmenistan,0.49
+2010,Russia,Turkmenistan,0.013
+2018,Russia,Turkmenistan,0.437
+2018,Russia,United Arab Emirates,0.941
+2014,Russia,United Arab Emirates,0.0
+2019,Russia,United Arab Emirates,0.869
+2010,Russia,United Arab Emirates,0.846
+2012,Russia,United Arab Emirates,0.056
+2015,Russia,United Arab Emirates,1.423
+2011,Russia,United Arab Emirates,0.08
+2017,Russia,United Arab Emirates,2.963
+2020,Russia,United Arab Emirates,0.109
+2016,Russia,United Arab Emirates,0.179
+2013,Russia,United Arab Emirates,0.313
+2011,Saudi Arabia,Bahrain,0.043
+2012,Saudi Arabia,Bahrain,0.008
+2018,Saudi Arabia,Bahrain,0.008
+2013,Saudi Arabia,Bahrain,0.074
+2016,Saudi Arabia,Bahrain,0.061
+2010,Saudi Arabia,Bahrain,0.016
+2009,Saudi Arabia,Bahrain,0.02
+2014,Saudi Arabia,Bahrain,2.35
+2012,Saudi Arabia,Hong Kong,2.066
+2009,Saudi Arabia,Hungary,0.706
+2013,Saudi Arabia,Lebanon,2.157
+2015,Saudi Arabia,Lebanon,2.423
+2012,Saudi Arabia,Lebanon,0.001
+2011,Saudi Arabia,Singapore,2.565
+2012,Saudi Arabia,Singapore,0.095
+2010,Saudi Arabia,Singapore,2.219
+2013,Saudi Arabia,Singapore,0.033
+2012,Saudi Arabia,United Arab Emirates,0.022
+2018,Saudi Arabia,United Arab Emirates,23.477
+2020,Saudi Arabia,United Arab Emirates,0.005
+2013,Saudi Arabia,United Arab Emirates,0.027
+2009,Saudi Arabia,United Arab Emirates,0.004
+2015,Saudi Arabia,United Arab Emirates,0.048
+2017,Saudi Arabia,United Arab Emirates,51.764
+2014,Saudi Arabia,United Arab Emirates,0.001
+2011,Saudi Arabia,United Arab Emirates,0.006
+2010,Saudi Arabia,United Arab Emirates,0.044
+2016,Saudi Arabia,United Arab Emirates,15.281
+2019,Saudi Arabia,United Arab Emirates,20.751
+2019,Singapore,Bermuda,0.024
+2010,Singapore,Bermuda,1.152
+2009,Singapore,Bermuda,1.565
+2017,Singapore,Bermuda,0.115
+2013,Singapore,Bermuda,0.003
+2011,Singapore,Bermuda,2.864
+2016,Singapore,Bermuda,0.003
+2012,Singapore,Bermuda,0.117
+2014,Singapore,Bermuda,0.545
+2017,Singapore,British Virgin Islands,0.294
+2018,Singapore,British Virgin Islands,0.337
+2019,Singapore,British Virgin Islands,0.142
+2015,Singapore,British Virgin Islands,0.762
+2020,Singapore,British Virgin Islands,0.304
+2012,Singapore,British Virgin Islands,0.428
+2013,Singapore,British Virgin Islands,1.218
+2010,Singapore,British Virgin Islands,0.805
+2009,Singapore,British Virgin Islands,0.317
+2011,Singapore,British Virgin Islands,0.784
+2014,Singapore,British Virgin Islands,0.462
+2016,Singapore,British Virgin Islands,0.547
+2019,Singapore,Cayman Islands,0.155
+2012,Singapore,Cayman Islands,1.293
+2014,Singapore,Cayman Islands,0.005
+2020,Singapore,Cayman Islands,0.026
+2017,Singapore,Cayman Islands,0.36
+2010,Singapore,Cayman Islands,0.008
+2016,Singapore,Cayman Islands,0.22
+2013,Singapore,Cayman Islands,0.102
+2015,Singapore,Cayman Islands,0.244
+2011,Singapore,Cayman Islands,0.008
+2018,Singapore,Cayman Islands,0.112
+2013,Singapore,Hong Kong,0.157
+2010,Singapore,Hong Kong,0.112
+2015,Singapore,Hong Kong,0.125
+2017,Singapore,Hong Kong,0.236
+2012,Singapore,Hong Kong,0.142
+2016,Singapore,Hong Kong,0.081
+2020,Singapore,Hong Kong,0.032
+2019,Singapore,Hong Kong,0.03
+2011,Singapore,Hong Kong,0.121
+2018,Singapore,Hong Kong,0.155
+2009,Singapore,Hong Kong,0.029
+2014,Singapore,Hong Kong,0.096
+2016,Singapore,Ireland,0.37
+2017,Singapore,Ireland,0.443
+2010,Singapore,Ireland,0.036
+2020,Singapore,Ireland,0.01
+2018,Singapore,Ireland,0.326
+2019,Singapore,Ireland,0.009
+2013,Singapore,Ireland,0.047
+2014,Singapore,Ireland,0.064
+2011,Singapore,Ireland,0.037
+2012,Singapore,Ireland,0.021
+2009,Singapore,Ireland,0.033
+2015,Singapore,Ireland,0.839
+2014,Singapore,United Arab Emirates,0.157
+2010,Singapore,United Arab Emirates,0.224
+2016,Singapore,United Arab Emirates,0.034
+2017,Singapore,United Arab Emirates,0.267
+2019,Singapore,United Arab Emirates,0.11
+2009,Singapore,United Arab Emirates,0.163
+2018,Singapore,United Arab Emirates,0.14
+2011,Singapore,United Arab Emirates,0.078
+2020,Singapore,United Arab Emirates,0.069
+2015,Singapore,United Arab Emirates,0.001
+2012,Singapore,United Arab Emirates,0.072
+2013,Singapore,United Arab Emirates,1.849
+2011,South Africa,Bermuda,0.043
+2019,South Africa,Bermuda,0.098
+2014,South Africa,Bermuda,0.935
+2009,South Africa,Bermuda,0.01
+2010,South Africa,Bermuda,0.041
+2018,South Africa,Bermuda,0.201
+2012,South Africa,Bermuda,0.062
+2013,South Africa,Bermuda,0.138
+2017,South Africa,British Virgin Islands,0.147
+2013,South Africa,British Virgin Islands,0.063
+2016,South Africa,British Virgin Islands,0.175
+2020,South Africa,British Virgin Islands,0.4
+2015,South Africa,British Virgin Islands,0.472
+2019,South Africa,British Virgin Islands,1.242
+2012,South Africa,British Virgin Islands,0.391
+2010,South Africa,British Virgin Islands,0.187
+2009,South Africa,British Virgin Islands,2.363
+2011,South Africa,British Virgin Islands,0.237
+2014,South Africa,British Virgin Islands,1.849
+2018,South Africa,British Virgin Islands,0.117
+2012,South Africa,Cyprus,0.112
+2014,South Africa,Cyprus,0.011
+2017,South Africa,Cyprus,0.238
+2016,South Africa,Cyprus,0.148
+2011,South Africa,Cyprus,0.26
+2010,South Africa,Cyprus,0.141
+2009,South Africa,Hong Kong,0.053
+2015,South Africa,Hong Kong,0.925
+2011,South Africa,Hong Kong,0.291
+2012,South Africa,Hong Kong,0.283
+2017,South Africa,Hong Kong,0.06
+2010,South Africa,Hong Kong,0.211
+2013,South Africa,Hong Kong,0.0
+2010,South Africa,Mauritius,0.037
+2018,South Africa,Mauritius,0.043
+2014,South Africa,Mauritius,0.088
+2017,South Africa,Mauritius,0.026
+2015,South Africa,Mauritius,0.088
+2020,South Africa,Mauritius,0.035
+2016,South Africa,Mauritius,0.083
+2012,South Africa,Mauritius,0.074
+2019,South Africa,Mauritius,0.036
+2013,South Africa,Mauritius,0.05
+2009,South Africa,Mauritius,0.072
+2011,South Africa,Mauritius,0.019
+2016,South Africa,United Arab Emirates,1.027
+2010,South Africa,United Arab Emirates,0.559
+2014,South Africa,United Arab Emirates,0.362
+2011,South Africa,United Arab Emirates,0.902
+2020,South Africa,United Arab Emirates,0.841
+2017,South Africa,United Arab Emirates,1.66
+2019,South Africa,United Arab Emirates,0.244
+2012,South Africa,United Arab Emirates,1.098
+2015,South Africa,United Arab Emirates,0.88
+2013,South Africa,United Arab Emirates,0.992
+2018,South Africa,United Arab Emirates,2.414
+2009,South Africa,United Arab Emirates,0.518
+2013,South Africa,United Kingdom,0.022
+2009,South Africa,United Kingdom,0.033
+2010,South Africa,United Kingdom,0.047
+2016,South Africa,United Kingdom,0.107
+2019,South Africa,United Kingdom,0.073
+2018,South Africa,United Kingdom,0.182
+2015,South Africa,United Kingdom,0.09
+2014,South Africa,United Kingdom,0.039
+2012,South Africa,United Kingdom,0.03
+2020,South Africa,United Kingdom,0.03
+2011,South Africa,United Kingdom,0.089
+2017,South Africa,United Kingdom,0.16
+2017,South Korea,Bahrain,0.187
+2014,South Korea,Bahrain,0.407
+2016,South Korea,Bahrain,0.361
+2012,South Korea,Bahrain,0.094
+2018,South Korea,Bahrain,0.086
+2015,South Korea,Bahrain,0.398
+2020,South Korea,Bahrain,0.002
+2010,South Korea,British Virgin Islands,0.002
+2011,South Korea,British Virgin Islands,0.14
+2017,South Korea,British Virgin Islands,0.373
+2019,South Korea,British Virgin Islands,0.048
+2020,South Korea,British Virgin Islands,0.047
+2013,South Korea,British Virgin Islands,0.071
+2012,South Korea,British Virgin Islands,0.177
+2016,South Korea,Bulgaria,0.015
+2015,South Korea,Bulgaria,0.0
+2014,South Korea,Bulgaria,0.096
+2017,South Korea,Bulgaria,0.001
+2011,South Korea,Bulgaria,0.475
+2020,South Korea,Bulgaria,0.002
+2019,South Korea,Bulgaria,0.01
+2013,South Korea,Bulgaria,0.024
+2018,South Korea,Bulgaria,0.024
+2012,South Korea,Bulgaria,0.16
+2009,South Korea,Bulgaria,0.214
+2010,South Korea,Bulgaria,0.749
+2014,South Korea,Cayman Islands,2.929
+2010,South Korea,Cayman Islands,2.539
+2020,South Korea,Cayman Islands,0.094
+2013,South Korea,Cayman Islands,3.135
+2017,South Korea,Cayman Islands,1.609
+2015,South Korea,Cayman Islands,2.201
+2011,South Korea,Cayman Islands,2.987
+2012,South Korea,Cayman Islands,2.809
+2018,South Korea,Cayman Islands,0.149
+2016,South Korea,Cayman Islands,1.621
+2019,South Korea,Cayman Islands,0.07
+2009,South Korea,Cayman Islands,0.892
+2014,South Korea,Czechia,0.218
+2018,South Korea,Czechia,0.091
+2019,South Korea,Czechia,0.127
+2012,South Korea,Czechia,0.633
+2011,South Korea,Czechia,0.216
+2015,South Korea,Czechia,0.158
+2016,South Korea,Czechia,0.258
+2013,South Korea,Czechia,0.213
+2020,South Korea,Czechia,0.23
+2009,South Korea,Czechia,0.107
+2017,South Korea,Czechia,0.791
+2010,South Korea,Czechia,0.541
+2009,South Korea,Hong Kong,1.139
+2010,South Korea,Hong Kong,0.53
+2013,South Korea,Hong Kong,0.739
+2012,South Korea,Hong Kong,0.963
+2017,South Korea,Hong Kong,5.271
+2020,South Korea,Hong Kong,1.01
+2011,South Korea,Hong Kong,0.685
+2014,South Korea,Hong Kong,1.524
+2019,South Korea,Hong Kong,0.354
+2016,South Korea,Hong Kong,1.932
+2018,South Korea,Hong Kong,1.737
+2015,South Korea,Hong Kong,1.314
+2011,South Korea,Hungary,0.865
+2018,South Korea,Hungary,0.525
+2020,South Korea,Hungary,0.414
+2014,South Korea,Hungary,0.054
+2013,South Korea,Hungary,0.029
+2012,South Korea,Hungary,0.018
+2015,South Korea,Hungary,0.874
+2009,South Korea,Hungary,0.056
+2016,South Korea,Hungary,0.001
+2019,South Korea,Hungary,0.952
+2010,South Korea,Hungary,0.08
+2017,South Korea,Hungary,1.166
+2010,South Korea,Ireland,0.135
+2013,South Korea,Ireland,0.879
+2017,South Korea,Ireland,0.678
+2019,South Korea,Ireland,0.181
+2018,South Korea,Ireland,0.581
+2020,South Korea,Ireland,0.036
+2012,South Korea,Ireland,0.841
+2009,South Korea,Ireland,0.004
+2011,South Korea,Ireland,0.007
+2016,South Korea,Ireland,0.685
+2014,South Korea,Ireland,1.037
+2019,South Korea,Mauritius,0.001
+2010,South Korea,Mauritius,0.581
+2013,South Korea,Mauritius,0.03
+2011,South Korea,Poland,0.061
+2010,South Korea,Poland,0.43
+2012,South Korea,Poland,0.033
+2016,South Korea,Poland,0.151
+2015,South Korea,Poland,0.117
+2013,South Korea,Poland,0.024
+2019,South Korea,Poland,0.028
+2018,South Korea,Poland,0.046
+2017,South Korea,Poland,0.077
+2020,South Korea,Poland,0.041
+2014,South Korea,Poland,0.109
+2009,South Korea,Poland,0.177
+2014,South Korea,Romania,0.008
+2010,South Korea,Romania,0.126
+2018,South Korea,Romania,0.049
+2015,South Korea,Romania,0.004
+2013,South Korea,Romania,0.081
+2020,South Korea,Romania,0.01
+2009,South Korea,Romania,0.041
+2019,South Korea,Romania,0.023
+2017,South Korea,Romania,0.009
+2016,South Korea,Romania,0.11
+2012,South Korea,Romania,0.151
+2011,South Korea,Romania,0.24
+2018,South Korea,Russian Federation,0.092
+2012,South Korea,Russian Federation,0.089
+2009,South Korea,Russian Federation,0.155
+2010,South Korea,Russian Federation,0.22
+2016,South Korea,Russian Federation,0.057
+2020,South Korea,Russian Federation,0.108
+2015,South Korea,Russian Federation,0.029
+2017,South Korea,Russian Federation,0.021
+2011,South Korea,Russian Federation,0.12
+2014,South Korea,Russian Federation,0.193
+2019,South Korea,Russian Federation,0.089
+2013,South Korea,Russian Federation,0.115
+2010,South Korea,Singapore,0.781
+2015,South Korea,Singapore,0.825
+2017,South Korea,Singapore,0.444
+2014,South Korea,Singapore,0.523
+2011,South Korea,Singapore,0.833
+2016,South Korea,Singapore,0.475
+2020,South Korea,Singapore,0.138
+2013,South Korea,Singapore,1.005
+2009,South Korea,Singapore,0.255
+2019,South Korea,Singapore,0.099
+2012,South Korea,Singapore,0.444
+2018,South Korea,Singapore,0.163
+2017,South Korea,Slovakia,0.009
+2009,South Korea,Slovakia,0.228
+2012,South Korea,Slovakia,0.164
+2019,South Korea,Slovakia,0.019
+2014,South Korea,Slovakia,0.01
+2011,South Korea,Slovakia,0.742
+2016,South Korea,Slovakia,0.011
+2020,South Korea,Slovakia,0.022
+2018,South Korea,Slovakia,0.008
+2015,South Korea,Slovakia,0.011
+2013,South Korea,Slovakia,0.01
+2010,South Korea,Slovakia,0.666
+2016,South Korea,Taiwan,0.227
+2017,South Korea,Taiwan,0.598
+2013,South Korea,Taiwan,0.155
+2018,South Korea,Taiwan,0.006
+2011,South Korea,Taiwan,0.01
+2014,South Korea,Taiwan,0.039
+2012,South Korea,Taiwan,0.046
+2020,South Korea,Taiwan,0.003
+2019,South Korea,Taiwan,0.003
+2015,South Korea,Taiwan,0.174
+2012,South Korea,United Arab Emirates,6.836
+2010,South Korea,United Arab Emirates,4.632
+2020,South Korea,United Arab Emirates,5.867
+2014,South Korea,United Arab Emirates,8.658
+2018,South Korea,United Arab Emirates,8.658
+2013,South Korea,United Arab Emirates,10.162
+2017,South Korea,United Arab Emirates,21.463
+2009,South Korea,United Arab Emirates,2.416
+2015,South Korea,United Arab Emirates,8.031
+2016,South Korea,United Arab Emirates,8.647
+2011,South Korea,United Arab Emirates,3.664
+2019,South Korea,United Arab Emirates,3.904
+2019,South Korea,United Kingdom,0.075
+2015,South Korea,United Kingdom,0.039
+2017,South Korea,United Kingdom,0.301
+2018,South Korea,United Kingdom,0.132
+2012,South Korea,United Kingdom,0.012
+2016,South Korea,United Kingdom,0.054
+2013,South Korea,United Kingdom,0.084
+2014,South Korea,United Kingdom,0.057
+2020,South Korea,United Kingdom,0.17
+2015,South Korea,Viet Nam,0.143
+2016,South Korea,Viet Nam,0.245
+2017,South Korea,Viet Nam,0.821
+2019,South Korea,Viet Nam,0.054
+2020,South Korea,Viet Nam,0.067
+2018,South Korea,Viet Nam,0.051
+2014,South Korea,Viet Nam,0.138
+2014,Spain,Andorra,0.002
+2019,Spain,Andorra,0.014
+2013,Spain,Andorra,0.002
+2012,Spain,Andorra,0.002
+2015,Spain,Andorra,0.002
+2016,Spain,Andorra,0.008
+2017,Spain,Andorra,0.006
+2020,Spain,Andorra,0.008
+2009,Spain,Andorra,0.15
+2018,Spain,Andorra,0.019
+2010,Spain,Andorra,0.314
+2011,Spain,Andorra,0.186
+2013,Spain,Bahrain,0.024
+2017,Spain,Bahrain,0.987
+2016,Spain,Bahrain,0.811
+2019,Spain,Bahrain,0.001
+2009,Spain,Bahrain,0.0
+2018,Spain,Bahrain,0.0
+2020,Spain,Bahrain,0.0
+2015,Spain,Bahrain,0.554
+2014,Spain,Bermuda,0.253
+2011,Spain,Bermuda,0.413
+2020,Spain,Bermuda,0.682
+2018,Spain,Bermuda,0.477
+2010,Spain,Bermuda,0.158
+2013,Spain,Bermuda,0.037
+2019,Spain,Bermuda,1.374
+2017,Spain,British Virgin Islands,0.92
+2011,Spain,British Virgin Islands,0.002
+2015,Spain,British Virgin Islands,0.008
+2012,Spain,British Virgin Islands,0.006
+2009,Spain,British Virgin Islands,1.237
+2010,Spain,Bulgaria,0.632
+2013,Spain,Bulgaria,1.544
+2014,Spain,Bulgaria,1.274
+2019,Spain,Bulgaria,0.027
+2020,Spain,Bulgaria,0.044
+2017,Spain,Bulgaria,0.046
+2018,Spain,Bulgaria,0.081
+2009,Spain,Bulgaria,0.329
+2012,Spain,Bulgaria,0.407
+2015,Spain,Bulgaria,0.799
+2011,Spain,Bulgaria,0.116
+2016,Spain,Bulgaria,0.787
+2019,Spain,Cayman Islands,0.193
+2014,Spain,Cayman Islands,0.077
+2009,Spain,Cayman Islands,0.274
+2017,Spain,Cayman Islands,0.568
+2018,Spain,Cayman Islands,0.02
+2016,Spain,Cayman Islands,0.381
+2010,Spain,Cayman Islands,0.142
+2012,Spain,Cayman Islands,0.347
+2015,Spain,Cayman Islands,0.215
+2013,Spain,Cayman Islands,0.618
+2011,Spain,Cayman Islands,0.01
+2010,Spain,Hungary,0.011
+2017,Spain,Hungary,3.434
+2018,Spain,Hungary,1.794
+2013,Spain,Hungary,0.013
+2020,Spain,Hungary,0.391
+2015,Spain,Hungary,0.035
+2011,Spain,Hungary,0.011
+2016,Spain,Hungary,0.009
+2012,Spain,Hungary,0.003
+2014,Spain,Hungary,0.006
+2009,Spain,Hungary,0.033
+2019,Spain,Hungary,0.416
+2018,Spain,Ireland,0.181
+2016,Spain,Ireland,0.274
+2012,Spain,Ireland,1.178
+2010,Spain,Ireland,1.891
+2009,Spain,Ireland,0.048
+2017,Spain,Ireland,0.464
+2013,Spain,Ireland,0.367
+2011,Spain,Ireland,0.875
+2019,Spain,Ireland,0.183
+2020,Spain,Ireland,0.188
+2014,Spain,Ireland,0.367
+2015,Spain,Ireland,0.27
+2014,Spain,Montenegro,0.0
+2019,Spain,Montenegro,0.0
+2009,Spain,Montenegro,0.068
+2016,Spain,Montenegro,2.109
+2010,Spain,Montenegro,0.058
+2013,Spain,Montenegro,0.0
+2015,Spain,Montenegro,1.077
+2013,Spain,Paraguay,0.232
+2020,Spain,Paraguay,0.025
+2015,Spain,Paraguay,0.071
+2016,Spain,Paraguay,0.464
+2014,Spain,Paraguay,0.05
+2011,Spain,Paraguay,0.195
+2019,Spain,Paraguay,0.028
+2010,Spain,Paraguay,0.033
+2009,Spain,Paraguay,0.042
+2012,Spain,Paraguay,0.022
+2018,Spain,Paraguay,0.057
+2017,Spain,Paraguay,0.181
+2019,Spain,Poland,0.039
+2011,Spain,Poland,0.052
+2020,Spain,Poland,0.015
+2012,Spain,Poland,0.024
+2013,Spain,Poland,0.037
+2014,Spain,Poland,0.088
+2009,Spain,Poland,0.037
+2015,Spain,Poland,0.046
+2017,Spain,Poland,0.05
+2016,Spain,Poland,0.075
+2010,Spain,Poland,0.037
+2018,Spain,Poland,0.03
+2009,Spain,Romania,0.027
+2011,Spain,Romania,0.042
+2015,Spain,Romania,0.147
+2013,Spain,Romania,0.028
+2018,Spain,Romania,0.057
+2016,Spain,Romania,0.193
+2020,Spain,Romania,0.045
+2012,Spain,Romania,0.083
+2017,Spain,Romania,0.071
+2014,Spain,Romania,0.071
+2010,Spain,Romania,0.096
+2019,Spain,Romania,0.038
+2016,Spain,Serbia,0.053
+2010,Spain,Serbia,0.031
+2020,Spain,Serbia,0.001
+2013,Spain,Serbia,0.047
+2009,Spain,Serbia,0.015
+2018,Spain,Serbia,0.003
+2012,Spain,Serbia,0.846
+2011,Spain,Serbia,0.558
+2019,Spain,Serbia,0.005
+2015,Spain,Serbia,0.053
+2014,Spain,Serbia,0.035
+2017,Spain,Serbia,0.003
+2010,Spain,United Arab Emirates,0.56
+2012,Spain,United Arab Emirates,0.477
+2013,Spain,United Arab Emirates,0.18
+2017,Spain,United Arab Emirates,0.432
+2016,Spain,United Arab Emirates,0.636
+2014,Spain,United Arab Emirates,0.457
+2018,Spain,United Arab Emirates,1.543
+2019,Spain,United Arab Emirates,0.631
+2009,Spain,United Arab Emirates,0.002
+2020,Spain,United Arab Emirates,0.364
+2011,Spain,United Arab Emirates,0.562
+2015,Spain,United Arab Emirates,0.965
+2019,Spain,United Kingdom,0.212
+2009,Spain,United Kingdom,0.006
+2013,Spain,United Kingdom,0.032
+2020,Spain,United Kingdom,0.095
+2010,Spain,United Kingdom,0.026
+2017,Spain,United Kingdom,0.154
+2011,Spain,United Kingdom,0.023
+2016,Spain,United Kingdom,0.131
+2012,Spain,United Kingdom,0.044
+2015,Spain,United Kingdom,0.157
+2018,Spain,United Kingdom,0.207
+2014,Spain,United Kingdom,0.13
+2010,Sweden,Bahamas,0.001
+2013,Sweden,Bahamas,0.001
+2018,Sweden,Bahamas,0.002
+2016,Sweden,Bahamas,0.003
+2019,Sweden,Bahamas,0.003
+2011,Sweden,Bahamas,0.001
+2012,Sweden,Bahamas,0.001
+2020,Sweden,Bahamas,0.001
+2015,Sweden,Bahamas,0.643
+2014,Sweden,Bahamas,0.445
+2017,Sweden,Bahamas,0.001
+2019,Sweden,Bahrain,0.146
+2020,Sweden,Bahrain,0.639
+2012,Sweden,Bahrain,0.861
+2011,Sweden,Bahrain,0.321
+2010,Sweden,Bahrain,0.404
+2017,Sweden,Bahrain,0.266
+2014,Sweden,Bahrain,0.904
+2013,Sweden,Bahrain,0.702
+2018,Sweden,Bahrain,0.174
+2016,Sweden,Bahrain,0.169
+2015,Sweden,Bahrain,0.819
+2016,Sweden,Bermuda,1.849
+2012,Sweden,Bermuda,0.228
+2013,Sweden,Bermuda,0.273
+2017,Sweden,Bermuda,0.01
+2014,Sweden,Bermuda,0.339
+2020,Sweden,Bermuda,0.25
+2011,Sweden,Bermuda,0.198
+2019,Sweden,Bermuda,0.055
+2010,Sweden,Bermuda,0.188
+2015,Sweden,Bermuda,0.102
+2009,Sweden,Bermuda,0.11
+2009,Sweden,British Virgin Islands,0.128
+2013,Sweden,British Virgin Islands,0.268
+2020,Sweden,British Virgin Islands,0.32
+2016,Sweden,British Virgin Islands,0.739
+2018,Sweden,British Virgin Islands,0.266
+2012,Sweden,British Virgin Islands,0.266
+2019,Sweden,British Virgin Islands,0.254
+2017,Sweden,British Virgin Islands,0.382
+2011,Sweden,British Virgin Islands,0.622
+2015,Sweden,British Virgin Islands,0.371
+2010,Sweden,British Virgin Islands,0.557
+2014,Sweden,British Virgin Islands,0.008
+2019,Sweden,Bulgaria,0.021
+2013,Sweden,Bulgaria,0.097
+2014,Sweden,Bulgaria,0.196
+2009,Sweden,Bulgaria,0.276
+2017,Sweden,Bulgaria,0.027
+2015,Sweden,Bulgaria,0.047
+2020,Sweden,Bulgaria,0.005
+2010,Sweden,Bulgaria,1.196
+2018,Sweden,Bulgaria,0.005
+2011,Sweden,Bulgaria,1.761
+2016,Sweden,Bulgaria,0.165
+2012,Sweden,Bulgaria,0.673
+2015,Sweden,Cayman Islands,0.032
+2019,Sweden,Cayman Islands,0.02
+2018,Sweden,Cayman Islands,0.01
+2014,Sweden,Cayman Islands,0.034
+2013,Sweden,Cayman Islands,0.08
+2016,Sweden,Cayman Islands,0.079
+2017,Sweden,Cayman Islands,0.013
+2020,Sweden,Cayman Islands,0.45
+2015,Sweden,Cyprus,0.057
+2013,Sweden,Cyprus,0.077
+2011,Sweden,Cyprus,0.155
+2014,Sweden,Cyprus,0.016
+2009,Sweden,Cyprus,0.003
+2010,Sweden,Cyprus,0.078
+2012,Sweden,Cyprus,0.021
+2018,Sweden,Cyprus,0.067
+2019,Sweden,Cyprus,0.13
+2016,Sweden,Cyprus,0.033
+2020,Sweden,Cyprus,0.096
+2017,Sweden,Cyprus,0.063
+2009,Sweden,Czechia,0.422
+2020,Sweden,Czechia,0.016
+2013,Sweden,Czechia,0.055
+2018,Sweden,Czechia,0.003
+2014,Sweden,Czechia,0.007
+2016,Sweden,Czechia,0.009
+2012,Sweden,Czechia,0.044
+2017,Sweden,Czechia,0.016
+2010,Sweden,Czechia,0.055
+2011,Sweden,Czechia,0.039
+2015,Sweden,Czechia,0.011
+2019,Sweden,Czechia,0.005
+2014,Sweden,Finland,0.087
+2019,Sweden,Finland,0.194
+2018,Sweden,Finland,0.161
+2010,Sweden,Finland,0.01
+2011,Sweden,Finland,0.006
+2012,Sweden,Finland,0.025
+2020,Sweden,Finland,0.283
+2009,Sweden,Finland,0.011
+2017,Sweden,Finland,0.123
+2016,Sweden,Finland,0.333
+2015,Sweden,Finland,0.129
+2019,Sweden,Hong Kong,0.17
+2017,Sweden,Hong Kong,0.231
+2009,Sweden,Hong Kong,0.041
+2014,Sweden,Hong Kong,0.278
+2012,Sweden,Hong Kong,0.149
+2018,Sweden,Hong Kong,0.193
+2011,Sweden,Hong Kong,0.268
+2013,Sweden,Hong Kong,0.456
+2016,Sweden,Hong Kong,0.526
+2020,Sweden,Hong Kong,0.144
+2010,Sweden,Hong Kong,0.132
+2015,Sweden,Hong Kong,0.355
+2019,Sweden,Hungary,2.081
+2011,Sweden,Hungary,0.006
+2014,Sweden,Hungary,0.007
+2018,Sweden,Hungary,0.64
+2009,Sweden,Hungary,0.012
+2016,Sweden,Hungary,0.009
+2017,Sweden,Hungary,1.91
+2010,Sweden,Hungary,0.004
+2012,Sweden,Hungary,0.014
+2015,Sweden,Hungary,0.009
+2020,Sweden,Hungary,1.327
+2013,Sweden,Hungary,0.003
+2013,Sweden,Ireland,0.287
+2018,Sweden,Ireland,0.211
+2011,Sweden,Ireland,0.178
+2010,Sweden,Ireland,0.41
+2009,Sweden,Ireland,0.418
+2020,Sweden,Ireland,0.19
+2012,Sweden,Ireland,0.306
+2015,Sweden,Ireland,0.315
+2019,Sweden,Ireland,0.118
+2017,Sweden,Ireland,0.163
+2014,Sweden,Ireland,0.358
+2016,Sweden,Ireland,0.365
+2016,Sweden,Latvia,0.271
+2015,Sweden,Latvia,0.408
+2013,Sweden,Latvia,0.098
+2018,Sweden,Latvia,0.007
+2017,Sweden,Latvia,0.193
+2009,Sweden,Latvia,0.046
+2010,Sweden,Latvia,0.103
+2014,Sweden,Latvia,0.123
+2020,Sweden,Latvia,0.045
+2019,Sweden,Latvia,0.001
+2012,Sweden,Latvia,0.462
+2011,Sweden,Latvia,0.217
+2010,Sweden,Lithuania,0.076
+2019,Sweden,Lithuania,0.115
+2014,Sweden,Lithuania,1.163
+2018,Sweden,Lithuania,0.089
+2012,Sweden,Lithuania,0.116
+2013,Sweden,Lithuania,0.325
+2020,Sweden,Lithuania,0.126
+2015,Sweden,Lithuania,0.509
+2011,Sweden,Lithuania,0.063
+2017,Sweden,Lithuania,0.158
+2016,Sweden,Lithuania,0.396
+2009,Sweden,Lithuania,0.017
+2012,Sweden,Montenegro,0.249
+2014,Sweden,Montenegro,0.011
+2020,Sweden,Montenegro,0.003
+2013,Sweden,Montenegro,0.45
+2016,Sweden,Montenegro,0.014
+2018,Sweden,Montenegro,0.002
+2017,Sweden,Montenegro,0.001
+2015,Sweden,Montenegro,0.015
+2011,Sweden,Montenegro,0.415
+2019,Sweden,Montenegro,0.002
+2012,Sweden,Poland,0.172
+2010,Sweden,Poland,0.027
+2013,Sweden,Poland,0.046
+2018,Sweden,Poland,0.064
+2014,Sweden,Poland,0.038
+2009,Sweden,Poland,0.029
+2011,Sweden,Poland,0.162
+2017,Sweden,Poland,0.066
+2019,Sweden,Poland,0.062
+2016,Sweden,Poland,0.154
+2015,Sweden,Poland,0.059
+2020,Sweden,Poland,0.05
+2020,Sweden,Republic of Moldova,0.0
+2009,Sweden,Republic of Moldova,0.497
+2019,Sweden,Republic of Moldova,0.0
+2011,Sweden,Republic of Moldova,0.678
+2010,Sweden,Republic of Moldova,0.601
+2014,Sweden,Serbia,0.002
+2020,Sweden,Serbia,0.168
+2011,Sweden,Serbia,0.166
+2013,Sweden,Serbia,0.002
+2016,Sweden,Serbia,0.027
+2018,Sweden,Serbia,0.068
+2009,Sweden,Serbia,0.309
+2012,Sweden,Serbia,0.887
+2017,Sweden,Serbia,0.078
+2019,Sweden,Serbia,0.07
+2010,Sweden,Serbia,0.299
+2015,Sweden,Serbia,0.007
+2011,Sweden,Singapore,0.044
+2014,Sweden,Singapore,0.069
+2009,Sweden,Singapore,0.029
+2015,Sweden,Singapore,0.538
+2010,Sweden,Singapore,0.425
+2017,Sweden,Singapore,0.025
+2019,Sweden,Singapore,0.163
+2013,Sweden,Singapore,1.056
+2012,Sweden,Singapore,0.027
+2018,Sweden,Singapore,0.029
+2016,Sweden,Singapore,0.158
+2020,Sweden,Singapore,0.042
+2014,Sweden,Turkey,0.15
+2017,Sweden,Turkey,0.223
+2009,Sweden,Turkey,0.0
+2013,Sweden,Turkey,0.156
+2015,Sweden,Turkey,0.177
+2016,Sweden,Turkey,0.0
+2012,Sweden,Turkey,0.0
+2016,Sweden,United Arab Emirates,2.292
+2013,Sweden,United Arab Emirates,0.804
+2020,Sweden,United Arab Emirates,1.926
+2009,Sweden,United Arab Emirates,0.319
+2018,Sweden,United Arab Emirates,2.476
+2010,Sweden,United Arab Emirates,0.541
+2019,Sweden,United Arab Emirates,2.921
+2017,Sweden,United Arab Emirates,4.172
+2012,Sweden,United Arab Emirates,0.826
+2015,Sweden,United Arab Emirates,2.129
+2014,Sweden,United Arab Emirates,1.389
+2011,Sweden,United Arab Emirates,0.851
+2015,Sweden,United Kingdom,0.08
+2019,Sweden,United Kingdom,0.235
+2017,Sweden,United Kingdom,0.137
+2012,Sweden,United Kingdom,0.024
+2016,Sweden,United Kingdom,0.08
+2014,Sweden,United Kingdom,0.051
+2020,Sweden,United Kingdom,0.302
+2011,Sweden,United Kingdom,0.011
+2018,Sweden,United Kingdom,0.405
+2016,Sweden,Uzbekistan,0.243
+2013,Sweden,Uzbekistan,0.636
+2015,Sweden,Uzbekistan,0.325
+2014,Sweden,Uzbekistan,0.424
+2017,Sweden,Uzbekistan,0.229
+2010,Switzerland,Bahamas,0.174
+2015,Switzerland,Bahamas,0.186
+2009,Switzerland,Bahamas,0.415
+2013,Switzerland,Bahamas,0.181
+2016,Switzerland,Bahamas,0.183
+2013,Switzerland,Bahrain,0.064
+2019,Switzerland,Bahrain,0.135
+2009,Switzerland,Bahrain,0.645
+2010,Switzerland,Bahrain,0.796
+2012,Switzerland,Bahrain,0.081
+2015,Switzerland,Bahrain,0.063
+2014,Switzerland,Bahrain,0.033
+2020,Switzerland,Bahrain,0.166
+2018,Switzerland,Bahrain,0.0
+2016,Switzerland,Bahrain,0.023
+2017,Switzerland,Bahrain,3.011
+2009,Switzerland,Bermuda,3.929
+2015,Switzerland,Bermuda,6.433
+2011,Switzerland,Bermuda,6.312
+2012,Switzerland,Bermuda,7.252
+2019,Switzerland,Bermuda,3.659
+2017,Switzerland,Bermuda,4.211
+2010,Switzerland,Bermuda,6.621
+2016,Switzerland,Bermuda,0.348
+2020,Switzerland,Bermuda,4.898
+2013,Switzerland,Bermuda,2.605
+2014,Switzerland,Bermuda,4.844
+2018,Switzerland,Bermuda,4.962
+2016,Switzerland,British Virgin Islands,0.835
+2018,Switzerland,British Virgin Islands,0.203
+2014,Switzerland,British Virgin Islands,0.326
+2011,Switzerland,British Virgin Islands,0.283
+2015,Switzerland,British Virgin Islands,0.316
+2017,Switzerland,British Virgin Islands,0.495
+2010,Switzerland,British Virgin Islands,0.219
+2009,Switzerland,British Virgin Islands,0.478
+2013,Switzerland,British Virgin Islands,0.672
+2019,Switzerland,British Virgin Islands,0.673
+2020,Switzerland,British Virgin Islands,0.141
+2012,Switzerland,British Virgin Islands,0.576
+2013,Switzerland,Bulgaria,0.31
+2010,Switzerland,Bulgaria,0.8
+2012,Switzerland,Bulgaria,0.124
+2018,Switzerland,Bulgaria,0.01
+2017,Switzerland,Bulgaria,0.009
+2020,Switzerland,Bulgaria,0.02
+2019,Switzerland,Bulgaria,0.008
+2014,Switzerland,Bulgaria,0.046
+2016,Switzerland,Bulgaria,0.412
+2015,Switzerland,Bulgaria,0.126
+2009,Switzerland,Bulgaria,0.107
+2011,Switzerland,Bulgaria,0.182
+2015,Switzerland,Cayman Islands,0.172
+2014,Switzerland,Cayman Islands,0.012
+2009,Switzerland,Cayman Islands,0.006
+2016,Switzerland,Cayman Islands,0.059
+2012,Switzerland,Cayman Islands,3.824
+2013,Switzerland,Cayman Islands,3.705
+2019,Switzerland,"China, Macao Special Administrative Region",0.023
+2009,Switzerland,"China, Macao Special Administrative Region",0.129
+2012,Switzerland,"China, Macao Special Administrative Region",0.335
+2018,Switzerland,"China, Macao Special Administrative Region",0.038
+2016,Switzerland,"China, Macao Special Administrative Region",0.137
+2014,Switzerland,"China, Macao Special Administrative Region",0.056
+2017,Switzerland,"China, Macao Special Administrative Region",0.028
+2015,Switzerland,"China, Macao Special Administrative Region",0.054
+2010,Switzerland,"China, Macao Special Administrative Region",0.233
+2011,Switzerland,"China, Macao Special Administrative Region",0.271
+2020,Switzerland,"China, Macao Special Administrative Region",0.025
+2013,Switzerland,Cyprus,0.126
+2015,Switzerland,Cyprus,0.14
+2014,Switzerland,Cyprus,0.145
+2020,Switzerland,Cyprus,0.005
+2018,Switzerland,Cyprus,0.002
+2017,Switzerland,Cyprus,0.007
+2016,Switzerland,Cyprus,0.194
+2019,Switzerland,Cyprus,0.002
+2010,Switzerland,Cyprus,0.111
+2009,Switzerland,Cyprus,0.029
+2012,Switzerland,Cyprus,0.106
+2011,Switzerland,Cyprus,0.025
+2014,Switzerland,Hong Kong,0.491
+2019,Switzerland,Hong Kong,0.05
+2009,Switzerland,Hong Kong,0.138
+2015,Switzerland,Hong Kong,0.646
+2016,Switzerland,Hong Kong,0.193
+2013,Switzerland,Hong Kong,0.483
+2011,Switzerland,Hong Kong,0.12
+2010,Switzerland,Hong Kong,0.434
+2018,Switzerland,Hong Kong,0.032
+2020,Switzerland,Hong Kong,0.055
+2017,Switzerland,Hong Kong,0.336
+2012,Switzerland,Hong Kong,0.34
+2020,Switzerland,Hungary,1.191
+2013,Switzerland,Hungary,0.029
+2012,Switzerland,Hungary,0.027
+2016,Switzerland,Hungary,0.005
+2010,Switzerland,Hungary,0.028
+2017,Switzerland,Hungary,1.268
+2019,Switzerland,Hungary,1.103
+2009,Switzerland,Hungary,0.093
+2011,Switzerland,Hungary,0.025
+2015,Switzerland,Hungary,0.032
+2014,Switzerland,Hungary,0.025
+2018,Switzerland,Hungary,1.182
+2018,Switzerland,Ireland,0.008
+2015,Switzerland,Ireland,0.069
+2012,Switzerland,Ireland,0.182
+2014,Switzerland,Ireland,0.516
+2010,Switzerland,Ireland,0.113
+2016,Switzerland,Ireland,0.123
+2019,Switzerland,Ireland,0.012
+2009,Switzerland,Ireland,0.066
+2013,Switzerland,Ireland,0.119
+2017,Switzerland,Ireland,0.08
+2011,Switzerland,Ireland,0.184
+2020,Switzerland,Ireland,0.024
+2009,Switzerland,Latvia,0.008
+2010,Switzerland,Latvia,0.023
+2016,Switzerland,Latvia,0.165
+2011,Switzerland,Latvia,0.031
+2017,Switzerland,Latvia,0.11
+2014,Switzerland,Latvia,0.056
+2012,Switzerland,Latvia,0.04
+2013,Switzerland,Latvia,0.052
+2015,Switzerland,Latvia,0.139
+2015,Switzerland,Liechtenstein,0.483
+2019,Switzerland,Liechtenstein,0.245
+2014,Switzerland,Liechtenstein,0.668
+2018,Switzerland,Liechtenstein,0.233
+2013,Switzerland,Liechtenstein,0.587
+2009,Switzerland,Liechtenstein,0.0
+2010,Switzerland,Liechtenstein,0.232
+2020,Switzerland,Liechtenstein,0.011
+2012,Switzerland,Liechtenstein,0.754
+2017,Switzerland,Liechtenstein,0.453
+2016,Switzerland,Liechtenstein,0.846
+2011,Switzerland,Liechtenstein,0.215
+2015,Switzerland,Paraguay,0.511
+2014,Switzerland,Paraguay,0.575
+2016,Switzerland,Paraguay,0.377
+2010,Switzerland,Republic of Moldova,0.165
+2013,Switzerland,Republic of Moldova,0.476
+2011,Switzerland,Republic of Moldova,0.18
+2012,Switzerland,Romania,0.044
+2011,Switzerland,Romania,0.04
+2017,Switzerland,Romania,0.203
+2014,Switzerland,Romania,0.08
+2019,Switzerland,Romania,0.054
+2016,Switzerland,Romania,0.193
+2015,Switzerland,Romania,0.051
+2010,Switzerland,Romania,0.247
+2018,Switzerland,Romania,0.076
+2020,Switzerland,Romania,0.063
+2009,Switzerland,Romania,0.356
+2013,Switzerland,Romania,0.049
+2013,Switzerland,Serbia,0.0
+2010,Switzerland,Serbia,0.416
+2009,Switzerland,Serbia,0.57
+2019,Switzerland,Serbia,0.01
+2018,Switzerland,Serbia,0.017
+2011,Switzerland,Serbia,0.733
+2012,Switzerland,Serbia,0.742
+2014,Switzerland,Serbia,0.018
+2020,Switzerland,Serbia,0.0
+2016,Switzerland,Serbia,0.003
+2018,Switzerland,Singapore,0.016
+2010,Switzerland,Singapore,0.141
+2012,Switzerland,Singapore,0.118
+2017,Switzerland,Singapore,0.021
+2019,Switzerland,Singapore,0.01
+2011,Switzerland,Singapore,0.132
+2015,Switzerland,Singapore,0.138
+2014,Switzerland,Singapore,0.156
+2013,Switzerland,Singapore,0.042
+2016,Switzerland,Singapore,0.131
+2009,Switzerland,Singapore,0.065
+2020,Switzerland,Singapore,0.214
+2019,Switzerland,United Arab Emirates,3.97
+2018,Switzerland,United Arab Emirates,4.459
+2020,Switzerland,United Arab Emirates,5.567
+2013,Switzerland,United Arab Emirates,6.358
+2015,Switzerland,United Arab Emirates,6.224
+2014,Switzerland,United Arab Emirates,11.619
+2011,Switzerland,United Arab Emirates,4.969
+2017,Switzerland,United Arab Emirates,5.396
+2012,Switzerland,United Arab Emirates,1.537
+2016,Switzerland,United Arab Emirates,11.503
+2009,Switzerland,United Arab Emirates,2.429
+2010,Switzerland,United Arab Emirates,8.436
+2010,Taiwan,Bermuda,0.258
+2019,Taiwan,Bermuda,0.202
+2018,Taiwan,Bermuda,0.366
+2011,Taiwan,Bermuda,0.124
+2016,Taiwan,Bermuda,0.095
+2020,Taiwan,Bermuda,0.008
+2012,Taiwan,Bermuda,0.085
+2013,Taiwan,Bermuda,0.205
+2015,Taiwan,Bermuda,0.108
+2014,Taiwan,Bermuda,0.095
+2017,Taiwan,Bermuda,0.119
+2009,Taiwan,Bermuda,0.039
+2019,Taiwan,British Virgin Islands,2.031
+2016,Taiwan,British Virgin Islands,7.37
+2014,Taiwan,British Virgin Islands,4.396
+2020,Taiwan,British Virgin Islands,3.105
+2018,Taiwan,British Virgin Islands,3.324
+2015,Taiwan,British Virgin Islands,4.005
+2011,Taiwan,British Virgin Islands,1.926
+2017,Taiwan,British Virgin Islands,6.216
+2013,Taiwan,British Virgin Islands,3.651
+2012,Taiwan,British Virgin Islands,1.499
+2009,Taiwan,British Virgin Islands,0.606
+2010,Taiwan,British Virgin Islands,3.065
+2009,Taiwan,Cayman Islands,0.373
+2015,Taiwan,Cayman Islands,0.352
+2018,Taiwan,Cayman Islands,0.959
+2013,Taiwan,Cayman Islands,0.212
+2017,Taiwan,Cayman Islands,3.502
+2011,Taiwan,Cayman Islands,0.451
+2014,Taiwan,Cayman Islands,1.033
+2010,Taiwan,Cayman Islands,0.526
+2020,Taiwan,Cayman Islands,0.682
+2012,Taiwan,Cayman Islands,0.685
+2019,Taiwan,Cayman Islands,0.552
+2016,Taiwan,Cayman Islands,1.622
+2015,Taiwan,Hong Kong,0.313
+2014,Taiwan,Hong Kong,0.427
+2019,Taiwan,Hong Kong,0.121
+2017,Taiwan,Hong Kong,0.065
+2016,Taiwan,Hong Kong,0.098
+2011,Taiwan,Hong Kong,0.034
+2013,Taiwan,Hong Kong,0.171
+2009,Taiwan,Hong Kong,0.02
+2012,Taiwan,Hong Kong,0.033
+2020,Taiwan,Hong Kong,0.046
+2018,Taiwan,Hong Kong,0.301
+2010,Taiwan,Hong Kong,0.085
+2020,Taiwan,Samoa,0.884
+2011,Taiwan,Samoa,0.03
+2019,Taiwan,Samoa,0.355
+2015,Taiwan,Samoa,0.698
+2014,Taiwan,Samoa,0.276
+2010,Taiwan,Samoa,0.023
+2018,Taiwan,Samoa,1.28
+2009,Taiwan,Samoa,0.079
+2013,Taiwan,Samoa,0.673
+2012,Taiwan,Samoa,0.822
+2017,Taiwan,Samoa,1.997
+2016,Taiwan,Samoa,2.851
+2016,Taiwan,United Arab Emirates,0.027
+2014,Taiwan,United Arab Emirates,0.039
+2015,Taiwan,United Arab Emirates,0.008
+2018,Taiwan,United Arab Emirates,0.153
+2017,Taiwan,United Arab Emirates,0.182
+2019,Taiwan,United Arab Emirates,0.218
+2020,Taiwan,United Arab Emirates,0.276
+2013,Taiwan,United Arab Emirates,0.006
+2012,Thailand,British Virgin Islands,0.036
+2011,Thailand,British Virgin Islands,0.05
+2013,Thailand,British Virgin Islands,0.047
+2017,Thailand,British Virgin Islands,0.079
+2015,Thailand,British Virgin Islands,0.079
+2020,Thailand,British Virgin Islands,0.155
+2010,Thailand,British Virgin Islands,0.111
+2009,Thailand,British Virgin Islands,0.044
+2016,Thailand,British Virgin Islands,0.168
+2018,Thailand,British Virgin Islands,0.158
+2014,Thailand,British Virgin Islands,0.042
+2019,Thailand,British Virgin Islands,0.03
+2010,Thailand,Cayman Islands,0.025
+2016,Thailand,Cayman Islands,0.0
+2012,Thailand,Cayman Islands,0.031
+2013,Thailand,Cayman Islands,0.039
+2019,Thailand,Cayman Islands,0.855
+2014,Thailand,Cayman Islands,0.087
+2009,Thailand,Cayman Islands,0.016
+2018,Thailand,Cayman Islands,0.472
+2017,Thailand,Cayman Islands,0.322
+2020,Thailand,Cayman Islands,0.427
+2011,Thailand,Cayman Islands,0.014
+2015,Thailand,Cayman Islands,0.051
+2020,Thailand,United Arab Emirates,0.064
+2016,Thailand,United Arab Emirates,0.261
+2012,Thailand,United Arab Emirates,0.002
+2018,Thailand,United Arab Emirates,0.571
+2017,Thailand,United Arab Emirates,0.305
+2015,Thailand,United Arab Emirates,0.597
+2019,Thailand,United Arab Emirates,0.139
+2014,Thailand,United Arab Emirates,0.131
+2011,Thailand,United Arab Emirates,0.673
+2012,Turkiye,Bulgaria,0.186
+2009,Turkiye,Bulgaria,0.084
+2011,Turkiye,Bulgaria,0.383
+2017,Turkiye,Bulgaria,0.105
+2013,Turkiye,Bulgaria,0.01
+2014,Turkiye,Bulgaria,0.017
+2010,Turkiye,Bulgaria,0.141
+2015,Turkiye,Bulgaria,0.017
+2016,Turkiye,Bulgaria,0.064
+2020,Turkiye,Bulgaria,0.019
+2014,Turkiye,North Macedonia,0.067
+2016,Turkiye,North Macedonia,0.106
+2019,Turkiye,North Macedonia,0.088
+2015,Turkiye,North Macedonia,0.052
+2018,Turkiye,North Macedonia,0.15
+2013,Turkiye,North Macedonia,0.055
+2017,Turkiye,North Macedonia,0.082
+2010,Turkiye,Romania,0.211
+2011,Turkiye,Romania,0.105
+2014,Turkiye,Romania,0.108
+2015,Turkiye,Romania,0.106
+2013,Turkiye,Romania,0.006
+2019,Turkiye,Romania,0.093
+2020,Turkiye,Romania,0.145
+2018,Turkiye,Romania,0.218
+2009,Turkiye,Romania,0.082
+2016,Turkiye,Romania,0.117
+2017,Turkiye,Romania,0.237
+2012,Turkiye,Romania,0.005
+2014,Turkiye,United Arab Emirates,0.1
+2019,Turkiye,United Arab Emirates,0.044
+2018,Turkiye,United Arab Emirates,0.054
+2013,Turkiye,United Arab Emirates,0.191
+2016,Turkiye,United Arab Emirates,0.03
+2012,Turkiye,United Arab Emirates,0.288
+2011,Turkiye,United Arab Emirates,0.003
+2020,Turkiye,United Arab Emirates,0.078
+2015,Turkiye,United Arab Emirates,0.054
+2018,United Kingdom,Albania,0.0
+2009,United Kingdom,Albania,1.106
+2019,United Kingdom,Albania,0.0
+2011,United Kingdom,Albania,3.129
+2010,United Kingdom,Albania,2.21
+2020,United Kingdom,Albania,0.0
+2013,United Kingdom,Bahamas,0.516
+2015,United Kingdom,Bahamas,1.006
+2020,United Kingdom,Bahamas,0.478
+2019,United Kingdom,Bahamas,0.61
+2018,United Kingdom,Bahamas,0.49
+2009,United Kingdom,Bahamas,0.075
+2017,United Kingdom,Bahamas,0.406
+2014,United Kingdom,Bahamas,0.095
+2011,United Kingdom,Bahamas,1.03
+2012,United Kingdom,Bahamas,0.309
+2010,United Kingdom,Bahamas,0.51
+2016,United Kingdom,Bahamas,1.61
+2016,United Kingdom,Bahrain,3.204
+2017,United Kingdom,Bahrain,0.264
+2011,United Kingdom,Bahrain,0.974
+2014,United Kingdom,Bahrain,15.828
+2009,United Kingdom,Bahrain,0.029
+2020,United Kingdom,Bahrain,0.668
+2015,United Kingdom,Bahrain,0.375
+2010,United Kingdom,Bahrain,0.019
+2018,United Kingdom,Bahrain,0.508
+2019,United Kingdom,Bahrain,0.168
+2013,United Kingdom,Bahrain,0.794
+2012,United Kingdom,Bahrain,3.594
+2019,United Kingdom,Barbados,0.33
+2020,United Kingdom,Barbados,0.288
+2016,United Kingdom,Bermuda,2.121
+2013,United Kingdom,Bermuda,7.979
+2010,United Kingdom,Bermuda,12.528
+2015,United Kingdom,Bermuda,1.007
+2017,United Kingdom,Bermuda,5.713
+2011,United Kingdom,Bermuda,1.562
+2012,United Kingdom,Bermuda,14.211
+2020,United Kingdom,Bermuda,2.953
+2014,United Kingdom,Bermuda,12.005
+2019,United Kingdom,Bermuda,1.959
+2009,United Kingdom,Bermuda,9.421
+2018,United Kingdom,Bermuda,7.573
+2019,United Kingdom,Bosnia and Herzegovina,0.009
+2018,United Kingdom,Bosnia and Herzegovina,0.008
+2009,United Kingdom,Bosnia and Herzegovina,0.001
+2014,United Kingdom,Bosnia and Herzegovina,0.027
+2017,United Kingdom,Bosnia and Herzegovina,0.016
+2015,United Kingdom,Bosnia and Herzegovina,0.162
+2013,United Kingdom,Bosnia and Herzegovina,0.171
+2011,United Kingdom,Bosnia and Herzegovina,0.023
+2020,United Kingdom,Bosnia and Herzegovina,0.009
+2010,United Kingdom,Bosnia and Herzegovina,1.411
+2016,United Kingdom,Bosnia and Herzegovina,0.05
+2012,United Kingdom,Bosnia and Herzegovina,0.006
+2013,United Kingdom,British Virgin Islands,6.838
+2014,United Kingdom,British Virgin Islands,5.289
+2012,United Kingdom,British Virgin Islands,7.621
+2020,United Kingdom,British Virgin Islands,2.333
+2015,United Kingdom,British Virgin Islands,9.394
+2011,United Kingdom,British Virgin Islands,18.797
+2017,United Kingdom,British Virgin Islands,12.971
+2009,United Kingdom,British Virgin Islands,3.119
+2010,United Kingdom,British Virgin Islands,5.542
+2018,United Kingdom,British Virgin Islands,0.766
+2016,United Kingdom,British Virgin Islands,3.656
+2019,United Kingdom,British Virgin Islands,3.379
+2009,United Kingdom,Bulgaria,3.509
+2020,United Kingdom,Bulgaria,0.229
+2016,United Kingdom,Bulgaria,1.257
+2014,United Kingdom,Bulgaria,0.819
+2013,United Kingdom,Bulgaria,0.574
+2019,United Kingdom,Bulgaria,0.218
+2011,United Kingdom,Bulgaria,4.326
+2010,United Kingdom,Bulgaria,0.878
+2018,United Kingdom,Bulgaria,0.288
+2017,United Kingdom,Bulgaria,0.719
+2015,United Kingdom,Bulgaria,0.841
+2012,United Kingdom,Bulgaria,1.897
+2013,United Kingdom,Cayman Islands,6.893
+2019,United Kingdom,Cayman Islands,3.435
+2020,United Kingdom,Cayman Islands,0.602
+2012,United Kingdom,Cayman Islands,7.267
+2017,United Kingdom,Cayman Islands,2.267
+2016,United Kingdom,Cayman Islands,2.254
+2009,United Kingdom,Cayman Islands,0.752
+2015,United Kingdom,Cayman Islands,4.988
+2018,United Kingdom,Cayman Islands,1.151
+2010,United Kingdom,Cayman Islands,0.776
+2014,United Kingdom,Cayman Islands,6.42
+2011,United Kingdom,Cayman Islands,16.913
+2010,United Kingdom,Cyprus,0.197
+2017,United Kingdom,Cyprus,0.271
+2016,United Kingdom,Cyprus,0.218
+2019,United Kingdom,Cyprus,0.268
+2014,United Kingdom,Cyprus,0.118
+2012,United Kingdom,Cyprus,3.371
+2011,United Kingdom,Cyprus,4.105
+2013,United Kingdom,Cyprus,0.021
+2018,United Kingdom,Cyprus,0.373
+2020,United Kingdom,Cyprus,0.206
+2015,United Kingdom,Cyprus,0.203
+2009,United Kingdom,Cyprus,0.39
+2014,United Kingdom,Czechia,0.085
+2009,United Kingdom,Czechia,0.037
+2012,United Kingdom,Czechia,0.068
+2011,United Kingdom,Czechia,0.097
+2016,United Kingdom,Czechia,0.071
+2010,United Kingdom,Czechia,0.156
+2015,United Kingdom,Czechia,0.077
+2013,United Kingdom,Czechia,0.149
+2011,United Kingdom,Gibraltar,0.027
+2009,United Kingdom,Gibraltar,0.007
+2015,United Kingdom,Gibraltar,0.172
+2012,United Kingdom,Gibraltar,0.366
+2019,United Kingdom,Gibraltar,0.048
+2014,United Kingdom,Gibraltar,0.109
+2010,United Kingdom,Gibraltar,0.013
+2020,United Kingdom,Gibraltar,0.061
+2018,United Kingdom,Gibraltar,0.071
+2013,United Kingdom,Gibraltar,0.06
+2017,United Kingdom,Gibraltar,0.365
+2016,United Kingdom,Gibraltar,0.141
+2013,United Kingdom,Hong Kong,0.802
+2018,United Kingdom,Hong Kong,0.674
+2009,United Kingdom,Hong Kong,0.083
+2014,United Kingdom,Hong Kong,0.551
+2016,United Kingdom,Hong Kong,0.317
+2019,United Kingdom,Hong Kong,0.249
+2015,United Kingdom,Hong Kong,1.051
+2017,United Kingdom,Hong Kong,0.309
+2020,United Kingdom,Hong Kong,0.192
+2010,United Kingdom,Hong Kong,0.384
+2012,United Kingdom,Hong Kong,1.051
+2011,United Kingdom,Hong Kong,0.426
+2016,United Kingdom,Hungary,0.028
+2017,United Kingdom,Hungary,1.345
+2011,United Kingdom,Hungary,0.305
+2009,United Kingdom,Hungary,0.3
+2019,United Kingdom,Hungary,0.942
+2015,United Kingdom,Hungary,0.032
+2014,United Kingdom,Hungary,0.019
+2012,United Kingdom,Hungary,0.008
+2010,United Kingdom,Hungary,0.057
+2013,United Kingdom,Hungary,0.012
+2020,United Kingdom,Hungary,0.938
+2018,United Kingdom,Hungary,1.349
+2009,United Kingdom,Ireland,4.872
+2020,United Kingdom,Ireland,0.742
+2011,United Kingdom,Ireland,4.317
+2018,United Kingdom,Ireland,1.566
+2019,United Kingdom,Ireland,0.661
+2017,United Kingdom,Ireland,2.863
+2012,United Kingdom,Ireland,2.108
+2015,United Kingdom,Ireland,3.503
+2010,United Kingdom,Ireland,7.612
+2014,United Kingdom,Ireland,3.957
+2013,United Kingdom,Ireland,2.26
+2016,United Kingdom,Ireland,3.975
+2011,United Kingdom,Kazakhstan,0.387
+2014,United Kingdom,Kazakhstan,0.005
+2009,United Kingdom,Kazakhstan,0.288
+2013,United Kingdom,Kazakhstan,0.023
+2010,United Kingdom,Kazakhstan,0.361
+2012,United Kingdom,Kazakhstan,0.002
+2017,United Kingdom,Montenegro,0.061
+2019,United Kingdom,Montenegro,0.001
+2018,United Kingdom,Montenegro,0.003
+2013,United Kingdom,Montenegro,0.005
+2020,United Kingdom,Montenegro,0.0
+2016,United Kingdom,Montenegro,0.067
+2012,United Kingdom,Montenegro,0.003
+2014,United Kingdom,Montenegro,0.293
+2015,United Kingdom,Montenegro,0.082
+2015,United Kingdom,North Macedonia,0.172
+2019,United Kingdom,North Macedonia,0.002
+2013,United Kingdom,North Macedonia,0.092
+2020,United Kingdom,North Macedonia,0.003
+2009,United Kingdom,North Macedonia,0.044
+2018,United Kingdom,North Macedonia,0.023
+2012,United Kingdom,North Macedonia,0.139
+2016,United Kingdom,North Macedonia,0.15
+2014,United Kingdom,North Macedonia,0.16
+2011,United Kingdom,North Macedonia,0.083
+2010,United Kingdom,North Macedonia,0.05
+2017,United Kingdom,North Macedonia,0.0
+2009,United Kingdom,Poland,0.071
+2010,United Kingdom,Poland,0.066
+2012,United Kingdom,Poland,0.092
+2016,United Kingdom,Poland,0.609
+2011,United Kingdom,Poland,0.037
+2015,United Kingdom,Poland,0.049
+2014,United Kingdom,Poland,0.64
+2013,United Kingdom,Poland,0.039
+2010,United Kingdom,Republic of Moldova,0.833
+2009,United Kingdom,Romania,0.029
+2018,United Kingdom,Romania,0.01
+2011,United Kingdom,Romania,0.604
+2010,United Kingdom,Romania,0.381
+2017,United Kingdom,Romania,0.034
+2012,United Kingdom,Romania,0.878
+2016,United Kingdom,Romania,0.372
+2019,United Kingdom,Romania,0.023
+2014,United Kingdom,Romania,0.098
+2015,United Kingdom,Romania,0.398
+2020,United Kingdom,Romania,0.007
+2013,United Kingdom,Romania,0.653
+2010,United Kingdom,Russian Federation,0.127
+2011,United Kingdom,Russian Federation,0.282
+2012,United Kingdom,Russian Federation,0.924
+2013,United Kingdom,Russian Federation,0.158
+2014,United Kingdom,Russian Federation,0.068
+2009,United Kingdom,Russian Federation,0.043
+2016,United Kingdom,Samoa,0.024
+2014,United Kingdom,Samoa,0.04
+2018,United Kingdom,Samoa,0.16
+2015,United Kingdom,Samoa,0.037
+2017,United Kingdom,Samoa,0.023
+2019,United Kingdom,Samoa,0.005
+2013,United Kingdom,Samoa,0.036
+2009,United Kingdom,Samoa,0.629
+2020,United Kingdom,Serbia,0.005
+2015,United Kingdom,Serbia,0.002
+2018,United Kingdom,Serbia,0.005
+2014,United Kingdom,Serbia,0.093
+2016,United Kingdom,Serbia,0.005
+2017,United Kingdom,Serbia,0.0
+2009,United Kingdom,Serbia,0.168
+2019,United Kingdom,Serbia,0.003
+2013,United Kingdom,Serbia,0.042
+2012,United Kingdom,Serbia,0.13
+2010,United Kingdom,Serbia,0.44
+2011,United Kingdom,Serbia,0.207
+2013,United Kingdom,Singapore,0.315
+2018,United Kingdom,Singapore,0.115
+2017,United Kingdom,Singapore,0.556
+2009,United Kingdom,Singapore,0.15
+2010,United Kingdom,Singapore,0.139
+2015,United Kingdom,Singapore,0.549
+2011,United Kingdom,Singapore,0.393
+2014,United Kingdom,Singapore,0.401
+2012,United Kingdom,Singapore,0.378
+2020,United Kingdom,Singapore,0.083
+2019,United Kingdom,Singapore,0.056
+2016,United Kingdom,Singapore,0.153
+2011,United Kingdom,United Arab Emirates,7.636
+2014,United Kingdom,United Arab Emirates,9.5
+2012,United Kingdom,United Arab Emirates,7.362
+2018,United Kingdom,United Arab Emirates,16.583
+2019,United Kingdom,United Arab Emirates,9.56
+2016,United Kingdom,United Arab Emirates,7.286
+2013,United Kingdom,United Arab Emirates,15.382
+2009,United Kingdom,United Arab Emirates,2.395
+2010,United Kingdom,United Arab Emirates,3.107
+2017,United Kingdom,United Arab Emirates,23.238
+2015,United Kingdom,United Arab Emirates,10.373
+2020,United Kingdom,United Arab Emirates,7.189
+2014,United Kingdom,Uzbekistan,0.483
+2016,United Kingdom,Uzbekistan,0.001
+2018,United Kingdom,Uzbekistan,0.0
+2017,United Kingdom,Uzbekistan,0.232
+2013,United Kingdom,Uzbekistan,0.554
+2015,United Kingdom,Uzbekistan,0.0
+2019,United Kingdom,Vanuatu,0.147
+2018,United Kingdom,Vanuatu,0.352
+2020,United Kingdom,Vanuatu,0.074
+2014,United States,Anguilla,3.233
+2019,United States,Anguilla,0.341
+2020,United States,Anguilla,0.228
+2015,United States,Anguilla,4.921
+2016,United States,Anguilla,4.128
+2013,United States,Anguilla,0.964
+2011,United States,Bahamas,41.579
+2009,United States,Bahamas,7.156
+2012,United States,Bahamas,7.749
+2016,United States,Bahamas,6.834
+2010,United States,Bahamas,19.747
+2019,United States,Bahamas,0.449
+2020,United States,Bahamas,0.241
+2015,United States,Bahamas,6.646
+2013,United States,Bahamas,4.559
+2018,United States,Bahamas,5.103
+2017,United States,Bahamas,6.787
+2014,United States,Bahamas,9.129
+2020,United States,Bahrain,0.887
+2011,United States,Bahrain,1.792
+2009,United States,Bahrain,2.709
+2019,United States,Bahrain,1.574
+2012,United States,Bahrain,1.166
+2018,United States,Bahrain,3.916
+2010,United States,Bahrain,3.693
+2015,United States,Bahrain,4.157
+2013,United States,Bahrain,6.184
+2014,United States,Bahrain,5.215
+2016,United States,Bahrain,2.631
+2017,United States,Bahrain,5.335
+2011,United States,Barbados,0.059
+2020,United States,Barbados,1.12
+2019,United States,Barbados,1.418
+2010,United States,Barbados,0.049
+2014,United States,Barbados,0.028
+2009,United States,Barbados,0.038
+2017,United States,Barbados,0.122
+2020,United States,Belize,0.573
+2009,United States,Bermuda,42.436
+2016,United States,Bermuda,42.333
+2019,United States,Bermuda,37.269
+2012,United States,Bermuda,53.423
+2018,United States,Bermuda,33.107
+2010,United States,Bermuda,46.873
+2011,United States,Bermuda,54.006
+2014,United States,Bermuda,66.286
+2013,United States,Bermuda,46.958
+2017,United States,Bermuda,47.765
+2020,United States,Bermuda,33.324
+2015,United States,Bermuda,74.296
+2016,United States,Bosnia and Herzegovina,0.088
+2012,United States,Bosnia and Herzegovina,2.203
+2011,United States,Bosnia and Herzegovina,0.225
+2013,United States,Bosnia and Herzegovina,0.096
+2009,United States,Bosnia and Herzegovina,0.12
+2010,United States,Bosnia and Herzegovina,0.095
+2014,United States,Bosnia and Herzegovina,0.004
+2019,United States,British Virgin Islands,14.244
+2016,United States,British Virgin Islands,20.487
+2013,United States,British Virgin Islands,33.231
+2017,United States,British Virgin Islands,20.108
+2018,United States,British Virgin Islands,10.189
+2009,United States,British Virgin Islands,16.066
+2012,United States,British Virgin Islands,18.853
+2014,United States,British Virgin Islands,25.892
+2010,United States,British Virgin Islands,19.99
+2011,United States,British Virgin Islands,14.412
+2020,United States,British Virgin Islands,15.544
+2015,United States,British Virgin Islands,21.825
+2014,United States,Bulgaria,21.507
+2020,United States,Bulgaria,0.184
+2015,United States,Bulgaria,31.333
+2011,United States,Bulgaria,10.624
+2009,United States,Bulgaria,0.356
+2016,United States,Bulgaria,18.705
+2013,United States,Bulgaria,2.577
+2017,United States,Bulgaria,0.567
+2018,United States,Bulgaria,0.309
+2019,United States,Bulgaria,0.186
+2012,United States,Bulgaria,7.599
+2010,United States,Bulgaria,7.957
+2013,United States,Canada,0.078
+2017,United States,Canada,0.007
+2011,United States,Canada,0.022
+2009,United States,Canada,0.161
+2016,United States,Canada,0.064
+2012,United States,Canada,0.111
+2015,United States,Canada,0.151
+2010,United States,Canada,0.039
+2014,United States,Canada,0.027
+2010,United States,Cayman Islands,36.021
+2020,United States,Cayman Islands,23.067
+2009,United States,Cayman Islands,24.513
+2018,United States,Cayman Islands,34.343
+2019,United States,Cayman Islands,17.7
+2012,United States,Cayman Islands,88.358
+2013,United States,Cayman Islands,62.141
+2016,United States,Cayman Islands,25.268
+2015,United States,Cayman Islands,54.561
+2011,United States,Cayman Islands,47.557
+2017,United States,Cayman Islands,36.987
+2014,United States,Cayman Islands,49.316
+2011,United States,Chile,0.794
+2012,United States,Chile,0.077
+2020,United States,Chile,0.091
+2014,United States,Chile,0.102
+2009,United States,Chile,0.218
+2013,United States,Chile,0.079
+2010,United States,Chile,0.455
+2016,United States,China,0.441
+2015,United States,China,0.993
+2017,United States,China,0.005
+2012,United States,China,0.374
+2011,United States,China,0.391
+2019,United States,China,0.0
+2013,United States,China,0.11
+2009,United States,China,0.176
+2018,United States,China,0.0
+2014,United States,China,0.421
+2010,United States,China,0.562
+2016,United States,"China, Macao Special Administrative Region",0.274
+2014,United States,"China, Macao Special Administrative Region",0.534
+2011,United States,"China, Macao Special Administrative Region",0.102
+2020,United States,"China, Macao Special Administrative Region",0.235
+2019,United States,"China, Macao Special Administrative Region",0.215
+2017,United States,"China, Macao Special Administrative Region",0.032
+2009,United States,"China, Macao Special Administrative Region",0.183
+2013,United States,"China, Macao Special Administrative Region",0.459
+2012,United States,"China, Macao Special Administrative Region",0.294
+2018,United States,"China, Macao Special Administrative Region",0.176
+2010,United States,"China, Macao Special Administrative Region",0.07
+2015,United States,"China, Macao Special Administrative Region",0.578
+2016,United States,Croatia,0.0
+2015,United States,Croatia,0.0
+2019,United States,Croatia,0.003
+2017,United States,Croatia,0.158
+2009,United States,Croatia,0.135
+2018,United States,Croatia,0.034
+2013,United States,Croatia,0.178
+2020,United States,Croatia,0.008
+2014,United States,Croatia,0.431
+2020,United States,Cyprus,0.221
+2012,United States,Cyprus,2.067
+2014,United States,Cyprus,0.594
+2013,United States,Cyprus,1.389
+2019,United States,Cyprus,0.223
+2016,United States,Cyprus,0.911
+2010,United States,Cyprus,0.334
+2018,United States,Cyprus,0.301
+2009,United States,Cyprus,0.262
+2015,United States,Cyprus,10.962
+2017,United States,Cyprus,0.178
+2011,United States,Cyprus,2.952
+2011,United States,Czechia,0.831
+2020,United States,Czechia,0.016
+2017,United States,Czechia,0.117
+2013,United States,Czechia,0.709
+2015,United States,Czechia,0.835
+2019,United States,Czechia,0.013
+2009,United States,Czechia,0.312
+2018,United States,Czechia,0.006
+2010,United States,Czechia,0.617
+2016,United States,Czechia,0.262
+2014,United States,Czechia,0.778
+2012,United States,Czechia,0.679
+2019,United States,Denmark,0.001
+2011,United States,Denmark,0.283
+2009,United States,Denmark,0.542
+2018,United States,Denmark,0.001
+2015,United States,Denmark,0.003
+2017,United States,Denmark,0.015
+2016,United States,Denmark,0.0
+2010,United States,Denmark,0.553
+2012,United States,Denmark,0.008
+2013,United States,Denmark,0.001
+2020,United States,Denmark,0.0
+2014,United States,Denmark,0.107
+2012,United States,Finland,0.145
+2019,United States,Finland,0.0
+2011,United States,Finland,0.081
+2017,United States,Finland,0.002
+2013,United States,Finland,0.065
+2014,United States,Finland,0.125
+2010,United States,Finland,0.066
+2016,United States,Finland,0.01
+2018,United States,Finland,0.018
+2009,United States,Finland,0.053
+2015,United States,Finland,0.019
+2020,United States,Finland,0.0
+2018,United States,Gibraltar,0.095
+2011,United States,Gibraltar,2.409
+2012,United States,Gibraltar,2.396
+2020,United States,Gibraltar,0.007
+2014,United States,Gibraltar,2.303
+2019,United States,Gibraltar,0.108
+2015,United States,Gibraltar,3.305
+2017,United States,Gibraltar,0.679
+2016,United States,Gibraltar,0.897
+2013,United States,Gibraltar,2.777
+2015,United States,Hong Kong,6.461
+2018,United States,Hong Kong,1.792
+2010,United States,Hong Kong,3.488
+2012,United States,Hong Kong,3.46
+2020,United States,Hong Kong,1.64
+2014,United States,Hong Kong,4.031
+2016,United States,Hong Kong,3.692
+2009,United States,Hong Kong,0.765
+2011,United States,Hong Kong,4.594
+2019,United States,Hong Kong,1.394
+2013,United States,Hong Kong,2.754
+2017,United States,Hong Kong,3.744
+2014,United States,Hungary,0.051
+2013,United States,Hungary,0.032
+2015,United States,Hungary,0.039
+2009,United States,Hungary,2.424
+2012,United States,Hungary,0.059
+2016,United States,Hungary,0.0
+2011,United States,Hungary,0.033
+2010,United States,Hungary,0.195
+2018,United States,Hungary,13.907
+2019,United States,Hungary,6.513
+2020,United States,Hungary,4.378
+2017,United States,Hungary,41.004
+2012,United States,Ireland,22.769
+2016,United States,Ireland,20.147
+2019,United States,Ireland,3.838
+2017,United States,Ireland,6.56
+2011,United States,Ireland,25.648
+2009,United States,Ireland,21.633
+2010,United States,Ireland,25.315
+2013,United States,Ireland,32.699
+2020,United States,Ireland,3.824
+2014,United States,Ireland,19.5
+2015,United States,Ireland,22.076
+2018,United States,Ireland,4.533
+2013,United States,Italy,0.046
+2011,United States,Italy,0.05
+2014,United States,Italy,0.065
+2016,United States,Italy,0.016
+2012,United States,Italy,0.326
+2017,United States,Italy,0.001
+2009,United States,Italy,0.001
+2015,United States,Italy,0.018
+2010,United States,Italy,0.005
+2009,United States,Lebanon,0.13
+2018,United States,Lebanon,0.013
+2015,United States,Lebanon,0.038
+2010,United States,Lebanon,0.434
+2016,United States,Lebanon,0.028
+2012,United States,Lebanon,0.024
+2017,United States,Lebanon,0.032
+2009,United States,Lithuania,0.019
+2014,United States,Lithuania,0.188
+2017,United States,Lithuania,0.048
+2012,United States,Lithuania,0.045
+2019,United States,Lithuania,0.001
+2013,United States,Lithuania,0.358
+2010,United States,Lithuania,0.162
+2016,United States,Lithuania,0.11
+2011,United States,Lithuania,0.311
+2015,United States,Lithuania,0.229
+2018,United States,Lithuania,0.001
+2011,United States,Mauritius,2.784
+2017,United States,Mauritius,0.751
+2009,United States,Mauritius,1.02
+2018,United States,Mauritius,0.156
+2012,United States,Mauritius,2.146
+2019,United States,Mauritius,0.093
+2013,United States,Mauritius,2.716
+2014,United States,Mauritius,1.262
+2020,United States,Mauritius,0.028
+2010,United States,Mauritius,2.352
+2016,United States,Mauritius,1.49
+2015,United States,Mauritius,1.198
+2015,United States,Montenegro,0.002
+2010,United States,Montenegro,1.88
+2020,United States,Montenegro,1.92
+2019,United States,Montenegro,0.005
+2014,United States,Montenegro,0.208
+2012,United States,Montenegro,0.103
+2018,United States,Montenegro,1.733
+2009,United States,Montenegro,1.371
+2013,United States,Montenegro,0.12
+2017,United States,Montenegro,0.147
+2011,United States,Montenegro,2.455
+2016,United States,Montenegro,0.009
+2011,United States,Netherlands,1.085
+2012,United States,Netherlands,0.286
+2018,United States,Netherlands,0.0
+2009,United States,Netherlands,1.646
+2010,United States,Netherlands,1.261
+2020,United States,Netherlands,0.016
+2016,United States,Netherlands,0.026
+2013,United States,Netherlands,1.071
+2014,United States,Netherlands,0.526
+2015,United States,Netherlands,0.032
+2017,United States,Netherlands,0.042
+2020,United States,North Macedonia,0.088
+2016,United States,North Macedonia,0.189
+2013,United States,North Macedonia,0.151
+2019,United States,North Macedonia,0.055
+2009,United States,North Macedonia,1.044
+2011,United States,North Macedonia,0.066
+2015,United States,North Macedonia,0.281
+2018,United States,North Macedonia,0.099
+2017,United States,North Macedonia,0.174
+2014,United States,North Macedonia,0.227
+2012,United States,North Macedonia,0.078
+2019,United States,Oman,0.0
+2011,United States,Oman,0.25
+2016,United States,Oman,0.087
+2010,United States,Oman,0.172
+2012,United States,Oman,0.036
+2020,United States,Oman,0.001
+2018,United States,Oman,0.001
+2018,United States,Paraguay,0.144
+2014,United States,Paraguay,0.206
+2012,United States,Paraguay,0.704
+2017,United States,Paraguay,0.284
+2011,United States,Paraguay,0.774
+2015,United States,Paraguay,0.014
+2020,United States,Paraguay,0.358
+2019,United States,Paraguay,0.318
+2009,United States,Paraguay,0.026
+2013,United States,Paraguay,3.513
+2010,United States,Poland,0.767
+2020,United States,Poland,1.465
+2018,United States,Poland,0.045
+2019,United States,Poland,1.191
+2009,United States,Poland,0.434
+2017,United States,Poland,0.164
+2014,United States,Poland,0.299
+2016,United States,Poland,0.539
+2015,United States,Poland,1.615
+2011,United States,Poland,0.422
+2013,United States,Poland,0.484
+2012,United States,Poland,0.762
+2015,United States,Republic of Moldova,0.457
+2010,United States,Republic of Moldova,0.078
+2014,United States,Republic of Moldova,0.469
+2013,United States,Republic of Moldova,0.35
+2011,United States,Republic of Moldova,0.404
+2010,United States,Romania,1.579
+2019,United States,Romania,0.258
+2016,United States,Romania,1.268
+2015,United States,Romania,2.057
+2012,United States,Romania,1.221
+2020,United States,Romania,0.583
+2009,United States,Romania,0.37
+2014,United States,Romania,2.416
+2013,United States,Romania,1.432
+2011,United States,Romania,0.825
+2018,United States,Romania,0.388
+2017,United States,Romania,1.011
+2017,United States,Russian Federation,0.02
+2013,United States,Russian Federation,0.222
+2016,United States,Russian Federation,0.003
+2014,United States,Russian Federation,0.636
+2015,United States,Russian Federation,0.016
+2012,United States,Russian Federation,0.214
+2009,United States,Russian Federation,0.203
+2010,United States,Russian Federation,0.221
+2011,United States,Russian Federation,0.079
+2018,United States,Serbia,0.214
+2016,United States,Serbia,0.22
+2011,United States,Serbia,0.892
+2012,United States,Serbia,0.883
+2020,United States,Serbia,0.043
+2015,United States,Serbia,0.385
+2013,United States,Serbia,5.683
+2010,United States,Serbia,6.709
+2017,United States,Serbia,0.314
+2019,United States,Serbia,0.039
+2009,United States,Serbia,2.252
+2014,United States,Serbia,4.458
+2018,United States,Singapore,1.177
+2014,United States,Singapore,7.609
+2016,United States,Singapore,2.752
+2012,United States,Singapore,3.179
+2015,United States,Singapore,3.785
+2017,United States,Singapore,2.62
+2019,United States,Singapore,2.265
+2020,United States,Singapore,1.488
+2011,United States,Singapore,3.033
+2009,United States,Singapore,0.741
+2010,United States,Singapore,2.369
+2013,United States,Singapore,3.669
+2012,United States,Slovakia,2.788
+2011,United States,Slovakia,3.523
+2014,United States,Slovakia,0.008
+2013,United States,Slovakia,0.024
+2010,United States,Slovakia,0.6
+2009,United States,Slovakia,0.483
+2013,United States,Spain,0.193
+2018,United States,Spain,0.001
+2009,United States,Spain,0.004
+2014,United States,Spain,0.102
+2015,United States,Spain,0.184
+2017,United States,Spain,0.308
+2019,United States,Spain,0.002
+2020,United States,Spain,0.007
+2010,United States,Spain,0.002
+2011,United States,Spain,0.003
+2016,United States,Spain,0.148
+2012,United States,Spain,0.001
+2017,United States,Sweden,0.038
+2020,United States,Sweden,0.0
+2016,United States,Sweden,0.003
+2011,United States,Sweden,0.084
+2015,United States,Sweden,0.005
+2018,United States,Sweden,0.001
+2010,United States,Sweden,0.14
+2012,United States,Sweden,0.128
+2009,United States,Sweden,0.234
+2013,United States,Sweden,0.574
+2019,United States,Sweden,0.001
+2011,United States,Switzerland,1.263
+2013,United States,Switzerland,1.396
+2017,United States,Switzerland,0.008
+2016,United States,Switzerland,0.001
+2015,United States,Switzerland,0.005
+2020,United States,Switzerland,0.002
+2014,United States,Switzerland,0.002
+2010,United States,Switzerland,1.483
+2018,United States,Switzerland,0.069
+2012,United States,Switzerland,2.819
+2009,United States,Switzerland,1.157
+2016,United States,Taiwan,0.166
+2017,United States,Taiwan,0.235
+2009,United States,Taiwan,0.015
+2014,United States,Taiwan,0.006
+2015,United States,Taiwan,0.369
+2011,United States,Taiwan,0.345
+2013,United States,Taiwan,0.138
+2012,United States,Taiwan,0.047
+2019,United States,Ukraine,0.05
+2018,United States,Ukraine,0.059
+2012,United States,Ukraine,0.013
+2011,United States,Ukraine,0.006
+2020,United States,Ukraine,0.037
+2014,United States,Ukraine,0.002
+2013,United States,Ukraine,0.011
+2015,United States,Ukraine,0.206
+2016,United States,Ukraine,0.461
+2017,United States,Ukraine,0.137
+2020,United States,United Arab Emirates,38.416
+2010,United States,United Arab Emirates,13.314
+2018,United States,United Arab Emirates,47.087
+2019,United States,United Arab Emirates,41.312
+2016,United States,United Arab Emirates,56.043
+2011,United States,United Arab Emirates,13.59
+2014,United States,United Arab Emirates,35.956
+2013,United States,United Arab Emirates,24.945
+2015,United States,United Arab Emirates,25.552
+2012,United States,United Arab Emirates,22.598
+2017,United States,United Arab Emirates,62.052
+2009,United States,United Arab Emirates,9.595
+2010,United States,United Kingdom,2.494
+2014,United States,United Kingdom,5.977
+2020,United States,United Kingdom,4.244
+2012,United States,United Kingdom,5.568
+2011,United States,United Kingdom,2.545
+2016,United States,United Kingdom,2.272
+2009,United States,United Kingdom,1.767
+2017,United States,United Kingdom,7.134
+2018,United States,United Kingdom,5.006
+2013,United States,United Kingdom,3.333
+2015,United States,United Kingdom,7.836
+2019,United States,United Kingdom,2.439
+2015,Venezuela,British Virgin Islands,0.612
+2014,Venezuela,Hong Kong,3.251
+2010,Venezuela,Hong Kong,2.419
+2009,Venezuela,Hong Kong,1.72
+2013,Venezuela,Hong Kong,4.758
+2011,Venezuela,Hong Kong,1.471
+2012,Venezuela,Hong Kong,3.625

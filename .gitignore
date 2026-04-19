@@ -1,0 +1,42 @@
+# ============================================================
+# Raw data — NEVER commit the source .dta files
+# ============================================================
+*.dta
+*.dta.gz
+*.sav
+*.rdata
+
+# Raw CV / source docs (the intended deliverable FotisDelis_CV.docx
+# is explicitly tracked via a negation rule at the bottom of this file)
+*.pdf
+*.docx
+
+# ============================================================
+# OS / editor / Python
+# ============================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+.vscode/
+.idea/
+*.swp
+
+# Local test outputs / scratch
+*.log
+_summarize.py
+_export_csvs.py
+_compute_subsets.py
+_read_cv.py
+_read_cv_links.py
+_build_cv.py
+
+# ============================================================
+# CV stays off GitHub — user hosts it on Google Drive instead.
+# The *.docx rule above already excludes it; this comment is the reason.
+# ============================================================

@@ -1,0 +1,673 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Profit Shifting Explorer — Delis, Delis, Laeven & Ongena (JAE, 2025)</title>
+<meta name="description" content="Interactive explorer of country-year and industry-year profit shifting estimates for multinational enterprises, 2009–2020.">
+
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js" charset="utf-8"></script>
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+
+<style>
+  :root {
+    --ink:       #0b1f3a;
+    --primary:   #003d7a;
+    --accent:    #c84b1a;
+    --muted:     #5a6b80;
+    --border:    #d7dde5;
+    --bg:        #ffffff;
+    --bg-soft:   #f5f7fa;
+    --bg-info:   #fdf2ec;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    color: var(--ink);
+    background: var(--bg);
+    line-height: 1.45;
+  }
+  .wrap { max-width: 1200px; margin: 0 auto; padding: 18px 20px 36px; }
+  header h1 {
+    font-size: 22px; margin: 0 0 4px; color: var(--primary); letter-spacing: -0.01em;
+  }
+  header p.subtitle {
+    margin: 0 0 14px; color: var(--muted); font-size: 14px;
+  }
+
+  /* Tabs */
+  .tabs { display: flex; gap: 2px; border-bottom: 2px solid var(--border); margin-bottom: 18px; flex-wrap: wrap; }
+  .tab-btn {
+    background: transparent; border: 0; border-bottom: 2px solid transparent;
+    padding: 10px 16px; font-size: 14px; font-weight: 500; color: var(--muted);
+    cursor: pointer; margin-bottom: -2px; font-family: inherit;
+  }
+  .tab-btn:hover { color: var(--primary); }
+  .tab-btn.active {
+    color: var(--primary); border-bottom-color: var(--primary); font-weight: 600;
+  }
+  .tab-panel { display: none; }
+  .tab-panel.active { display: block; }
+
+  /* Controls */
+  .controls {
+    display: flex; gap: 16px; flex-wrap: wrap; align-items: center;
+    padding: 12px 14px; background: var(--bg-soft); border: 1px solid var(--border);
+    border-radius: 6px; margin-bottom: 14px;
+  }
+  .control { display: flex; flex-direction: column; gap: 4px; min-width: 180px; }
+  .control label { font-size: 12px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.03em; }
+  .control select, .control input[type="range"] {
+    padding: 6px 8px; font-size: 14px; border: 1px solid var(--border); border-radius: 4px;
+    font-family: inherit; background: white;
+  }
+  .control select[multiple] { min-height: 200px; min-width: 340px; }
+  .slider-row { display: flex; align-items: center; gap: 8px; }
+  .slider-row input[type="range"] { flex: 1; }
+  .slider-row .year-value {
+    font-variant-numeric: tabular-nums; font-weight: 600; color: var(--primary);
+    min-width: 3.5ch; text-align: right;
+  }
+
+  /* Info box */
+  .info {
+    padding: 10px 12px; background: var(--bg-info); border-left: 3px solid var(--accent);
+    font-size: 13px; color: var(--ink); margin-bottom: 14px; border-radius: 3px;
+  }
+  .info strong { color: var(--primary); }
+
+  /* Chart */
+  .chart { width: 100%; min-height: 520px; border: 1px solid var(--border); border-radius: 6px; background: white; }
+
+  /* Status */
+  .status { padding: 14px; text-align: center; color: var(--muted); font-size: 14px; }
+  .status.error { color: #b00020; }
+
+  /* Footer */
+  footer {
+    margin-top: 28px; padding-top: 16px; border-top: 1px solid var(--border);
+    font-size: 12px; color: var(--muted); line-height: 1.55;
+  }
+  footer p { margin: 4px 0; }
+  footer a { color: var(--accent); }
+  footer .citation {
+    font-family: ui-monospace, "SF Mono", Consolas, monospace;
+    background: var(--bg-soft); padding: 8px 10px; border-radius: 4px;
+    margin: 6px 0; font-size: 11.5px; color: var(--ink);
+  }
+
+  @media (max-width: 640px) {
+    .controls { padding: 10px; }
+    .control { min-width: 100%; }
+    .control select[multiple] { min-width: 100%; }
+    header h1 { font-size: 18px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>Profit Shifting Explorer</h1>
+  <p class="subtitle">
+    Country-year and industry-year estimates of profit shifted by multinational enterprises, 2009–2020.
+    Based on Delis, Delis, Laeven &amp; Ongena, <em>Journal of Accounting and Economics</em> (2025).
+  </p>
+</header>
+
+<div class="tabs" role="tablist">
+  <button class="tab-btn active" data-target="tab-map"       role="tab">Map</button>
+  <button class="tab-btn"        data-target="tab-timeseries" role="tab">GUO · lowest-tax pairs</button>
+  <button class="tab-btn"        data-target="tab-industry"   role="tab">Industry ranking</button>
+</div>
+
+<!-- ================================================================
+     TAB 1 — Choropleth map (top-5 GUOs only)
+     ================================================================ -->
+<section class="tab-panel active" id="tab-map">
+  <div class="controls">
+    <div class="control">
+      <label for="map-guo">GUO country (top 5 by total)</label>
+      <select id="map-guo"></select>
+    </div>
+    <div class="control" style="flex: 1; min-width: 280px;">
+      <label for="map-year">Year</label>
+      <div class="slider-row">
+        <input type="range" id="map-year" min="2009" max="2020" step="1" value="2018">
+        <span class="year-value" id="map-year-value">2018</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="info">
+    <strong>How to read this map.</strong>
+    Pick a GUO country and a year. The map then shades each country by how much profit was shifted by MNEs
+    whose Global Ultimate Owner sits in the chosen GUO country <em>and</em> whose lowest-tax jurisdiction
+    is that shaded country. <strong>Shaded countries and the overlay bubbles are therefore lowest-tax
+    jurisdictions, not the GUO country itself.</strong> Values are joint aggregates over the
+    (GUO, lowest-tax country) combination — <strong>not</strong> bilateral flows. Small-island tax havens
+    are marked with circles sized by value so they remain visible at world scale. Countries with no data
+    for the combination are left light grey.
+  </div>
+
+  <div id="map-chart" class="chart" style="min-height: 560px;"></div>
+  <div id="map-status" class="status"></div>
+</section>
+
+<!-- ================================================================
+     TAB 2 — Top-20 GUO·lowest-tax pair time series
+     ================================================================ -->
+<section class="tab-panel" id="tab-timeseries">
+  <div class="controls">
+    <div class="control">
+      <label for="ts-pairs">Top-20 GUO · lowest-tax pairs (Ctrl / Cmd to multi-select — up to 6)</label>
+      <select id="ts-pairs" multiple></select>
+    </div>
+  </div>
+
+  <div class="info">
+    Yearly profit shifted by MNEs for each selected (GUO country · lowest-tax jurisdiction) combination.
+    Pairs are ranked by all-time total across 2009–2020; the 20 largest are shown. Values are in billions of US dollars.
+  </div>
+
+  <div id="ts-chart" class="chart"></div>
+  <div id="ts-status" class="status"></div>
+</section>
+
+<!-- ================================================================
+     TAB 3 — Industry ranking (fixed top 10)
+     ================================================================ -->
+<section class="tab-panel" id="tab-industry">
+  <div class="controls">
+    <div class="control" style="flex: 1; min-width: 280px;">
+      <label for="ind-year">Year</label>
+      <div class="slider-row">
+        <input type="range" id="ind-year" min="2009" max="2020" step="1" value="2018">
+        <span class="year-value" id="ind-year-value">2018</span>
+      </div>
+    </div>
+    <div class="control">
+      <label for="ind-gran">Granularity</label>
+      <select id="ind-gran">
+        <option value="Industry" selected>NACE section (19 broad)</option>
+        <option value="Nacerev">NACE sub-class (detailed)</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="info">
+    Top-10 industries by total profit shifted in the chosen year. Values are in billions of US dollars.
+    The GUO's industry classification follows NACE Rev. 2.
+  </div>
+
+  <div id="ind-chart" class="chart"></div>
+  <div id="ind-status" class="status"></div>
+</section>
+
+<footer>
+  <p><strong>Data.</strong> Delis, F., Delis, M.D., Laeven, L., and Ongena, S. (2025).</p>
+  <div class="citation">
+Delis, F., Delis, M.D., Laeven, L., and Ongena, S. (2025).
+"Global Evidence on Profit Shifting Within Firms and Across Time."
+Journal of Accounting and Economics, 79(2).
+  </div>
+  <p><em>The views expressed here are those of the author and do not represent those of the European Commission or the Joint Research Centre.</em></p>
+</footer>
+
+</div><!-- /.wrap -->
+
+<script>
+/* ==================================================================
+   Profit Shifting Explorer — Plotly + PapaParse, vanilla JS
+   ================================================================== */
+
+// --- Country-name normalization for Plotly 'country names' locationmode.
+const countryNameFix = {
+  "Russian Federation": "Russia",
+  "Viet Nam": "Vietnam",
+  "Republic of Moldova": "Moldova",
+  "China, Macao Special Administrative Region": "Macau",
+  "Turkiye": "Turkey",
+  "South Korea": "South Korea",
+  "Czechia": "Czech Republic",
+  "North Macedonia": "North Macedonia"
+};
+const fixName = (s) => countryNameFix[s] || s;
+
+// --- Approximate lat/lon centroids for every country that appears
+// as a `lowest_tax_country` in the dataset. Used for overlay bubbles
+// so small islands (Cayman, BVI, Bermuda, …) remain visible on a
+// world map where they would otherwise be invisible dots.
+const centroids = {
+  "Albania":                      [41.15,  20.17],
+  "Andorra":                      [42.54,   1.60],
+  "Anguilla":                     [18.22, -63.07],
+  "Bahamas":                      [25.03, -77.40],
+  "Bahrain":                      [26.07,  50.55],
+  "Barbados":                     [13.19, -59.54],
+  "Belize":                       [17.25, -88.77],
+  "Bermuda":                      [32.32, -64.76],
+  "Bosnia and Herzegovina":       [43.92,  17.68],
+  "British Virgin Islands":       [18.42, -64.64],
+  "Bulgaria":                     [42.73,  25.49],
+  "Canada":                       [56.13, -106.35],
+  "Cayman Islands":               [19.31, -81.25],
+  "Chile":                        [-35.68, -71.54],
+  "China":                        [35.86, 104.20],
+  "China, Macao Special Administrative Region": [22.20, 113.55],
+  "Croatia":                      [45.10,  15.20],
+  "Cyprus":                       [35.13,  33.43],
+  "Czechia":                      [49.82,  15.47],
+  "Denmark":                      [56.26,   9.50],
+  "Ecuador":                      [-1.83, -78.18],
+  "Finland":                      [61.92,  25.75],
+  "Gibraltar":                    [36.14,  -5.35],
+  "Hong Kong":                    [22.32, 114.17],
+  "Hungary":                      [47.16,  19.50],
+  "Iceland":                      [64.96, -19.02],
+  "Ireland":                      [53.14,  -7.69],
+  "Italy":                        [41.87,  12.57],
+  "Kazakhstan":                   [48.02,  66.92],
+  "Kyrgyzstan":                   [41.20,  74.77],
+  "Latvia":                       [56.88,  24.60],
+  "Lebanon":                      [33.85,  35.86],
+  "Liechtenstein":                [47.17,   9.56],
+  "Lithuania":                    [55.17,  23.88],
+  "Malaysia":                     [4.21, 101.98],
+  "Maldives":                     [3.20,  73.22],
+  "Mauritius":                    [-20.35,  57.55],
+  "Montenegro":                   [42.71,  19.37],
+  "Netherlands":                  [52.13,   5.29],
+  "North Macedonia":              [41.61,  21.75],
+  "Oman":                         [21.47,  55.98],
+  "Paraguay":                     [-23.44, -58.44],
+  "Poland":                       [51.92,  19.15],
+  "Qatar":                        [25.35,  51.18],
+  "Republic of Moldova":          [47.41,  28.37],
+  "Romania":                      [45.94,  24.97],
+  "Russian Federation":           [61.52, 105.32],
+  "Samoa":                        [-13.76, -172.10],
+  "Serbia":                       [44.02,  21.01],
+  "Singapore":                    [1.35, 103.82],
+  "Slovakia":                     [48.67,  19.70],
+  "Slovenia":                     [46.15,  14.99],
+  "South Korea":                  [35.91, 127.77],
+  "Spain":                        [40.46,  -3.75],
+  "Sri Lanka":                    [7.87,  80.77],
+  "Sweden":                       [60.13,  18.64],
+  "Switzerland":                  [46.82,   8.23],
+  "Taiwan":                       [23.70, 120.96],
+  "Thailand":                     [15.87, 100.99],
+  "Turkey":                       [38.96,  35.24],
+  "Turkmenistan":                 [38.97,  59.56],
+  "Ukraine":                      [48.38,  31.17],
+  "United Arab Emirates":         [23.42,  53.85],
+  "United Kingdom":               [55.38,  -3.44],
+  "Uzbekistan":                   [41.38,  64.59],
+  "Vanuatu":                      [-15.38, 166.96],
+  "Viet Nam":                     [14.06, 108.28]
+};
+
+// --- NACE Rev.2 SECTION letters → names
+const naceSections = {
+  A: "Agriculture, forestry and fishing",
+  B: "Mining and quarrying",
+  C: "Manufacturing",
+  D: "Electricity, gas, steam and air conditioning supply",
+  E: "Water supply, sewerage, waste management",
+  F: "Construction",
+  G: "Wholesale and retail trade; repair of motor vehicles",
+  H: "Transportation and storage",
+  I: "Accommodation and food service activities",
+  J: "Information and communication",
+  K: "Financial and insurance activities",
+  L: "Real estate activities",
+  M: "Professional, scientific and technical activities",
+  N: "Administrative and support service activities",
+  O: "Public administration and defence",
+  P: "Education",
+  Q: "Human health and social work activities",
+  R: "Arts, entertainment and recreation",
+  S: "Other service activities"
+};
+
+// --- NACE Rev.2 sub-CLASS labels for every code that appears in the
+// top-10 of any year (19 distinct codes across 2009–2020).
+const naceSubclasses = {
+  610:  "06.10 — Extraction of crude petroleum",
+  729:  "07.29 — Mining of other non-ferrous metal ores",
+  910:  "09.10 — Support activities for petroleum and natural gas extraction",
+  1089: "10.89 — Manufacture of other food products n.e.c.",
+  1200: "12.00 — Manufacture of tobacco products",
+  1920: "19.20 — Manufacture of refined petroleum products",
+  2014: "20.14 — Manufacture of other organic basic chemicals",
+  2120: "21.20 — Manufacture of pharmaceutical preparations",
+  2611: "26.11 — Manufacture of electronic components",
+  2620: "26.20 — Manufacture of computers and peripheral equipment",
+  2630: "26.30 — Manufacture of communication equipment",
+  2651: "26.51 — Manufacture of instruments for measuring, testing, navigation",
+  2910: "29.10 — Manufacture of motor vehicles",
+  3030: "30.30 — Manufacture of air and spacecraft",
+  3511: "35.11 — Production of electricity",
+  5829: "58.29 — Other software publishing",
+  6190: "61.90 — Other telecommunications activities",
+  6209: "62.09 — Other information technology and computer service activities",
+  6420: "64.20 — Activities of holding companies"
+};
+
+// --- Sequential red/orange scale (Plotly's YlOrRd, trimmed)
+const COLORSCALE_REDORANGE = [
+  [0.00, "#fff3d9"],
+  [0.15, "#ffd699"],
+  [0.35, "#fdae61"],
+  [0.55, "#f46d43"],
+  [0.75, "#d73027"],
+  [1.00, "#a50026"]
+];
+const LINE_PALETTE = ["#003d7a","#c84b1a","#1f77b4","#6ba8d6","#e08214","#8c564b"];
+
+// --- Tab switching
+document.querySelectorAll(".tab-btn").forEach(btn => {
+  btn.addEventListener("click", () => {
+    const target = btn.dataset.target;
+    document.querySelectorAll(".tab-btn").forEach(b => b.classList.toggle("active", b === btn));
+    document.querySelectorAll(".tab-panel").forEach(p => p.classList.toggle("active", p.id === target));
+    window.dispatchEvent(new Event("resize"));
+  });
+});
+
+// --- State
+let COUNTRY = [];
+let INDUSTRY = [];
+let TOP_GUOS = [];     // top-5 by all-time total
+let TOP_PAIRS = [];    // top-20 (guo, ltc) pairs
+
+// --- Helpers
+function uniqSorted(arr, key) {
+  const s = new Set();
+  for (const r of arr) s.add(r[key]);
+  return [...s].sort((a,b) => String(a).localeCompare(String(b)));
+}
+function setStatus(el, msg, isErr) {
+  el.textContent = msg || "";
+  el.classList.toggle("error", !!isErr);
+}
+function fmtPair(guo, ltc) { return guo + " · " + ltc; }
+function loadCSV(path) {
+  return new Promise((resolve, reject) => {
+    Papa.parse(path, {
+      download: true, header: true, dynamicTyping: true, skipEmptyLines: true,
+      complete: (res) => resolve(res.data),
+      error: (err) => reject(err)
+    });
+  });
+}
+
+Promise.all([loadCSV("country_data.csv"), loadCSV("industry_data.csv")])
+  .then(([country, industry]) => {
+    COUNTRY  = country.filter(r => r.year && r.guocountry && r.lowest_tax_country);
+    INDUSTRY = industry.filter(r => r.year && r.Industry && r.Nacerev !== undefined && r.Nacerev !== null);
+
+    // Top-5 GUOs
+    const guoTot = {};
+    for (const r of COUNTRY) guoTot[r.guocountry] = (guoTot[r.guocountry] || 0) + r.MNE_profit_shifting;
+    TOP_GUOS = Object.entries(guoTot).sort((a,b) => b[1]-a[1]).slice(0,5).map(([g]) => g);
+
+    // Top-20 (GUO, lowest-tax) pairs
+    const pairTot = {};
+    for (const r of COUNTRY) {
+      const k = r.guocountry + "||" + r.lowest_tax_country;
+      pairTot[k] = (pairTot[k] || 0) + r.MNE_profit_shifting;
+    }
+    TOP_PAIRS = Object.entries(pairTot).sort((a,b) => b[1]-a[1]).slice(0,20).map(([k, v]) => {
+      const [guo, ltc] = k.split("||");
+      return { guo, ltc, total: v };
+    });
+
+    initMap();
+    initTimeseries();
+    initIndustry();
+  })
+  .catch((err) => {
+    console.error(err);
+    const msg = "Could not load data (" + err.message + "). Run `python -m http.server 8000` from the docs/ folder.";
+    ["map-status","ts-status","ind-status"].forEach(id => setStatus(document.getElementById(id), msg, true));
+  });
+
+/* -------- Tab 1: Choropleth + centroid bubbles ---------------------- */
+function initMap() {
+  const guoSel  = document.getElementById("map-guo");
+  const yrInput = document.getElementById("map-year");
+  const yrLabel = document.getElementById("map-year-value");
+
+  guoSel.innerHTML = TOP_GUOS.map((g, i) =>
+    `<option value="${g}" ${i === 0 ? "selected" : ""}>${g}</option>`
+  ).join("");
+
+  const years = uniqSorted(COUNTRY, "year");
+  yrInput.min = Math.min(...years);
+  yrInput.max = Math.max(...years);
+  yrInput.value = 2018;
+  yrLabel.textContent = yrInput.value;
+
+  const render = () => {
+    const guo  = guoSel.value;
+    const year = parseInt(yrInput.value, 10);
+    yrLabel.textContent = year;
+
+    const rows = COUNTRY.filter(r => r.guocountry === guo && r.year === year);
+    const statusEl = document.getElementById("map-status");
+    setStatus(statusEl,
+      rows.length === 0
+        ? `No data for GUO=${guo} in ${year}. Try another year.`
+        : `${rows.length} lowest-tax country combinations · ${year}`,
+      false);
+
+    const values   = rows.map(r => r.MNE_profit_shifting);
+    const maxVal   = values.length ? Math.max(...values) : 1;
+    const fillLocs = rows.map(r => fixName(r.lowest_tax_country));
+    const rawNames = rows.map(r => r.lowest_tax_country);
+
+    // Choropleth fill
+    const fillTrace = {
+      type: "choropleth",
+      locationmode: "country names",
+      locations: fillLocs,
+      z: values,
+      customdata: rawNames,
+      hovertemplate:
+        "<b>%{customdata}</b><br>Profit shifted: $%{z:.2f} bn<extra></extra>",
+      colorscale: COLORSCALE_REDORANGE,
+      zmin: 0, zmax: maxVal,
+      marker: { line: { color: "#ffffff", width: 0.4 } },
+      colorbar: {
+        title: { text: "US$ bn", side: "right", font: { size: 12 } },
+        thickness: 12, len: 0.75, x: 1.02
+      },
+      showscale: true
+    };
+
+    // Centroid-bubble overlay (so small islands stay visible)
+    const bubLat = [], bubLon = [], bubVal = [], bubName = [];
+    for (const r of rows) {
+      const c = centroids[r.lowest_tax_country];
+      if (!c) continue;
+      bubLat.push(c[0]); bubLon.push(c[1]);
+      bubVal.push(r.MNE_profit_shifting);
+      bubName.push(r.lowest_tax_country);
+    }
+    // Radius: sqrt scaling so area ~ value; clamp to readable range
+    const minR = 5, maxR = 24;
+    const sizes = bubVal.map(v => {
+      const t = maxVal > 0 ? Math.sqrt(v / maxVal) : 0;
+      return minR + t * (maxR - minR);
+    });
+    const bubbleTrace = {
+      type: "scattergeo",
+      mode: "markers",
+      lat: bubLat, lon: bubLon,
+      customdata: bubName.map((n, i) => [n, bubVal[i]]),
+      hovertemplate: "<b>%{customdata[0]}</b><br>Profit shifted: $%{customdata[1]:.2f} bn<extra></extra>",
+      marker: {
+        size: sizes,
+        color: bubVal,
+        colorscale: COLORSCALE_REDORANGE,
+        cmin: 0, cmax: maxVal,
+        line: { color: "#4a0000", width: 0.8 },
+        opacity: 0.85,
+        showscale: false
+      },
+      showlegend: false
+    };
+
+    const layout = {
+      title: {
+        text: `Profit shifted by MNEs with GUO in <b>${guo}</b> — ${year}`,
+        font: { size: 15, color: "#0b1f3a" }
+      },
+      geo: {
+        projection: { type: "natural earth" },
+        showcoastlines: true, coastlinecolor: "#b8c2cf", coastlinewidth: 0.5,
+        showframe: false,
+        showland: true, landcolor: "#eef0f3",
+        showocean: true, oceancolor: "#ffffff",
+        bgcolor: "rgba(0,0,0,0)"
+      },
+      margin: { l: 8, r: 8, t: 44, b: 8 },
+      paper_bgcolor: "#ffffff"
+    };
+
+    Plotly.react("map-chart", [fillTrace, bubbleTrace], layout,
+                 { displaylogo: false, responsive: true });
+  };
+
+  guoSel.addEventListener("change", render);
+  yrInput.addEventListener("input", render);
+  render();
+}
+
+/* -------- Tab 2: Top-20 pair time series --------------------------- */
+function initTimeseries() {
+  const sel = document.getElementById("ts-pairs");
+
+  // Default selection = 4 biggest pairs
+  sel.innerHTML = TOP_PAIRS.map((p, i) => {
+    const label = `${fmtPair(p.guo, p.ltc)}  ($${p.total.toFixed(0)} bn all-time)`;
+    return `<option value="${p.guo}||${p.ltc}" ${i < 4 ? "selected" : ""}>${label}</option>`;
+  }).join("");
+
+  const render = () => {
+    const selected = [...sel.selectedOptions].slice(0, 6).map(o => {
+      const [g, l] = o.value.split("||");
+      return { guo: g, ltc: l };
+    });
+    const statusEl = document.getElementById("ts-status");
+
+    if (selected.length === 0) {
+      setStatus(statusEl, "Select at least one pair.", false);
+      Plotly.purge("ts-chart");
+      return;
+    }
+    setStatus(statusEl,
+      [...sel.selectedOptions].length > 6 ? "Only the first 6 selections are plotted." : "",
+      false);
+
+    const traces = selected.map((p, i) => {
+      const rows = COUNTRY.filter(r => r.guocountry === p.guo && r.lowest_tax_country === p.ltc);
+      const byYr = {};
+      for (const r of rows) byYr[r.year] = (byYr[r.year] || 0) + r.MNE_profit_shifting;
+      const years = Object.keys(byYr).map(Number).sort((a,b) => a-b);
+      return {
+        type: "scatter", mode: "lines+markers",
+        name: fmtPair(p.guo, p.ltc),
+        x: years,
+        y: years.map(y => byYr[y]),
+        line: { color: LINE_PALETTE[i % LINE_PALETTE.length], width: 2 },
+        marker: { size: 6 },
+        hovertemplate: `<b>${fmtPair(p.guo, p.ltc)}</b><br>%{x}: $%{y:.2f} bn<extra></extra>`
+      };
+    });
+
+    const layout = {
+      title: { text: "Profit shifted by GUO · lowest-tax pair, 2009–2020", font: { size: 15 } },
+      xaxis: { title: { text: "Year" }, dtick: 1, gridcolor: "#eef1f5" },
+      yaxis: { title: { text: "Profit shifted (US$ bn)" }, gridcolor: "#eef1f5", rangemode: "tozero" },
+      margin: { l: 64, r: 20, t: 44, b: 48 },
+      paper_bgcolor: "#ffffff", plot_bgcolor: "#ffffff",
+      legend: { orientation: "h", y: -0.22, font: { size: 11 } }
+    };
+    Plotly.react("ts-chart", traces, layout, { displaylogo: false, responsive: true });
+  };
+
+  sel.addEventListener("change", render);
+  render();
+}
+
+/* -------- Tab 3: Top-10 industry ranking --------------------------- */
+function initIndustry() {
+  const yrInput = document.getElementById("ind-year");
+  const yrLabel = document.getElementById("ind-year-value");
+  const granSel = document.getElementById("ind-gran");
+  const TOP_N   = 10;
+
+  const years = uniqSorted(INDUSTRY, "year");
+  yrInput.min = Math.min(...years);
+  yrInput.max = Math.max(...years);
+  yrInput.value = 2018;
+  yrLabel.textContent = yrInput.value;
+
+  const labelFor = (gran, k) => {
+    if (gran === "Industry") {
+      const n = naceSections[k] || "";
+      return n ? `${k} — ${n}` : String(k);
+    }
+    return naceSubclasses[k] || ("NACE " + k);
+  };
+
+  const render = () => {
+    const year = parseInt(yrInput.value, 10);
+    const gran = granSel.value;
+    yrLabel.textContent = year;
+
+    const rows = INDUSTRY.filter(r => r.year === year);
+    const agg = {};
+    for (const r of rows) {
+      const k = r[gran];
+      agg[k] = (agg[k] || 0) + r.MNE_profit_shifting;
+    }
+    const sorted = Object.entries(agg).sort((a,b) => b[1] - a[1]).slice(0, TOP_N);
+    sorted.reverse();
+
+    const trace = {
+      type: "bar", orientation: "h",
+      x: sorted.map(d => d[1]),
+      y: sorted.map(d => labelFor(gran, d[0])),
+      marker: { color: "#c84b1a" },
+      hovertemplate: "%{y}<br>$%{x:.2f} bn<extra></extra>"
+    };
+
+    const layout = {
+      title: {
+        text: (gran === "Industry"
+          ? `Top 10 NACE sections by profit shifted — ${year}`
+          : `Top 10 NACE sub-classes by profit shifted — ${year}`),
+        font: { size: 15 }
+      },
+      xaxis: { title: { text: "Profit shifted (US$ bn)" }, gridcolor: "#eef1f5" },
+      yaxis: { automargin: true, tickfont: { size: 11 } },
+      margin: { l: 20, r: 24, t: 44, b: 48 },
+      paper_bgcolor: "#ffffff", plot_bgcolor: "#ffffff",
+      height: Math.max(420, 32 * sorted.length + 140)
+    };
+    Plotly.react("ind-chart", [trace], layout, { displaylogo: false, responsive: true });
+    setStatus(document.getElementById("ind-status"), `${rows.length} rows in ${year}`, false);
+  };
+
+  yrInput.addEventListener("input", render);
+  granSel.addEventListener("change", render);
+  render();
+}
+</script>
+</body>
+</html>

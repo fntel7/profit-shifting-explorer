@@ -28,19 +28,22 @@
     background: var(--bg);
     line-height: 1.45;
   }
-  .wrap { max-width: 1200px; margin: 0 auto; padding: 8px 16px 10px; }
+  .wrap { max-width: 1200px; margin: 0 auto; padding: 18px 20px 28px; }
+  header { margin-bottom: 22px; }
   header h1 {
-    font-size: 20px; margin: 0 0 2px; color: var(--primary); letter-spacing: -0.01em;
+    font-size: 32px; margin: 0 0 8px; color: var(--primary); letter-spacing: -0.015em;
+    font-weight: 700; line-height: 1.15;
   }
   header p.subtitle {
-    margin: 0 0 10px; color: var(--muted); font-size: 13px;
+    margin: 0; color: var(--muted); font-size: 13px; line-height: 1.5;
+    white-space: nowrap;
   }
 
   /* Tabs */
-  .tabs { display: flex; gap: 2px; border-bottom: 2px solid var(--border); margin-bottom: 10px; flex-wrap: wrap; }
+  .tabs { display: flex; gap: 4px; border-bottom: 2px solid var(--border); margin-bottom: 22px; flex-wrap: wrap; }
   .tab-btn {
     background: transparent; border: 0; border-bottom: 2px solid transparent;
-    padding: 8px 14px; font-size: 14px; font-weight: 500; color: var(--muted);
+    padding: 10px 18px; font-size: 14.5px; font-weight: 500; color: var(--muted);
     cursor: pointer; margin-bottom: -2px; font-family: inherit;
   }
   .tab-btn:hover { color: var(--primary); }
@@ -52,56 +55,70 @@
 
   /* Controls */
   .controls {
-    display: flex; gap: 12px; flex-wrap: wrap; align-items: center;
-    padding: 8px 12px; background: var(--bg-soft); border: 1px solid var(--border);
-    border-radius: 6px; margin-bottom: 8px;
+    display: flex; gap: 16px; flex-wrap: wrap; align-items: flex-start;
+    padding: 14px 16px; background: var(--bg-soft); border: 1px solid var(--border);
+    border-radius: 8px; margin-bottom: 18px;
   }
-  .control { display: flex; flex-direction: column; gap: 4px; min-width: 180px; }
-  .control label { font-size: 12px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.03em; }
+  .control { display: flex; flex-direction: column; gap: 6px; min-width: 180px; }
+  .control label { font-size: 12px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; }
   .control select, .control input[type="range"] {
-    padding: 6px 8px; font-size: 14px; border: 1px solid var(--border); border-radius: 4px;
+    padding: 7px 9px; font-size: 14px; border: 1px solid var(--border); border-radius: 4px;
     font-family: inherit; background: white;
   }
-  .control select[multiple] { min-height: 200px; min-width: 340px; }
-  .slider-row { display: flex; align-items: center; gap: 8px; }
-  .slider-row input[type="range"] { flex: 1; }
+  .control select[multiple] { min-height: 200px; min-width: 360px; }
+  .slider-row { display: flex; align-items: center; gap: 10px; }
+  .slider-row input[type="range"] { flex: 1; height: 6px; accent-color: var(--primary); cursor: pointer; }
   .slider-row .year-value {
-    font-variant-numeric: tabular-nums; font-weight: 600; color: var(--primary);
-    min-width: 3.5ch; text-align: right;
+    font-variant-numeric: tabular-nums; font-weight: 700; color: var(--primary);
+    min-width: 3.5ch; text-align: right; font-size: 16px;
+  }
+  .year-hint {
+    font-size: 11px; color: var(--muted); font-style: italic; margin-top: 2px;
   }
 
   /* Info box */
   .info {
-    padding: 8px 10px; background: var(--bg-info); border-left: 3px solid var(--accent);
-    font-size: 12.5px; line-height: 1.4; color: var(--ink); margin-bottom: 8px; border-radius: 3px;
+    padding: 14px 16px; background: var(--bg-info); border-left: 3px solid var(--accent);
+    font-size: 13.5px; line-height: 1.55; color: var(--ink); margin-bottom: 20px; border-radius: 4px;
   }
   .info strong { color: var(--primary); }
+  .info ol { margin: 8px 0 0; padding-left: 22px; }
+  .info ol li { margin-bottom: 4px; }
+  .info p { margin: 0 0 6px; }
+  .info p:last-child { margin-bottom: 0; }
 
   /* Chart */
-  .chart { width: 100%; min-height: 440px; border: 1px solid var(--border); border-radius: 6px; background: white; }
+  .chart { width: 100%; min-height: 440px; border: 1px solid var(--border); border-radius: 8px; background: white; margin-bottom: 10px; }
 
   /* Status */
-  .status { padding: 6px; text-align: center; color: var(--muted); font-size: 12px; }
+  .status { padding: 8px; text-align: center; color: var(--muted); font-size: 12px; margin-bottom: 4px; }
   .status.error { color: #b00020; }
 
   /* Footer */
   footer {
-    margin-top: 10px; padding-top: 8px; border-top: 1px solid var(--border);
-    font-size: 11px; color: var(--muted); line-height: 1.4;
+    margin-top: 28px; padding-top: 14px; border-top: 1px solid var(--border);
+    font-size: 11.5px; color: var(--muted); line-height: 1.5;
   }
-  footer p { margin: 2px 0; }
+  footer p { margin: 4px 0; }
   footer a { color: var(--accent); }
   footer .citation {
     font-family: ui-monospace, "SF Mono", Consolas, monospace;
-    background: var(--bg-soft); padding: 4px 8px; border-radius: 3px;
-    margin: 3px 0; font-size: 10.5px; color: var(--ink);
+    background: var(--bg-soft); padding: 6px 10px; border-radius: 3px;
+    margin: 4px 0; font-size: 10.5px; color: var(--ink);
+  }
+
+  @media (max-width: 1100px) {
+    header p.subtitle { white-space: normal; }
   }
 
   @media (max-width: 640px) {
-    .controls { padding: 10px; }
+    .wrap { padding: 14px 14px 22px; }
+    header h1 { font-size: 24px; }
+    header p.subtitle { font-size: 12.5px; white-space: normal; }
+    .controls { padding: 12px; gap: 12px; }
     .control { min-width: 100%; }
     .control select[multiple] { min-width: 100%; }
-    header h1 { font-size: 18px; }
+    .info { padding: 12px 14px; font-size: 13px; }
   }
 </style>
 </head>
@@ -123,32 +140,33 @@
 </div>
 
 <!-- ================================================================
-     TAB 1 — Choropleth map (top-5 GUOs only)
+     TAB 1 — Choropleth map (top-5 / top-20 GUOs)
      ================================================================ -->
 <section class="tab-panel active" id="tab-map">
   <div class="controls">
     <div class="control">
-      <label for="map-guo">GUO country (top 5 by total)</label>
+      <label for="map-guo">GUO country (top 20)</label>
       <select id="map-guo"></select>
     </div>
-    <div class="control" style="flex: 1; min-width: 280px;">
+    <div class="control" style="flex: 1; min-width: 300px;">
       <label for="map-year">Year</label>
       <div class="slider-row">
-        <input type="range" id="map-year" min="2009" max="2020" step="1" value="2018">
-        <span class="year-value" id="map-year-value">2018</span>
+        <input type="range" id="map-year" min="2009" max="2020" step="1" value="2020">
+        <span class="year-value" id="map-year-value">2020</span>
       </div>
+      <small class="year-hint">Drag the slider to change year (2009–2020).</small>
     </div>
   </div>
 
   <div class="info">
-    <strong>How to read this map.</strong>
-    Pick a GUO country and a year. The map then shades each country by how much profit was shifted by MNEs
-    whose Global Ultimate Owner sits in the chosen GUO country <em>and</em> whose lowest-tax jurisdiction
-    is that shaded country. <strong>Shaded countries and the overlay bubbles are therefore lowest-tax
-    jurisdictions, not the GUO country itself.</strong> Values are joint aggregates over the
-    (GUO, lowest-tax country) combination — <strong>not</strong> bilateral flows. Small-island tax havens
-    are marked with circles sized by value so they remain visible at world scale. Countries with no data
-    for the combination are left light grey.
+    <strong>How to read the map.</strong>
+    <ol>
+      <li>Select a GUO country and a year.</li>
+      <li>The map shows lowest-tax jurisdictions linked to MNE groups whose parent firm is in the selected GUO country.</li>
+      <li>Shaded countries with bubbles are those lowest-tax jurisdictions. Bubble size reflects the estimated profit shifted for that GUO × lowest-tax country combination. Values are group-level aggregates, not bilateral profit flows.</li>
+      <li>The selected GUO country itself appears unshaded and without a bubble.</li>
+      <li>Light grey countries have no estimate for the selected combination.</li>
+    </ol>
   </div>
 
   <div id="map-chart" class="chart" style="min-height: 480px;"></div>
@@ -180,25 +198,26 @@
      ================================================================ -->
 <section class="tab-panel" id="tab-industry">
   <div class="controls">
-    <div class="control" style="flex: 1; min-width: 280px;">
+    <div class="control" style="flex: 1; min-width: 300px;">
       <label for="ind-year">Year</label>
       <div class="slider-row">
-        <input type="range" id="ind-year" min="2009" max="2020" step="1" value="2018">
-        <span class="year-value" id="ind-year-value">2018</span>
+        <input type="range" id="ind-year" min="2009" max="2020" step="1" value="2020">
+        <span class="year-value" id="ind-year-value">2020</span>
       </div>
+      <small class="year-hint">Drag the slider to change year (2009–2020).</small>
     </div>
     <div class="control">
       <label for="ind-gran">Granularity</label>
       <select id="ind-gran">
-        <option value="Industry" selected>NACE section (19 broad)</option>
+        <option value="Industry" selected>NACE section (broad)</option>
         <option value="Nacerev">NACE sub-class (detailed)</option>
       </select>
     </div>
   </div>
 
   <div class="info">
-    Top-10 industries by total profit shifted in the chosen year. Values are in billions of US dollars.
-    The GUO's industry classification follows NACE Rev. 2.
+    <p><strong>Top-10 GUO industries by profit shifted in the chosen year.</strong></p>
+    <p>Industries here refer to the <strong>Global Ultimate Owner's</strong> (parent firm's) industry classification under NACE Rev. 2 — not the industry of the lowest-tax subsidiary. The top-ranked industry is highlighted in navy. Values are in billions of US dollars.</p>
   </div>
 
   <div id="ind-chart" class="chart"></div>
@@ -365,7 +384,8 @@ const COLORSCALE_REDORANGE = [
   [0.75, "#d73027"],
   [1.00, "#a50026"]
 ];
-const LINE_PALETTE = ["#003d7a","#c84b1a","#1f77b4","#6ba8d6","#e08214","#8c564b"];
+// Six visually distinct, colorblind-friendly hues (Okabe–Ito subset).
+const LINE_PALETTE = ["#0072B2","#D55E00","#009E73","#CC79A7","#56B4E9","#E69F00"];
 
 // --- Tab switching
 document.querySelectorAll(".tab-btn").forEach(btn => {
@@ -380,7 +400,7 @@ document.querySelectorAll(".tab-btn").forEach(btn => {
 // --- State
 let COUNTRY = [];
 let INDUSTRY = [];
-let TOP_GUOS = [];     // top-5 by all-time total
+let TOP_GUOS = [];     // top-20 by all-time total (sliced to 5/20 in the map UI)
 let TOP_PAIRS = [];    // top-20 (guo, ltc) pairs
 
 // --- Helpers
@@ -409,10 +429,10 @@ Promise.all([loadCSV("country_data.csv"), loadCSV("industry_data.csv")])
     COUNTRY  = country.filter(r => r.year && r.guocountry && r.lowest_tax_country);
     INDUSTRY = industry.filter(r => r.year && r.Industry && r.Nacerev !== undefined && r.Nacerev !== null);
 
-    // Top-5 GUOs
+    // Top-20 GUOs (sliced to 5 / 20 in the map UI via the topN toggle)
     const guoTot = {};
     for (const r of COUNTRY) guoTot[r.guocountry] = (guoTot[r.guocountry] || 0) + r.MNE_profit_shifting;
-    TOP_GUOS = Object.entries(guoTot).sort((a,b) => b[1]-a[1]).slice(0,5).map(([g]) => g);
+    TOP_GUOS = Object.entries(guoTot).sort((a,b) => b[1]-a[1]).slice(0,20).map(([g]) => g);
 
     // Top-20 (GUO, lowest-tax) pairs
     const pairTot = {};
@@ -448,7 +468,7 @@ function initMap() {
   const years = uniqSorted(COUNTRY, "year");
   yrInput.min = Math.min(...years);
   yrInput.max = Math.max(...years);
-  yrInput.value = 2018;
+  yrInput.value = 2020;
   yrLabel.textContent = yrInput.value;
 
   const render = () => {
@@ -614,7 +634,7 @@ function initIndustry() {
   const years = uniqSorted(INDUSTRY, "year");
   yrInput.min = Math.min(...years);
   yrInput.max = Math.max(...years);
-  yrInput.value = 2018;
+  yrInput.value = 2020;
   yrLabel.textContent = yrInput.value;
 
   const labelFor = (gran, k) => {
@@ -638,12 +658,16 @@ function initIndustry() {
     }
     const sorted = Object.entries(agg).sort((a,b) => b[1] - a[1]).slice(0, TOP_N);
     sorted.reverse();
+    // After reverse(), the top-ranked bar sits at the last index (top of the chart).
+    const HIGHLIGHT = "#003d7a";   // navy for #1
+    const REGULAR   = "#c84b1a";   // orange for the rest
+    const barColors = sorted.map((_, i) => i === sorted.length - 1 ? HIGHLIGHT : REGULAR);
 
     const trace = {
       type: "bar", orientation: "h",
       x: sorted.map(d => d[1]),
       y: sorted.map(d => labelFor(gran, d[0])),
-      marker: { color: "#c84b1a" },
+      marker: { color: barColors },
       hovertemplate: "%{y}<br>$%{x:.2f} bn<extra></extra>"
     };
 

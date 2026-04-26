@@ -387,6 +387,20 @@ const COLORSCALE_REDORANGE = [
 // Six visually distinct, colorblind-friendly hues (Okabe–Ito subset).
 const LINE_PALETTE = ["#0072B2","#D55E00","#009E73","#CC79A7","#56B4E9","#E69F00"];
 
+// --- Mobile-aware helpers (kept narrow: ≤640px matches the existing CSS breakpoint).
+// Desktop layout is untouched — every site of use guards with isMobile().
+const MOBILE_BP = 640;
+const isMobile = () => window.matchMedia(`(max-width: ${MOBILE_BP}px)`).matches;
+function chartConfig() {
+  return isMobile()
+    ? { displayModeBar: false, responsive: true, displaylogo: false }
+    : { displayModeBar: true,  responsive: true, displaylogo: false };
+}
+
+// Registry of render functions so a single resize listener can re-fire them
+// when the viewport crosses the mobile breakpoint (e.g. phone rotation).
+const RENDERERS = [];
+
 // --- Tab switching
 document.querySelectorAll(".tab-btn").forEach(btn => {
   btn.addEventListener("click", () => {
@@ -489,7 +503,16 @@ function initMap() {
     const fillLocs = rows.map(r => fixName(r.lowest_tax_country));
     const rawNames = rows.map(r => r.lowest_tax_country);
 
-    // Choropleth fill
+    // Choropleth fill — colorbar moves to a horizontal bar at the bottom on mobile
+    // so the actual map can use the full width instead of being squeezed by a
+    // vertical legend on the right.
+    const colorbarConf = isMobile()
+      ? { title: { text: "US$ bn", side: "top", font: { size: 11 } },
+          thickness: 9, len: 0.85, orientation: "h",
+          x: 0.5, xanchor: "center", y: -0.05, yanchor: "top" }
+      : { title: { text: "US$ bn", side: "right", font: { size: 12 } },
+          thickness: 12, len: 0.75, x: 1.02 };
+
     const fillTrace = {
       type: "choropleth",
       locationmode: "country names",
@@ -501,10 +524,7 @@ function initMap() {
       colorscale: COLORSCALE_REDORANGE,
       zmin: 0, zmax: maxVal,
       marker: { line: { color: "#ffffff", width: 0.4 } },
-      colorbar: {
-        title: { text: "US$ bn", side: "right", font: { size: 12 } },
-        thickness: 12, len: 0.75, x: 1.02
-      },
+      colorbar: colorbarConf,
       showscale: true
     };
 
@@ -541,10 +561,14 @@ function initMap() {
       showlegend: false
     };
 
+    const titleText = isMobile()
+      ? `MNEs with GUO in <b>${guo}</b><br>${year}`
+      : `Profit shifted by MNEs with GUO in <b>${guo}</b> — ${year}`;
+
     const layout = {
       title: {
-        text: `Profit shifted by MNEs with GUO in <b>${guo}</b> — ${year}`,
-        font: { size: 15, color: "#0b1f3a" }
+        text: titleText,
+        font: { size: isMobile() ? 13 : 15, color: "#0b1f3a" }
       },
       geo: {
         projection: { type: "natural earth" },
@@ -554,16 +578,19 @@ function initMap() {
         showocean: true, oceancolor: "#ffffff",
         bgcolor: "rgba(0,0,0,0)"
       },
-      margin: { l: 4, r: 4, t: 36, b: 4 },
+      // Extra bottom margin on mobile leaves room for the horizontal colorbar.
+      margin: isMobile()
+        ? { l: 4, r: 4, t: 50, b: 70 }
+        : { l: 4, r: 4, t: 36, b: 4 },
       paper_bgcolor: "#ffffff"
     };
 
-    Plotly.react("map-chart", [fillTrace, bubbleTrace], layout,
-                 { displaylogo: false, responsive: true });
+    Plotly.react("map-chart", [fillTrace, bubbleTrace], layout, chartConfig());
   };
 
   guoSel.addEventListener("change", render);
   yrInput.addEventListener("input", render);
+  RENDERERS.push(render);
   render();
 }
 
@@ -609,18 +636,28 @@ function initTimeseries() {
       };
     });
 
+    const titleText = isMobile()
+      ? "GUO · lowest-tax pairs<br>2009–2020"
+      : "Profit shifted by GUO · lowest-tax pair, 2009–2020";
+
     const layout = {
-      title: { text: "Profit shifted by GUO · lowest-tax pair, 2009–2020", font: { size: 15 } },
-      xaxis: { title: { text: "Year" }, dtick: 1, gridcolor: "#eef1f5" },
-      yaxis: { title: { text: "Profit shifted (US$ bn)" }, gridcolor: "#eef1f5", rangemode: "tozero" },
-      margin: { l: 58, r: 16, t: 36, b: 40 },
+      title: { text: titleText, font: { size: isMobile() ? 13 : 15 } },
+      xaxis: { title: { text: "Year" }, dtick: isMobile() ? 2 : 1, gridcolor: "#eef1f5" },
+      yaxis: {
+        title: { text: isMobile() ? "US$ bn" : "Profit shifted (US$ bn)" },
+        gridcolor: "#eef1f5", rangemode: "tozero"
+      },
+      margin: isMobile()
+        ? { l: 42, r: 10, t: 50, b: 36 }
+        : { l: 58, r: 16, t: 36, b: 40 },
       paper_bgcolor: "#ffffff", plot_bgcolor: "#ffffff",
-      legend: { orientation: "h", y: -0.22, font: { size: 11 } }
+      legend: { orientation: "h", y: -0.22, font: { size: isMobile() ? 10 : 11 } }
     };
-    Plotly.react("ts-chart", traces, layout, { displaylogo: false, responsive: true });
+    Plotly.react("ts-chart", traces, layout, chartConfig());
   };
 
   sel.addEventListener("change", render);
+  RENDERERS.push(render);
   render();
 }
 
@@ -671,27 +708,51 @@ function initIndustry() {
       hovertemplate: "%{y}<br>$%{x:.2f} bn<extra></extra>"
     };
 
+    // Mobile: shorter title, smaller tick font (long NACE labels otherwise wrap
+    // and crowd the bars), tighter margins, slightly more vertical room per bar.
+    const titleText = (gran === "Industry"
+      ? (isMobile() ? `Top 10 NACE sections<br>${year}` : `Top 10 NACE sections by profit shifted — ${year}`)
+      : (isMobile() ? `Top 10 NACE sub-classes<br>${year}` : `Top 10 NACE sub-classes by profit shifted — ${year}`));
+
     const layout = {
-      title: {
-        text: (gran === "Industry"
-          ? `Top 10 NACE sections by profit shifted — ${year}`
-          : `Top 10 NACE sub-classes by profit shifted — ${year}`),
-        font: { size: 15 }
+      title: { text: titleText, font: { size: isMobile() ? 13 : 15 } },
+      xaxis: {
+        title: { text: isMobile() ? "US$ bn" : "Profit shifted (US$ bn)" },
+        gridcolor: "#eef1f5"
       },
-      xaxis: { title: { text: "Profit shifted (US$ bn)" }, gridcolor: "#eef1f5" },
-      yaxis: { automargin: true, tickfont: { size: 11 } },
-      margin: { l: 18, r: 18, t: 36, b: 40 },
+      yaxis: { automargin: true, tickfont: { size: isMobile() ? 9 : 11 } },
+      margin: isMobile()
+        ? { l: 4, r: 8, t: 50, b: 40 }
+        : { l: 18, r: 18, t: 36, b: 40 },
       paper_bgcolor: "#ffffff", plot_bgcolor: "#ffffff",
-      height: Math.max(360, 28 * sorted.length + 110)
+      height: Math.max(isMobile() ? 420 : 360, (isMobile() ? 32 : 28) * sorted.length + 130)
     };
-    Plotly.react("ind-chart", [trace], layout, { displaylogo: false, responsive: true });
+    Plotly.react("ind-chart", [trace], layout, chartConfig());
     setStatus(document.getElementById("ind-status"), `${rows.length} rows in ${year}`, false);
   };
 
   yrInput.addEventListener("input", render);
   granSel.addEventListener("change", render);
+  RENDERERS.push(render);
   render();
 }
+
+/* -------- Re-render charts when viewport crosses the mobile breakpoint
+   (e.g. phone rotation, desktop window resize). Plotly's `responsive: true`
+   already handles width changes, but our title/colorbar/margin choices
+   depend on isMobile() and won't auto-update without a re-render. -------- */
+let _wasMobile = isMobile();
+let _resizeTimer = null;
+window.addEventListener("resize", () => {
+  clearTimeout(_resizeTimer);
+  _resizeTimer = setTimeout(() => {
+    const nowMobile = isMobile();
+    if (nowMobile !== _wasMobile) {
+      _wasMobile = nowMobile;
+      RENDERERS.forEach(fn => { try { fn(); } catch (e) { console.error(e); } });
+    }
+  }, 200);
+});
 </script>
 </body>
 </html>
